@@ -1,0 +1,2241 @@
+[
+  {
+    "search_id": "S0001",
+    "product_id": "P0001",
+    "product_name": "Puma Running Shoes",
+    "product_url": "http://example.com/product/p0001",
+    "reviews": [
+      {
+        "review_id": "R0001",
+        "user_id": "U0003",
+        "rating": 5,
+        "feedback": "Great shoes for running! Very comfortable and provide excellent support."
+      },
+      {
+        "review_id": "R0002",
+        "user_id": "U0050",
+        "rating": 4,
+        "feedback": "Stylish design and comfortable fit. Good value for the price."
+      }
+    ]
+  },
+  {
+    "search_id": "S0002",
+    "product_id": "P0002",
+    "product_name": "Adidas UltraBoost",
+    "product_url": "http://example.com/product/p0002",
+    "reviews": [
+      {
+        "review_id": "R0003",
+        "user_id": "U0036",
+        "rating": 4,
+        "feedback": "Excellent shoes! They feel great while running and look fantastic."
+      },
+      {
+        "review_id": "R0004",
+        "user_id": "U0049",
+        "rating": 5,
+        "feedback": "Superb comfort and durability. Perfect for long-distance running."
+      }
+    ]
+  },
+  {
+    "search_id": "S0003",
+    "product_id": "P0003",
+    "product_name": "L'Or\uff83\uff69al Mascara",
+    "product_url": "http://example.com/product/p0003",
+    "reviews": [
+      {
+        "review_id": "R0005",
+        "user_id": "U0001",
+        "rating": 3,
+        "feedback": "Good mascara, but I expected more lengthening effect."
+      },
+      {
+        "review_id": "R0006",
+        "user_id": "U0004",
+        "rating": 4,
+        "feedback": "Really adds volume to my lashes! Easy to apply and long-lasting."
+      }
+    ]
+  },
+  {
+    "search_id": "S0004",
+    "product_id": "P0004",
+    "product_name": "Apple iPhone 13",
+    "product_url": "http://example.com/product/p0004",
+    "reviews": [
+      {
+        "review_id": "R0007",
+        "user_id": "U0037",
+        "rating": 5,
+        "feedback": "Outstanding phone! Fast performance, great camera quality, and sleek design."
+      },
+      {
+        "review_id": "R0008",
+        "user_id": "U0083",
+        "rating": 2,
+        "feedback": "Disappointed with battery life. Otherwise, it's a good phone."
+      }
+    ]
+  },
+  {
+    "search_id": "S0005",
+    "product_id": "P0005",
+    "product_name": "Nike T-Shirt",
+    "product_url": "http://example.com/product/p0005",
+    "reviews": [
+      {
+        "review_id": "R0009",
+        "user_id": "U0024",
+        "rating": 4,
+        "feedback": "Comfortable fit and excellent quality fabric. Very satisfied with my purchase."
+      },
+      {
+        "review_id": "R0010",
+        "user_id": "U0062",
+        "rating": 5,
+        "feedback": "Perfect for workouts! Breathable and stylish."
+      }
+    ]
+  },
+  {
+    "search_id": "S0006",
+    "product_id": "P0006",
+    "product_name": "Samsung Galaxy Tab S7",
+    "product_url": "http://example.com/product/p0006",
+    "reviews": [
+      {
+        "review_id": "R0011",
+        "user_id": "U0001",
+        "rating": 5,
+        "feedback": "Exceptional tablet! Great for productivity and entertainment."
+      },
+      {
+        "review_id": "R0012",
+        "user_id": "U0005",
+        "rating": 4,
+        "feedback": "Fast and responsive. Ideal for work on the go."
+      }
+    ]
+  },
+  {
+    "search_id": "S0007",
+    "product_id": "P0007",
+    "product_name": "Ray-Ban Sunglasses",
+    "product_url": "http://example.com/product/p0007",
+    "reviews": [
+      {
+        "review_id": "R0013",
+        "user_id": "U0026",
+        "rating": 4,
+        "feedback": "Classic and stylish sunglasses. Perfect for sunny days."
+      }
+    ]
+  },
+  {
+    "search_id": "S0008",
+    "product_id": "P0008",
+    "product_name": "Adidas Tracksuit",
+    "product_url": "http://example.com/product/p0008",
+    "reviews": [
+      {
+        "review_id": "R0015",
+        "user_id": "U0051",
+        "rating": 5,
+        "feedback": "Very comfortable and stylish tracksuit. Fits perfectly!"
+      },
+      {
+        "review_id": "R0016",
+        "user_id": "U0059",
+        "rating": 4,
+        "feedback": "Great for workouts or casual wear. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "search_id": "S0009",
+    "product_id": "P0009",
+    "product_name": "Maybelline Lipstick",
+    "product_url": "http://example.com/product/p0009",
+    "reviews": [
+      {
+        "review_id": "R0017",
+        "user_id": "U0057",
+        "rating": 3,
+        "feedback": "Nice color range, but doesn't last as long as expected."
+      },
+      {
+        "review_id": "R0018",
+        "user_id": "U0063",
+        "rating": 4,
+        "feedback": "Smooth application and vibrant colors. Good everyday lipstick."
+      }
+    ]
+  },
+  {
+    "search_id": "S0010",
+    "product_id": "P0010",
+    "product_name": "Nike Soccer Ball",
+    "product_url": "http://example.com/product/p0010",
+    "reviews": [
+      {
+        "review_id": "R0019",
+        "user_id": "U0036",
+        "rating": 5,
+        "feedback": "Excellent quality ball! Durable and maintains good shape."
+      },
+      {
+        "review_id": "R0020",
+        "user_id": "U0053",
+        "rating": 3,
+        "feedback": "Good for training, but could be more responsive."
+      }
+    ]
+  },
+  {
+    "search_id": "S0011",
+    "product_id": "P0011",
+    "product_name": "Sony Noise-Cancelling Headphones",
+    "product_url": "http://example.com/product/p0011",
+    "reviews": [
+      {
+        "review_id": "R0021",
+        "user_id": "U0013",
+        "rating": 5,
+        "feedback": "Amazing sound quality and noise cancellation! Perfect for travel."
+      },
+      {
+        "review_id": "R0022",
+        "user_id": "U0017",
+        "rating": 4,
+        "feedback": "Great headphones, comfortable to wear for long periods."
+      }
+    ]
+  },
+  {
+    "search_id": "S0012",
+    "product_id": "P0012",
+    "product_name": "H&M Winter Jacket",
+    "product_url": "http://example.com/product/p0012",
+    "reviews": [
+      {
+        "review_id": "R0023",
+        "user_id": "U0028",
+        "rating": 3,
+        "feedback": "Looks good but not very warm. Expected better insulation."
+      }
+    ]
+  },
+  {
+    "search_id": "S0013",
+    "product_id": "P0013",
+    "product_name": "Gucci Watch",
+    "product_url": "http://example.com/product/p0013",
+    "reviews": [
+      {
+        "review_id": "R0025",
+        "user_id": "U0027",
+        "rating": 5,
+        "feedback": "Absolutely stunning! Elegant design and impeccable craftsmanship."
+      },
+      {
+        "review_id": "R0026",
+        "user_id": "U0064",
+        "rating": 1,
+        "feedback": "Disappointed with the quality. Not worth the price."
+      }
+    ]
+  },
+  {
+    "search_id": "S0014",
+    "product_id": "P0014",
+    "product_name": "MAC Foundation",
+    "product_url": "http://example.com/product/p0014",
+    "reviews": [
+      {
+        "review_id": "R0027",
+        "user_id": "U0012",
+        "rating": 4,
+        "feedback": "Smooth application and excellent coverage. Matches my skin tone perfectly."
+      },
+      {
+        "review_id": "R0028",
+        "user_id": "U0060",
+        "rating": 2,
+        "feedback": "Caused breakouts on my skin. Not suitable for sensitive skin."
+      }
+    ]
+  },
+  {
+    "search_id": "S0015",
+    "product_id": "P0015",
+    "product_name": "Adidas Hoodie",
+    "product_url": "http://example.com/product/p0015",
+    "reviews": [
+      {
+        "review_id": "R0029",
+        "user_id": "U0004",
+        "rating": 5,
+        "feedback": "Love this hoodie! Comfortable and stylish. Great for casual wear."
+      },
+      {
+        "review_id": "R0030",
+        "user_id": "U0030",
+        "rating": 1,
+        "feedback": "Poor quality fabric. Faded after the first wash."
+      }
+    ]
+  },
+  {
+    "search_id": "S0016",
+    "product_id": "P0016",
+    "product_name": "Bose Wireless Speakers",
+    "product_url": "http://example.com/product/p0016",
+    "reviews": [
+      {
+        "review_id": "R0031",
+        "user_id": "U0012",
+        "rating": 4,
+        "feedback": "Excellent sound quality and easy setup. Perfect for home entertainment."
+      },
+      {
+        "review_id": "R0032",
+        "user_id": "U0035",
+        "rating": 2,
+        "feedback": "Stopped connecting to devices after a month. Disappointing."
+      }
+    ]
+  },
+  {
+    "search_id": "S0017",
+    "product_id": "P0017",
+    "product_name": "Nike Backpack",
+    "product_url": "http://example.com/product/p0017",
+    "reviews": [
+      {
+        "review_id": "R0033",
+        "user_id": "U0088",
+        "rating": 5,
+        "feedback": "Spacious and durable. Fits all my essentials for travel."
+      },
+      {
+        "review_id": "R0034",
+        "user_id": "U0095",
+        "rating": 3,
+        "feedback": "Zipper broke after a few uses. Otherwise, it's a good backpack."
+      }
+    ]
+  },
+  {
+    "search_id": "S0018",
+    "product_id": "P0018",
+    "product_name": "Wilson Tennis Racket",
+    "product_url": "http://example.com/product/p0018",
+    "reviews": [
+      {
+        "review_id": "R0035",
+        "user_id": "U0037",
+        "rating": 5,
+        "feedback": "Excellent control and power. Improved my game significantly."
+      },
+      {
+        "review_id": "R0036",
+        "user_id": "U0048",
+        "rating": 1,
+        "feedback": "Poor quality grip. Handle started peeling off after a few matches."
+      }
+    ]
+  },
+  {
+    "search_id": "S0019",
+    "product_id": "P0019",
+    "product_name": "Urban Decay Eyeshadow Palette",
+    "product_url": "http://example.com/product/p0019",
+    "reviews": [
+      {
+        "review_id": "R0037",
+        "user_id": "U0042",
+        "rating": 4,
+        "feedback": "Lovely colors and blends well. Perfect for creating different looks."
+      },
+      {
+        "review_id": "R0038",
+        "user_id": "U0051",
+        "rating": 2,
+        "feedback": "Colors faded quickly. Not as vibrant as expected."
+      }
+    ]
+  },
+  {
+    "search_id": "S0020",
+    "product_id": "P0020",
+    "product_name": "Under Armour Leggings",
+    "product_url": "http://example.com/product/p0020",
+    "reviews": [
+      {
+        "review_id": "R0039",
+        "user_id": "U0041",
+        "rating": 5,
+        "feedback": "Perfect fit and very comfortable. Great for workouts!"
+      },
+      {
+        "review_id": "R0040",
+        "user_id": "U0058",
+        "rating": 3,
+        "feedback": "Seams started coming apart after a few washes. Expected better durability."
+      }
+    ]
+  },
+  {
+    "search_id": "S0021",
+    "product_id": "P0021",
+    "product_name": "New Balance Running Shoes",
+    "product_url": "http://example.com/product/p0021",
+    "reviews": [
+      {
+        "review_id": "R0041",
+        "user_id": "U0008",
+        "rating": 4,
+        "feedback": "Comfortable and lightweight. Great for long runs."
+      },
+      {
+        "review_id": "R0042",
+        "user_id": "U0013",
+        "rating": 1,
+        "feedback": "Caused blisters on my feet. Very uncomfortable."
+      }
+    ]
+  },
+  {
+    "search_id": "S0022",
+    "product_id": "P0022",
+    "product_name": "Dell XPS 15 Laptop",
+    "product_url": "http://example.com/product/p0022",
+    "reviews": [
+      {
+        "review_id": "R0043",
+        "user_id": "U0025",
+        "rating": 5,
+        "feedback": "Incredible performance and stunning display. Perfect for work and gaming."
+      },
+      {
+        "review_id": "R0044",
+        "user_id": "U0076",
+        "rating": 2,
+        "feedback": "Overheats frequently. Had to get it serviced twice already."
+      }
+    ]
+  },
+  {
+    "search_id": "S0023",
+    "product_id": "P0023",
+    "product_name": "Zara Jeans",
+    "product_url": "http://example.com/product/p0023",
+    "reviews": [
+      {
+        "review_id": "R0045",
+        "user_id": "U0036",
+        "rating": 4,
+        "feedback": "Stylish and comfortable fit. Good quality denim."
+      },
+      {
+        "review_id": "R0046",
+        "user_id": "U0053",
+        "rating": 1,
+        "feedback": "Ripped after wearing just a few times. Poor durability."
+      }
+    ]
+  },
+  {
+    "search_id": "S0024",
+    "product_id": "P0024",
+    "product_name": "Fossil Smartwatch",
+    "product_url": "http://example.com/product/p0024",
+    "reviews": [
+      {
+        "review_id": "R0047",
+        "user_id": "U0060",
+        "rating": 5,
+        "feedback": "Love the design and functionality. Easy to use and looks great."
+      },
+      {
+        "review_id": "R0048",
+        "user_id": "U0082",
+        "rating": 3,
+        "feedback": "Battery life is shorter than expected. Needs frequent charging."
+      }
+    ]
+  },
+  {
+    "search_id": "S0025",
+    "product_id": "P0025",
+    "product_name": "Revlon Lip Gloss",
+    "product_url": "http://example.com/product/p0025",
+    "reviews": [
+      {
+        "review_id": "R0049",
+        "user_id": "U0023",
+        "rating": 4,
+        "feedback": "Nice shine and moisturizing. Looks great on."
+      },
+      {
+        "review_id": "R0050",
+        "user_id": "U0047",
+        "rating": 1,
+        "feedback": "Sticky and unpleasant texture. Didn't like it at all."
+      }
+    ]
+  },
+  {
+    "search_id": "S0026",
+    "product_id": "P0026",
+    "product_name": "Garmin GPS Running Watch",
+    "product_url": "http://example.com/product/p0026",
+    "reviews": [
+      {
+        "review_id": "R0051",
+        "user_id": "U0055",
+        "rating": 5,
+        "feedback": "Accurate GPS tracking and great for monitoring runs."
+      },
+      {
+        "review_id": "R0052",
+        "user_id": "U0090",
+        "rating": 2,
+        "feedback": "Difficult to navigate the menus. Not very user-friendly."
+      }
+    ]
+  },
+  {
+    "search_id": "S0027",
+    "product_id": "P0027",
+    "product_name": "GoPro Hero 10",
+    "product_url": "http://example.com/product/p0027",
+    "reviews": [
+      {
+        "review_id": "R0053",
+        "user_id": "U0015",
+        "rating": 4,
+        "feedback": "Amazing video quality and durable build. Perfect for action shots."
+      },
+      {
+        "review_id": "R0054",
+        "user_id": "U0019",
+        "rating": 1,
+        "feedback": "Frequent freezing issues. Unreliable during important recordings."
+      }
+    ]
+  },
+  {
+    "search_id": "S0028",
+    "product_id": "P0028",
+    "product_name": "Hollister Hoodie",
+    "product_url": "http://example.com/product/p0028",
+    "reviews": [
+      {
+        "review_id": "R0055",
+        "user_id": "U0001",
+        "rating": 5,
+        "feedback": "Comfortable and stylish hoodie. Great for casual outings."
+      },
+      {
+        "review_id": "R0056",
+        "user_id": "U0038",
+        "rating": 1,
+        "feedback": "Poor stitching quality. Threads started coming loose after a week."
+      }
+    ]
+  },
+  {
+    "search_id": "S0029",
+    "product_id": "P0029",
+    "product_name": "Oakley Sunglasses",
+    "product_url": "http://example.com/product/p0029",
+    "reviews": [
+      {
+        "review_id": "R0057",
+        "user_id": "U0097",
+        "rating": 4,
+        "feedback": "Durable and comfortable. Provides great sun protection."
+      }
+    ]
+  },
+  {
+    "search_id": "S0030",
+    "product_id": "P0030",
+    "product_name": "Est\uff83\uff69e Lauder Foundation",
+    "product_url": "http://example.com/product/p0030",
+    "reviews": [
+      {
+        "review_id": "R0059",
+        "user_id": "U0005",
+        "rating": 3,
+        "feedback": "Good coverage but feels heavy on the skin. Not breathable."
+      },
+      {
+        "review_id": "R0060",
+        "user_id": "U0020",
+        "rating": 1,
+        "feedback": "Caused breakouts and didn't blend well. Disappointing."
+      }
+    ]
+  },
+  {
+    "search_id": "S0031",
+    "product_id": "P0031",
+    "product_name": "Sketchers Sneakers",
+    "product_url": "http://example.com/product/p0031",
+    "reviews": []
+  },
+  {
+    "search_id": "S0032",
+    "product_id": "P0032",
+    "product_name": "H&M Basic T-Shirt",
+    "product_url": "http://example.com/product/p0032",
+    "reviews": [
+      {
+        "review_id": "R0063",
+        "user_id": "U0064",
+        "rating": 5,
+        "feedback": "Soft and fits well. Essential for everyday wear."
+      },
+      {
+        "review_id": "R0064",
+        "user_id": "U0074",
+        "rating": 3,
+        "feedback": "Fabric is a bit thin. Expected better quality."
+      }
+    ]
+  },
+  {
+    "search_id": "S0033",
+    "product_id": "P0033",
+    "product_name": "Amazon Kindle Paperwhite",
+    "product_url": "http://example.com/product/p0033",
+    "reviews": [
+      {
+        "review_id": "R0065",
+        "user_id": "U0025",
+        "rating": 5,
+        "feedback": "Love the screen clarity and built-in light. Perfect for reading."
+      },
+      {
+        "review_id": "R0066",
+        "user_id": "U0067",
+        "rating": 4,
+        "feedback": "Easy to use and lightweight. Great for traveling."
+      }
+    ]
+  },
+  {
+    "search_id": "S0034",
+    "product_id": "P0034",
+    "product_name": "Montblanc Fountain Pen",
+    "product_url": "http://example.com/product/p0034",
+    "reviews": [
+      {
+        "review_id": "R0067",
+        "user_id": "U0010",
+        "rating": 5,
+        "feedback": "Beautiful pen with smooth writing experience. Worth the price."
+      },
+      {
+        "review_id": "R0068",
+        "user_id": "U0040",
+        "rating": 2,
+        "feedback": "Ink flow is inconsistent. Expected better performance."
+      }
+    ]
+  },
+  {
+    "search_id": "S0035",
+    "product_id": "P0035",
+    "product_name": "Clinique Moisturizer",
+    "product_url": "http://example.com/product/p0035",
+    "reviews": [
+      {
+        "review_id": "R0069",
+        "user_id": "U0004",
+        "rating": 4,
+        "feedback": "Keeps skin moisturized all day. Good for sensitive skin."
+      },
+      {
+        "review_id": "R0070",
+        "user_id": "U0014",
+        "rating": 1,
+        "feedback": "Caused breakouts on my skin. Not suitable for acne-prone skin."
+      }
+    ]
+  },
+  {
+    "search_id": "S0036",
+    "product_id": "P0036",
+    "product_name": "Tommy Hilfiger Jacket",
+    "product_url": "http://example.com/product/p0036",
+    "reviews": [
+      {
+        "review_id": "R0071",
+        "user_id": "U0020",
+        "rating": 5,
+        "feedback": "Excellent quality jacket. Stylish and warm."
+      },
+      {
+        "review_id": "R0072",
+        "user_id": "U0023",
+        "rating": 3,
+        "feedback": "Zipper gets stuck sometimes. Otherwise, it's great."
+      }
+    ]
+  },
+  {
+    "search_id": "S0037",
+    "product_id": "P0037",
+    "product_name": "Vans Classic Slip-Ons",
+    "product_url": "http://example.com/product/p0037",
+    "reviews": []
+  },
+  {
+    "search_id": "S0038",
+    "product_id": "P0038",
+    "product_name": "Microsoft Surface Laptop 4",
+    "product_url": "http://example.com/product/p0038",
+    "reviews": [
+      {
+        "review_id": "R0075",
+        "user_id": "U0002",
+        "rating": 4,
+        "feedback": "Fast and responsive laptop. Great for work and presentations."
+      },
+      {
+        "review_id": "R0076",
+        "user_id": "U0050",
+        "rating": 2,
+        "feedback": "Battery life is shorter than expected. Needs frequent charging."
+      }
+    ]
+  },
+  {
+    "search_id": "S0039",
+    "product_id": "P0039",
+    "product_name": "Wilson Tennis Balls",
+    "product_url": "http://example.com/product/p0039",
+    "reviews": [
+      {
+        "review_id": "R0077",
+        "user_id": "U0092",
+        "rating": 5,
+        "feedback": "Durable and reliable tennis balls. Perfect for practice."
+      }
+    ]
+  },
+  {
+    "search_id": "S0040",
+    "product_id": "P0040",
+    "product_name": "Coach Wallet",
+    "product_url": "http://example.com/product/p0040",
+    "reviews": [
+      {
+        "review_id": "R0079",
+        "user_id": "U0041",
+        "rating": 4,
+        "feedback": "High-quality leather wallet. Stylish and practical."
+      },
+      {
+        "review_id": "R0080",
+        "user_id": "U0099",
+        "rating": 1,
+        "feedback": "Stitching came loose after a few weeks. Expected better durability."
+      }
+    ]
+  },
+  {
+    "search_id": "S0041",
+    "product_id": "P0041",
+    "product_name": "NYX Lip Liner",
+    "product_url": "http://example.com/product/p0041",
+    "reviews": [
+      {
+        "review_id": "R0081",
+        "user_id": "U0018",
+        "rating": 3,
+        "feedback": "Good color payoff. Lasts long but feels a bit dry."
+      },
+      {
+        "review_id": "R0082",
+        "user_id": "U0034",
+        "rating": 1,
+        "feedback": "Broke easily. Not worth the price."
+      }
+    ]
+  },
+  {
+    "search_id": "S0042",
+    "product_id": "P0042",
+    "product_name": "Forever 21 Dress",
+    "product_url": "http://example.com/product/p0042",
+    "reviews": [
+      {
+        "review_id": "R0083",
+        "user_id": "U0005",
+        "rating": 5,
+        "feedback": "Beautiful dress. Fits perfectly and looks elegant."
+      },
+      {
+        "review_id": "R0084",
+        "user_id": "U0018",
+        "rating": 2,
+        "feedback": "Fabric feels cheap. Not as expected from Forever 21."
+      }
+    ]
+  },
+  {
+    "search_id": "S0043",
+    "product_id": "P0043",
+    "product_name": "Fitbit Charge 5",
+    "product_url": "http://example.com/product/p0043",
+    "reviews": [
+      {
+        "review_id": "R0085",
+        "user_id": "U0056",
+        "rating": 4,
+        "feedback": "Accurate fitness tracking. Great for monitoring workouts."
+      }
+    ]
+  },
+  {
+    "search_id": "S0044",
+    "product_id": "P0044",
+    "product_name": "Herschel Backpack",
+    "product_url": "http://example.com/product/p0044",
+    "reviews": [
+      {
+        "review_id": "R0087",
+        "user_id": "U0020",
+        "rating": 5,
+        "feedback": "Spacious and comfortable backpack. Great for daily use."
+      },
+      {
+        "review_id": "R0088",
+        "user_id": "U0030",
+        "rating": 2,
+        "feedback": "Straps started fraying after a few months. Expected better quality."
+      }
+    ]
+  },
+  {
+    "search_id": "S0045",
+    "product_id": "P0045",
+    "product_name": "Bobbi Brown Highlighter",
+    "product_url": "http://example.com/product/p0045",
+    "reviews": [
+      {
+        "review_id": "R0089",
+        "user_id": "U0031",
+        "rating": 4,
+        "feedback": "Gives a natural glow. Easy to apply and blend."
+      },
+      {
+        "review_id": "R0090",
+        "user_id": "U0048",
+        "rating": 1,
+        "feedback": "Too glittery for my liking. Not suitable for everyday use."
+      }
+    ]
+  },
+  {
+    "search_id": "S0046",
+    "product_id": "P0046",
+    "product_name": "Converse Chuck Taylor Sneakers",
+    "product_url": "http://example.com/product/p0046",
+    "reviews": [
+      {
+        "review_id": "R0091",
+        "user_id": "U0011",
+        "rating": 5,
+        "feedback": "Classic and comfortable sneakers. Love the timeless style."
+      },
+      {
+        "review_id": "R0092",
+        "user_id": "U0067",
+        "rating": 3,
+        "feedback": "Sole wears out quickly with frequent use."
+      }
+    ]
+  },
+  {
+    "search_id": "S0047",
+    "product_id": "P0047",
+    "product_name": "Uniqlo Polo Shirt",
+    "product_url": "http://example.com/product/p0047",
+    "reviews": [
+      {
+        "review_id": "R0093",
+        "user_id": "U0015",
+        "rating": 4,
+        "feedback": "Comfortable and fits well. Good for casual wear."
+      }
+    ]
+  },
+  {
+    "search_id": "S0048",
+    "product_id": "P0048",
+    "product_name": "JBL Bluetooth Speaker",
+    "product_url": "http://example.com/product/p0048",
+    "reviews": [
+      {
+        "review_id": "R0095",
+        "user_id": "U0031",
+        "rating": 5,
+        "feedback": "Impressive sound quality. Portable and easy to use."
+      },
+      {
+        "review_id": "R0096",
+        "user_id": "U0063",
+        "rating": 3,
+        "feedback": "Bluetooth connection sometimes unstable. Needs improvement."
+      }
+    ]
+  },
+  {
+    "search_id": "S0049",
+    "product_id": "P0049",
+    "product_name": "Nike Sports Socks",
+    "product_url": "http://example.com/product/p0049",
+    "reviews": [
+      {
+        "review_id": "R0097",
+        "user_id": "U0059",
+        "rating": 4,
+        "feedback": "Comfortable socks. Good for sports and workouts."
+      }
+    ]
+  },
+  {
+    "search_id": "S0050",
+    "product_id": "P0050",
+    "product_name": "Tumi Travel Backpack",
+    "product_url": "http://example.com/product/p0050",
+    "reviews": [
+      {
+        "review_id": "R0099",
+        "user_id": "U0055",
+        "rating": 5,
+        "feedback": "Spacious and durable backpack. Perfect for travel."
+      },
+      {
+        "review_id": "R0100",
+        "user_id": "U0072",
+        "rating": 1,
+        "feedback": "Zippers broke after a few trips. Not reliable for travel."
+      }
+    ]
+  },
+  {
+    "search_id": "S0051",
+    "product_id": "P0051",
+    "product_name": "Skechers Go Walk Shoes",
+    "product_url": "http://example.com/product/p0051",
+    "reviews": []
+  },
+  {
+    "search_id": "S0052",
+    "product_id": "P0052",
+    "product_name": "Sony PlayStation 5",
+    "product_url": "http://example.com/product/p0052",
+    "reviews": [
+      {
+        "review_id": "R0103",
+        "user_id": "U0034",
+        "rating": 5,
+        "feedback": "Amazing gaming experience. Graphics are stunning."
+      },
+      {
+        "review_id": "R0104",
+        "user_id": "U0048",
+        "rating": 2,
+        "feedback": "Runs loud and heats up quickly. Needs better cooling."
+      }
+    ]
+  },
+  {
+    "search_id": "S0053",
+    "product_id": "P0053",
+    "product_name": "Gap Denim Jacket",
+    "product_url": "http://example.com/product/p0053",
+    "reviews": [
+      {
+        "review_id": "R0105",
+        "user_id": "U0015",
+        "rating": 4,
+        "feedback": "Stylish and fits well. Perfect for layering."
+      },
+      {
+        "review_id": "R0106",
+        "user_id": "U0032",
+        "rating": 1,
+        "feedback": "Quality is not as expected. Fabric feels thin."
+      }
+    ]
+  },
+  {
+    "search_id": "S0054",
+    "product_id": "P0054",
+    "product_name": "Michael Kors Crossbody Bag",
+    "product_url": "http://example.com/product/p0054",
+    "reviews": [
+      {
+        "review_id": "R0107",
+        "user_id": "U0010",
+        "rating": 5,
+        "feedback": "Love the design and size. Perfect for daily use."
+      },
+      {
+        "review_id": "R0108",
+        "user_id": "U0015",
+        "rating": 3,
+        "feedback": "Strap broke after a few months. Disappointed with durability."
+      }
+    ]
+  },
+  {
+    "search_id": "S0055",
+    "product_id": "P0055",
+    "product_name": "Neutrogena Sunscreen",
+    "product_url": "http://example.com/product/p0055",
+    "reviews": [
+      {
+        "review_id": "R0109",
+        "user_id": "U0020",
+        "rating": 4,
+        "feedback": "Effective sunscreen. Doesn't leave a greasy feel."
+      },
+      {
+        "review_id": "R0110",
+        "user_id": "U0038",
+        "rating": 2,
+        "feedback": "Leaves a white cast on the skin. Not suitable for darker skin tones."
+      }
+    ]
+  },
+  {
+    "search_id": "S0056",
+    "product_id": "P0056",
+    "product_name": "Adidas Soccer Cleats",
+    "product_url": "http://example.com/product/p0056",
+    "reviews": [
+      {
+        "review_id": "R0111",
+        "user_id": "U0016",
+        "rating": 5,
+        "feedback": "Excellent cleats for soccer. Comfortable and provide good grip."
+      },
+      {
+        "review_id": "R0112",
+        "user_id": "U0064",
+        "rating": 1,
+        "feedback": "Sole started peeling off after a few uses. Poor quality."
+      }
+    ]
+  },
+  {
+    "search_id": "S0057",
+    "product_id": "P0057",
+    "product_name": "Canon EOS Rebel T7i",
+    "product_url": "http://example.com/product/p0057",
+    "reviews": []
+  },
+  {
+    "search_id": "S0058",
+    "product_id": "P0058",
+    "product_name": "American Eagle Graphic T-Shirt",
+    "product_url": "http://example.com/product/p0058",
+    "reviews": [
+      {
+        "review_id": "R0115",
+        "user_id": "U0014",
+        "rating": 3,
+        "feedback": "Nice design but fabric is thin. Not very durable."
+      },
+      {
+        "review_id": "R0116",
+        "user_id": "U0029",
+        "rating": 1,
+        "feedback": "Shrank after the first wash. Disappointed with quality."
+      }
+    ]
+  },
+  {
+    "search_id": "S0059",
+    "product_id": "P0059",
+    "product_name": "Louis Vuitton Belt",
+    "product_url": "http://example.com/product/p0059",
+    "reviews": [
+      {
+        "review_id": "R0117",
+        "user_id": "U0051",
+        "rating": 5,
+        "feedback": "Luxurious belt. Excellent craftsmanship."
+      }
+    ]
+  },
+  {
+    "search_id": "S0060",
+    "product_id": "P0060",
+    "product_name": "Kiehl's Facial Cream",
+    "product_url": "http://example.com/product/p0060",
+    "reviews": [
+      {
+        "review_id": "R0119",
+        "user_id": "U0092",
+        "rating": 4,
+        "feedback": "Moisturizes well without feeling greasy. Good for dry skin."
+      }
+    ]
+  },
+  {
+    "search_id": "S0061",
+    "product_id": "P0061",
+    "product_name": "Vans Old Skool Sneakers",
+    "product_url": "http://example.com/product/p0061",
+    "reviews": [
+      {
+        "review_id": "R0121",
+        "user_id": "U0013",
+        "rating": 5,
+        "feedback": "Classic sneakers with a timeless style. Comfortable for everyday wear."
+      },
+      {
+        "review_id": "R0122",
+        "user_id": "U0035",
+        "rating": 3,
+        "feedback": "Sole started wearing out sooner than expected."
+      }
+    ]
+  },
+  {
+    "search_id": "S0062",
+    "product_id": "P0062",
+    "product_name": "Zara Sweater",
+    "product_url": "http://example.com/product/p0062",
+    "reviews": [
+      {
+        "review_id": "R0123",
+        "user_id": "U0018",
+        "rating": 4,
+        "feedback": "Warm and stylish sweater. Fits well and is comfortable."
+      },
+      {
+        "review_id": "R0124",
+        "user_id": "U0072",
+        "rating": 2,
+        "feedback": "Fabric started pilling after a few washes."
+      }
+    ]
+  },
+  {
+    "search_id": "S0063",
+    "product_id": "P0063",
+    "product_name": "Apple iPad Pro",
+    "product_url": "http://example.com/product/p0063",
+    "reviews": [
+      {
+        "review_id": "R0125",
+        "user_id": "U0046",
+        "rating": 5,
+        "feedback": "Powerful tablet with a stunning display. Great for work and entertainment."
+      }
+    ]
+  },
+  {
+    "search_id": "S0064",
+    "product_id": "P0064",
+    "product_name": "Puma Baseball Cap",
+    "product_url": "http://example.com/product/p0064",
+    "reviews": [
+      {
+        "review_id": "R0127",
+        "user_id": "U0027",
+        "rating": 4,
+        "feedback": "Comfortable and stylish cap. Fits well."
+      },
+      {
+        "review_id": "R0128",
+        "user_id": "U0048",
+        "rating": 3,
+        "feedback": "Fabric is a bit thin. Expected better quality."
+      }
+    ]
+  },
+  {
+    "search_id": "S0065",
+    "product_id": "P0065",
+    "product_name": "Burt's Bees Lip Balm",
+    "product_url": "http://example.com/product/p0065",
+    "reviews": [
+      {
+        "review_id": "R0129",
+        "user_id": "U0035",
+        "rating": 5,
+        "feedback": "Moisturizes lips well. Natural ingredients feel good on the skin."
+      },
+      {
+        "review_id": "R0130",
+        "user_id": "U0041",
+        "rating": 2,
+        "feedback": "Feels waxy and doesn't absorb well."
+      }
+    ]
+  },
+  {
+    "search_id": "S0066",
+    "product_id": "P0066",
+    "product_name": "Wilson Golf Clubs Set",
+    "product_url": "http://example.com/product/p0066",
+    "reviews": [
+      {
+        "review_id": "R0131",
+        "user_id": "U0008",
+        "rating": 4,
+        "feedback": "Good quality golf clubs. Great for beginners."
+      },
+      {
+        "review_id": "R0132",
+        "user_id": "U0057",
+        "rating": 1,
+        "feedback": "Clubs felt heavy and difficult to swing."
+      }
+    ]
+  },
+  {
+    "search_id": "S0067",
+    "product_id": "P0067",
+    "product_name": "Reebok CrossFit Shoes",
+    "product_url": "http://example.com/product/p0067",
+    "reviews": [
+      {
+        "review_id": "R0133",
+        "user_id": "U0013",
+        "rating": 5,
+        "feedback": "Great shoes for CrossFit. Comfortable and provide good support."
+      },
+      {
+        "review_id": "R0134",
+        "user_id": "U0062",
+        "rating": 3,
+        "feedback": "Sole started peeling off after a few uses."
+      }
+    ]
+  },
+  {
+    "search_id": "S0068",
+    "product_id": "P0068",
+    "product_name": "Levi's Jeans",
+    "product_url": "http://example.com/product/p0068",
+    "reviews": [
+      {
+        "review_id": "R0135",
+        "user_id": "U0023",
+        "rating": 4,
+        "feedback": "Classic jeans with a good fit. Durable and stylish."
+      },
+      {
+        "review_id": "R0136",
+        "user_id": "U0030",
+        "rating": 2,
+        "feedback": "Fabric feels stiff and uncomfortable."
+      }
+    ]
+  },
+  {
+    "search_id": "S0069",
+    "product_id": "P0069",
+    "product_name": "Nikon D5600 DSLR Camera",
+    "product_url": "http://example.com/product/p0069",
+    "reviews": [
+      {
+        "review_id": "R0137",
+        "user_id": "U0011",
+        "rating": 5,
+        "feedback": "Excellent camera for photography enthusiasts. Captures great details."
+      },
+      {
+        "review_id": "R0138",
+        "user_id": "U0013",
+        "rating": 3,
+        "feedback": "Menu interface could be more user-friendly."
+      }
+    ]
+  },
+  {
+    "search_id": "S0070",
+    "product_id": "P0070",
+    "product_name": "Coach Leather Backpack",
+    "product_url": "http://example.com/product/p0070",
+    "reviews": [
+      {
+        "review_id": "R0139",
+        "user_id": "U0002",
+        "rating": 4,
+        "feedback": "Luxurious leather backpack. Stylish and spacious."
+      },
+      {
+        "review_id": "R0140",
+        "user_id": "U0008",
+        "rating": 1,
+        "feedback": "Leather started peeling after a few months. Disappointed with durability."
+      }
+    ]
+  },
+  {
+    "search_id": "S0071",
+    "product_id": "P0071",
+    "product_name": "NARS Blush",
+    "product_url": "http://example.com/product/p0071",
+    "reviews": [
+      {
+        "review_id": "R0141",
+        "user_id": "U0064",
+        "rating": 5,
+        "feedback": "Beautiful shade with excellent pigmentation. Gives a natural glow."
+      },
+      {
+        "review_id": "R0142",
+        "user_id": "U0067",
+        "rating": 3,
+        "feedback": "Color is nice but a bit too powdery."
+      }
+    ]
+  },
+  {
+    "search_id": "S0072",
+    "product_id": "P0072",
+    "product_name": "Salomon Hiking Boots",
+    "product_url": "http://example.com/product/p0072",
+    "reviews": [
+      {
+        "review_id": "R0143",
+        "user_id": "U0026",
+        "rating": 4,
+        "feedback": "Sturdy boots with good ankle support. Comfortable for long hikes."
+      },
+      {
+        "review_id": "R0144",
+        "user_id": "U0081",
+        "rating": 2,
+        "feedback": "Sole started peeling after a few uses."
+      }
+    ]
+  },
+  {
+    "search_id": "S0073",
+    "product_id": "P0073",
+    "product_name": "Hollister Tank Top",
+    "product_url": "http://example.com/product/p0073",
+    "reviews": [
+      {
+        "review_id": "R0145",
+        "user_id": "U0038",
+        "rating": 3,
+        "feedback": "Comfortable tank top for casual wear."
+      }
+    ]
+  },
+  {
+    "search_id": "S0074",
+    "product_id": "P0074",
+    "product_name": "Razer Gaming Mouse",
+    "product_url": "http://example.com/product/p0074",
+    "reviews": [
+      {
+        "review_id": "R0147",
+        "user_id": "U0008",
+        "rating": 5,
+        "feedback": "Highly responsive mouse with great precision. Perfect for gaming."
+      },
+      {
+        "review_id": "R0148",
+        "user_id": "U0050",
+        "rating": 4,
+        "feedback": "Comfortable grip and customizable buttons."
+      }
+    ]
+  },
+  {
+    "search_id": "S0075",
+    "product_id": "P0075",
+    "product_name": "Timberland Belt",
+    "product_url": "http://example.com/product/p0075",
+    "reviews": [
+      {
+        "review_id": "R0149",
+        "user_id": "U0023",
+        "rating": 4,
+        "feedback": "Solid construction with a stylish buckle. Fits well."
+      },
+      {
+        "review_id": "R0150",
+        "user_id": "U0047",
+        "rating": 3,
+        "feedback": "Leather started showing wear sooner than expected."
+      }
+    ]
+  },
+  {
+    "search_id": "S0076",
+    "product_id": "P0076",
+    "product_name": "Tarte Eyeshadow Palette",
+    "product_url": "http://example.com/product/p0076",
+    "reviews": [
+      {
+        "review_id": "R0151",
+        "user_id": "U0019",
+        "rating": 5,
+        "feedback": "Love the variety of shades. Applies smoothly and lasts all day."
+      },
+      {
+        "review_id": "R0152",
+        "user_id": "U0044",
+        "rating": 2,
+        "feedback": "Some shades are chalky and don't blend well."
+      }
+    ]
+  },
+  {
+    "search_id": "S0077",
+    "product_id": "P0077",
+    "product_name": "Merrell Trail Running Shoes",
+    "product_url": "http://example.com/product/p0077",
+    "reviews": [
+      {
+        "review_id": "R0153",
+        "user_id": "U0004",
+        "rating": 4,
+        "feedback": "Excellent grip on trails. Comfortable for long runs."
+      },
+      {
+        "review_id": "R0154",
+        "user_id": "U0025",
+        "rating": 3,
+        "feedback": "Could use more cushioning for rocky terrain."
+      }
+    ]
+  },
+  {
+    "search_id": "S0078",
+    "product_id": "P0078",
+    "product_name": "Express Blouse",
+    "product_url": "http://example.com/product/p0078",
+    "reviews": [
+      {
+        "review_id": "R0155",
+        "user_id": "U0071",
+        "rating": 5,
+        "feedback": "Fits perfectly and looks great for both work and casual outings."
+      },
+      {
+        "review_id": "R0156",
+        "user_id": "U0075",
+        "rating": 4,
+        "feedback": "Fabric is soft and breathable."
+      }
+    ]
+  },
+  {
+    "search_id": "S0079",
+    "product_id": "P0079",
+    "product_name": "Bose Soundbar 700",
+    "product_url": "http://example.com/product/p0079",
+    "reviews": [
+      {
+        "review_id": "R0157",
+        "user_id": "U0056",
+        "rating": 5,
+        "feedback": "Impressive sound quality with clear dialogue and deep bass."
+      }
+    ]
+  },
+  {
+    "search_id": "S0080",
+    "product_id": "P0080",
+    "product_name": "Prada Sunglasses",
+    "product_url": "http://example.com/product/p0080",
+    "reviews": [
+      {
+        "review_id": "R0159",
+        "user_id": "U0082",
+        "rating": 4,
+        "feedback": "Stylish design with excellent UV protection."
+      },
+      {
+        "review_id": "R0160",
+        "user_id": "U0099",
+        "rating": 2,
+        "feedback": "Frames feel a bit flimsy for the price."
+      }
+    ]
+  },
+  {
+    "search_id": "S0081",
+    "product_id": "P0081",
+    "product_name": "Maybelline Mascara",
+    "product_url": "http://example.com/product/p0081",
+    "reviews": [
+      {
+        "review_id": "R0161",
+        "user_id": "U0012",
+        "rating": 3,
+        "feedback": "Provides good volume but can clump."
+      },
+      {
+        "review_id": "R0162",
+        "user_id": "U0047",
+        "rating": 1,
+        "feedback": "Flakes off easily. Not long-lasting."
+      }
+    ]
+  },
+  {
+    "search_id": "S0082",
+    "product_id": "P0082",
+    "product_name": "Under Armour Running Shorts",
+    "product_url": "http://example.com/product/p0082",
+    "reviews": [
+      {
+        "review_id": "R0163",
+        "user_id": "U0019",
+        "rating": 5,
+        "feedback": "Lightweight and breathable. Perfect for running."
+      },
+      {
+        "review_id": "R0164",
+        "user_id": "U0025",
+        "rating": 4,
+        "feedback": "Drawstring could be more secure."
+      }
+    ]
+  },
+  {
+    "search_id": "S0083",
+    "product_id": "P0083",
+    "product_name": "Brooks Running Shoes",
+    "product_url": "http://example.com/product/p0083",
+    "reviews": [
+      {
+        "review_id": "R0165",
+        "user_id": "U0091",
+        "rating": 4,
+        "feedback": "Comfortable shoes with good arch support."
+      }
+    ]
+  },
+  {
+    "search_id": "S0084",
+    "product_id": "P0084",
+    "product_name": "Gap Sweater",
+    "product_url": "http://example.com/product/p0084",
+    "reviews": [
+      {
+        "review_id": "R0167",
+        "user_id": "U0064",
+        "rating": 5,
+        "feedback": "Cozy sweater with a nice fit. Perfect for cooler days."
+      },
+      {
+        "review_id": "R0168",
+        "user_id": "U0068",
+        "rating": 3,
+        "feedback": "Fabric is a bit scratchy."
+      }
+    ]
+  },
+  {
+    "search_id": "S0085",
+    "product_id": "P0085",
+    "product_name": "Samsung Galaxy Watch",
+    "product_url": "http://example.com/product/p0085",
+    "reviews": [
+      {
+        "review_id": "R0169",
+        "user_id": "U0078",
+        "rating": 4,
+        "feedback": "Great smartwatch with useful health features."
+      }
+    ]
+  },
+  {
+    "search_id": "S0086",
+    "product_id": "P0086",
+    "product_name": "Ray-Ban Aviator Sunglasses",
+    "product_url": "http://example.com/product/p0086",
+    "reviews": [
+      {
+        "review_id": "R0171",
+        "user_id": "U0001",
+        "rating": 5,
+        "feedback": "Classic style with excellent sun protection."
+      },
+      {
+        "review_id": "R0172",
+        "user_id": "U0005",
+        "rating": 3,
+        "feedback": "Frames are a bit wide for smaller faces."
+      }
+    ]
+  },
+  {
+    "search_id": "S0087",
+    "product_id": "P0087",
+    "product_name": "L'Or\uff83\uff69al Lipstick",
+    "product_url": "http://example.com/product/p0087",
+    "reviews": [
+      {
+        "review_id": "R0173",
+        "user_id": "U0045",
+        "rating": 4,
+        "feedback": "Rich color with a smooth application."
+      },
+      {
+        "review_id": "R0174",
+        "user_id": "U0046",
+        "rating": 5,
+        "feedback": "Long-lasting formula."
+      }
+    ]
+  },
+  {
+    "search_id": "S0088",
+    "product_id": "P0088",
+    "product_name": "Yonex Badminton Racket",
+    "product_url": "http://example.com/product/p0088",
+    "reviews": [
+      {
+        "review_id": "R0175",
+        "user_id": "U0033",
+        "rating": 5,
+        "feedback": "Excellent control and lightweight design."
+      },
+      {
+        "review_id": "R0176",
+        "user_id": "U0048",
+        "rating": 2,
+        "feedback": "String tension loosened quickly."
+      }
+    ]
+  },
+  {
+    "search_id": "S0089",
+    "product_id": "P0089",
+    "product_name": "Dr. Martens Boots",
+    "product_url": "http://example.com/product/p0089",
+    "reviews": []
+  },
+  {
+    "search_id": "S0090",
+    "product_id": "P0090",
+    "product_name": "Old Navy Tank Top",
+    "product_url": "http://example.com/product/p0090",
+    "reviews": [
+      {
+        "review_id": "R0179",
+        "user_id": "U0008",
+        "rating": 5,
+        "feedback": "Comfortable fit for everyday wear."
+      },
+      {
+        "review_id": "R0180",
+        "user_id": "U0023",
+        "rating": 4,
+        "feedback": "Affordable and versatile."
+      }
+    ]
+  },
+  {
+    "search_id": "S0091",
+    "product_id": "P0091",
+    "product_name": "Apple AirPods Pro",
+    "product_url": "http://example.com/product/p0091",
+    "reviews": [
+      {
+        "review_id": "R0181",
+        "user_id": "U0024",
+        "rating": 5,
+        "feedback": "Excellent noise cancellation and sound quality. Comfortable fit."
+      },
+      {
+        "review_id": "R0182",
+        "user_id": "U0040",
+        "rating": 4,
+        "feedback": "Great for calls and listening to music on the go."
+      }
+    ]
+  },
+  {
+    "search_id": "S0092",
+    "product_id": "P0092",
+    "product_name": "Gucci Wallet",
+    "product_url": "http://example.com/product/p0092",
+    "reviews": [
+      {
+        "review_id": "R0183",
+        "user_id": "U0026",
+        "rating": 5,
+        "feedback": "Luxurious feel and stylish design. Plenty of compartments."
+      },
+      {
+        "review_id": "R0184",
+        "user_id": "U0038",
+        "rating": 2,
+        "feedback": "Expensive for the quality. Not as durable as expected."
+      }
+    ]
+  },
+  {
+    "search_id": "S0093",
+    "product_id": "P0093",
+    "product_name": "Urban Decay Eyeshadow Palette",
+    "product_url": "http://example.com/product/p0093",
+    "reviews": [
+      {
+        "review_id": "R0185",
+        "user_id": "U0016",
+        "rating": 4,
+        "feedback": "Versatile palette with rich, blendable colors."
+      },
+      {
+        "review_id": "R0186",
+        "user_id": "U0053",
+        "rating": 5,
+        "feedback": "Great for creating both subtle and bold eye looks."
+      }
+    ]
+  },
+  {
+    "search_id": "S0094",
+    "product_id": "P0094",
+    "product_name": "Nike Gym Bag",
+    "product_url": "http://example.com/product/p0094",
+    "reviews": [
+      {
+        "review_id": "R0187",
+        "user_id": "U0026",
+        "rating": 4,
+        "feedback": "Spacious and durable. Fits all gym essentials."
+      },
+      {
+        "review_id": "R0188",
+        "user_id": "U0094",
+        "rating": 3,
+        "feedback": "Could use more internal pockets for organization."
+      }
+    ]
+  },
+  {
+    "search_id": "S0095",
+    "product_id": "P0095",
+    "product_name": "Asics Running Shoes",
+    "product_url": "http://example.com/product/p0095",
+    "reviews": [
+      {
+        "review_id": "R0189",
+        "user_id": "U0010",
+        "rating": 5,
+        "feedback": "Comfortable and supportive. Great for long-distance running."
+      },
+      {
+        "review_id": "R0190",
+        "user_id": "U0023",
+        "rating": 4,
+        "feedback": "Provides excellent cushioning. Runs slightly small."
+      }
+    ]
+  },
+  {
+    "search_id": "S0096",
+    "product_id": "P0096",
+    "product_name": "Forever 21 Crop Top",
+    "product_url": "http://example.com/product/p0096",
+    "reviews": [
+      {
+        "review_id": "R0191",
+        "user_id": "U0066",
+        "rating": 3,
+        "feedback": "Cute style but fabric is a bit thin."
+      },
+      {
+        "review_id": "R0192",
+        "user_id": "U0067",
+        "rating": 2,
+        "feedback": "Shrank after first wash. Not very durable."
+      }
+    ]
+  },
+  {
+    "search_id": "S0097",
+    "product_id": "P0097",
+    "product_name": "Sony Noise-Cancelling Headphones",
+    "product_url": "http://example.com/product/p0097",
+    "reviews": [
+      {
+        "review_id": "R0193",
+        "user_id": "U0016",
+        "rating": 5,
+        "feedback": "Superb noise cancellation. Crystal-clear sound quality."
+      },
+      {
+        "review_id": "R0194",
+        "user_id": "U0072",
+        "rating": 4,
+        "feedback": "Comfortable fit for long listening sessions."
+      }
+    ]
+  },
+  {
+    "search_id": "S0098",
+    "product_id": "P0098",
+    "product_name": "Kate Spade Earrings",
+    "product_url": "http://example.com/product/p0098",
+    "reviews": [
+      {
+        "review_id": "R0195",
+        "user_id": "U0014",
+        "rating": 4,
+        "feedback": "Beautiful design. Adds a touch of elegance to any outfit."
+      },
+      {
+        "review_id": "R0196",
+        "user_id": "U0018",
+        "rating": 3,
+        "feedback": "Posts are a bit fragile. Handle with care."
+      }
+    ]
+  },
+  {
+    "search_id": "S0099",
+    "product_id": "P0099",
+    "product_name": "MAC Lip Gloss",
+    "product_url": "http://example.com/product/p0099",
+    "reviews": [
+      {
+        "review_id": "R0197",
+        "user_id": "U0003",
+        "rating": 3,
+        "feedback": "Glossy finish but sticky texture."
+      },
+      {
+        "review_id": "R0198",
+        "user_id": "U0030",
+        "rating": 2,
+        "feedback": "Doesn't last long. Requires frequent reapplication."
+      }
+    ]
+  },
+  {
+    "search_id": "S0100",
+    "product_id": "P0100",
+    "product_name": "Under Armour Sports Gloves",
+    "product_url": "http://example.com/product/p0100",
+    "reviews": [
+      {
+        "review_id": "R0199",
+        "user_id": "U0053",
+        "rating": 4,
+        "feedback": "Durable gloves for various sports activities."
+      },
+      {
+        "review_id": "R0200",
+        "user_id": "U0086",
+        "rating": 5,
+        "feedback": "Comfortable fit and good grip."
+      }
+    ]
+  },
+  {
+    "search_id": "S0101",
+    "product_id": "P0101",
+    "product_name": "New Balance Running Shoes",
+    "product_url": "http://example.com/product/p0101",
+    "reviews": [
+      {
+        "review_id": "R0201",
+        "user_id": "U0015",
+        "rating": 5,
+        "feedback": "Lightweight and supportive. Great for running."
+      }
+    ]
+  },
+  {
+    "search_id": "S0102",
+    "product_id": "P0102",
+    "product_name": "Dell XPS 15 Laptop",
+    "product_url": "http://example.com/product/p0102",
+    "reviews": [
+      {
+        "review_id": "R0203",
+        "user_id": "U0013",
+        "rating": 5,
+        "feedback": "Powerful performance and stunning display."
+      },
+      {
+        "review_id": "R0204",
+        "user_id": "U0053",
+        "rating": 3,
+        "feedback": "Battery life could be better under heavy use."
+      }
+    ]
+  },
+  {
+    "search_id": "S0103",
+    "product_id": "P0103",
+    "product_name": "H&M Hoodie",
+    "product_url": "http://example.com/product/p0103",
+    "reviews": [
+      {
+        "review_id": "R0205",
+        "user_id": "U0014",
+        "rating": 3,
+        "feedback": "Comfortable hoodie but fabric pills quickly."
+      }
+    ]
+  },
+  {
+    "search_id": "S0104",
+    "product_id": "P0104",
+    "product_name": "Fossil Smartwatch",
+    "product_url": "http://example.com/product/p0104",
+    "reviews": [
+      {
+        "review_id": "R0207",
+        "user_id": "U0001",
+        "rating": 4,
+        "feedback": "Looks stylish with useful smart features."
+      },
+      {
+        "review_id": "R0208",
+        "user_id": "U0046",
+        "rating": 3,
+        "feedback": "Battery life could be better. Needs frequent charging."
+      }
+    ]
+  },
+  {
+    "search_id": "S0105",
+    "product_id": "P0105",
+    "product_name": "Clinique Moisturizer",
+    "product_url": "http://example.com/product/p0105",
+    "reviews": [
+      {
+        "review_id": "R0209",
+        "user_id": "U0008",
+        "rating": 5,
+        "feedback": "Hydrates well without feeling greasy."
+      },
+      {
+        "review_id": "R0210",
+        "user_id": "U0012",
+        "rating": 4,
+        "feedback": "Improves skin texture over time."
+      }
+    ]
+  },
+  {
+    "search_id": "S0106",
+    "product_id": "P0106",
+    "product_name": "Adidas Soccer Ball",
+    "product_url": "http://example.com/product/p0106",
+    "reviews": [
+      {
+        "review_id": "R0211",
+        "user_id": "U0002",
+        "rating": 4,
+        "feedback": "Durable and retains air well. Good for practice."
+      },
+      {
+        "review_id": "R0212",
+        "user_id": "U0030",
+        "rating": 3,
+        "feedback": "Slightly heavier than expected."
+      }
+    ]
+  },
+  {
+    "search_id": "S0107",
+    "product_id": "P0107",
+    "product_name": "Microsoft Surface Pro 7",
+    "product_url": "http://example.com/product/p0107",
+    "reviews": [
+      {
+        "review_id": "R0213",
+        "user_id": "U0064",
+        "rating": 5,
+        "feedback": "Versatile device with excellent performance."
+      },
+      {
+        "review_id": "R0214",
+        "user_id": "U0085",
+        "rating": 4,
+        "feedback": "Great for productivity and portability."
+      }
+    ]
+  },
+  {
+    "search_id": "S0108",
+    "product_id": "P0108",
+    "product_name": "Uniqlo Denim Jeans",
+    "product_url": "http://example.com/product/p0108",
+    "reviews": [
+      {
+        "review_id": "R0215",
+        "user_id": "U0040",
+        "rating": 4,
+        "feedback": "Comfortable fit with classic denim look."
+      },
+      {
+        "review_id": "R0216",
+        "user_id": "U0051",
+        "rating": 3,
+        "feedback": "Fabric feels thin. Not very durable."
+      }
+    ]
+  },
+  {
+    "search_id": "S0109",
+    "product_id": "P0109",
+    "product_name": "Chanel Perfume",
+    "product_url": "http://example.com/product/p0109",
+    "reviews": [
+      {
+        "review_id": "R0217",
+        "user_id": "U0042",
+        "rating": 5,
+        "feedback": "Exquisite fragrance that lasts all day."
+      },
+      {
+        "review_id": "R0218",
+        "user_id": "U0076",
+        "rating": 4,
+        "feedback": "Elegant bottle design. Perfect for special occasions."
+      }
+    ]
+  },
+  {
+    "search_id": "S0110",
+    "product_id": "P0110",
+    "product_name": "Est\uff83\uff69e Lauder Foundation",
+    "product_url": "http://example.com/product/p0110",
+    "reviews": [
+      {
+        "review_id": "R0219",
+        "user_id": "U0047",
+        "rating": 4,
+        "feedback": "Provides excellent coverage. Feels lightweight."
+      },
+      {
+        "review_id": "R0220",
+        "user_id": "U0053",
+        "rating": 3,
+        "feedback": "Can be a bit drying. Requires good moisturizer."
+      }
+    ]
+  },
+  {
+    "search_id": "S0111",
+    "product_id": "P0111",
+    "product_name": "Converse Chuck Taylor Sneakers",
+    "product_url": "http://example.com/product/p0111",
+    "reviews": [
+      {
+        "review_id": "R0221",
+        "user_id": "U0062",
+        "rating": 5,
+        "feedback": "Timeless style and comfortable fit."
+      },
+      {
+        "review_id": "R0222",
+        "user_id": "U0078",
+        "rating": 4,
+        "feedback": "Versatile for casual and semi-formal occasions."
+      }
+    ]
+  },
+  {
+    "search_id": "S0112",
+    "product_id": "P0112",
+    "product_name": "Tommy Hilfiger Polo Shirt",
+    "product_url": "http://example.com/product/p0112",
+    "reviews": [
+      {
+        "review_id": "R0223",
+        "user_id": "U0005",
+        "rating": 4,
+        "feedback": "Classic design with comfortable fabric."
+      },
+      {
+        "review_id": "R0224",
+        "user_id": "U0027",
+        "rating": 3,
+        "feedback": "Sizes run slightly large. Consider sizing down."
+      }
+    ]
+  },
+  {
+    "search_id": "S0113",
+    "product_id": "P0113",
+    "product_name": "Samsung 8K QLED TV",
+    "product_url": "http://example.com/product/p0113",
+    "reviews": [
+      {
+        "review_id": "R0225",
+        "user_id": "U0044",
+        "rating": 5,
+        "feedback": "Incredible picture quality. Stunning colors."
+      },
+      {
+        "review_id": "R0226",
+        "user_id": "U0047",
+        "rating": 4,
+        "feedback": "Easy setup and user-friendly interface."
+      }
+    ]
+  },
+  {
+    "search_id": "S0114",
+    "product_id": "P0114",
+    "product_name": "Guess Wallet",
+    "product_url": "http://example.com/product/p0114",
+    "reviews": [
+      {
+        "review_id": "R0227",
+        "user_id": "U0057",
+        "rating": 3,
+        "feedback": "Stylish design but lacks sufficient card slots."
+      },
+      {
+        "review_id": "R0228",
+        "user_id": "U0076",
+        "rating": 4,
+        "feedback": "Good quality leather. Fits well in pockets."
+      }
+    ]
+  },
+  {
+    "search_id": "S0115",
+    "product_id": "P0115",
+    "product_name": "Revlon Lip Gloss",
+    "product_url": "http://example.com/product/p0115",
+    "reviews": [
+      {
+        "review_id": "R0229",
+        "user_id": "U0013",
+        "rating": 4,
+        "feedback": "Smooth application with a glossy finish."
+      },
+      {
+        "review_id": "R0230",
+        "user_id": "U0057",
+        "rating": 3,
+        "feedback": "Not long-lasting. Needs frequent reapplication."
+      }
+    ]
+  },
+  {
+    "search_id": "S0116",
+    "product_id": "P0116",
+    "product_name": "Mizuno Volleyball Shoes",
+    "product_url": "http://example.com/product/p0116",
+    "reviews": [
+      {
+        "review_id": "R0231",
+        "user_id": "U0034",
+        "rating": 4,
+        "feedback": "Excellent grip on both indoor and outdoor courts."
+      },
+      {
+        "review_id": "R0232",
+        "user_id": "U0061",
+        "rating": 3,
+        "feedback": "Slightly stiff at first. Requires breaking in."
+      }
+    ]
+  },
+  {
+    "search_id": "S0117",
+    "product_id": "P0117",
+    "product_name": "Nike Air Max Sneakers",
+    "product_url": "http://example.com/product/p0117",
+    "reviews": [
+      {
+        "review_id": "R0233",
+        "user_id": "U0028",
+        "rating": 5,
+        "feedback": "Comfortable and stylish. Great for daily wear."
+      },
+      {
+        "review_id": "R0234",
+        "user_id": "U0052",
+        "rating": 4,
+        "feedback": "Provides excellent support. Runs true to size."
+      }
+    ]
+  },
+  {
+    "search_id": "S0118",
+    "product_id": "P0118",
+    "product_name": "Banana Republic Dress",
+    "product_url": "http://example.com/product/p0118",
+    "reviews": [
+      {
+        "review_id": "R0235",
+        "user_id": "U0023",
+        "rating": 5,
+        "feedback": "Flattering fit with a sophisticated design."
+      },
+      {
+        "review_id": "R0236",
+        "user_id": "U0090",
+        "rating": 4,
+        "feedback": "High-quality fabric. Suitable for various occasions."
+      }
+    ]
+  },
+  {
+    "search_id": "S0119",
+    "product_id": "P0119",
+    "product_name": "Sony WH-1000XM4 Headphones",
+    "product_url": "http://example.com/product/p0119",
+    "reviews": [
+      {
+        "review_id": "R0237",
+        "user_id": "U0046",
+        "rating": 5,
+        "feedback": "Excellent noise cancellation. Clear sound quality."
+      },
+      {
+        "review_id": "R0238",
+        "user_id": "U0047",
+        "rating": 4,
+        "feedback": "Comfortable for long listening sessions."
+      }
+    ]
+  },
+  {
+    "search_id": "S0120",
+    "product_id": "P0120",
+    "product_name": "Rolex Watch",
+    "product_url": "http://example.com/product/p0120",
+    "reviews": [
+      {
+        "review_id": "R0239",
+        "user_id": "U0022",
+        "rating": 5,
+        "feedback": "Exquisite craftsmanship with precise timekeeping."
+      },
+      {
+        "review_id": "R0240",
+        "user_id": "U0048",
+        "rating": 4,
+        "feedback": "Classic design that never goes out of style."
+      }
+    ]
+  }
+]

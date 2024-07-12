@@ -1,0 +1,962 @@
+[
+    {
+        "product_id": "P0001",
+        "category": "shoes",
+        "available_units": 5,
+        "price_of_each_unit": 89.99,
+        "product_name": "Puma Running Shoes",
+        "description": "Comfortable running shoes for men by Puma."
+    },
+    {
+        "product_id": "P0002",
+        "category": "shoes",
+        "available_units": 3,
+        "price_of_each_unit": 79.99,
+        "product_name": "Adidas UltraBoost",
+        "description": "High-performance running shoes for men by Adidas."
+    },
+    {
+        "product_id": "P0003",
+        "category": "cosmetics",
+        "available_units": 10,
+        "price_of_each_unit": 29.99,
+        "product_name": "L'Oreal Mascara",
+        "description": "Lengthening and volumizing mascara for women."
+    },
+    {
+        "product_id": "P0004",
+        "category": "electronics",
+        "available_units": 20,
+        "price_of_each_unit": 499.99,
+        "product_name": "Apple iPhone 13",
+        "description": "Latest iPhone model for men and women with advanced features."
+    },
+    {
+        "product_id": "P0005",
+        "category": "clothing",
+        "available_units": 8,
+        "price_of_each_unit": 49.99,
+        "product_name": "Nike T-Shirt",
+        "description": "Comfortable and stylish Nike T-Shirt for men."
+    },
+    {
+        "product_id": "P0006",
+        "category": "electronics",
+        "available_units": 2,
+        "price_of_each_unit": 399.99,
+        "product_name": "Samsung Galaxy Tab S7",
+        "description": "Powerful Android tablet for work and play, for both men and women."
+    },
+    {
+        "product_id": "P0007",
+        "category": "accessories",
+        "available_units": 2,
+        "price_of_each_unit": 199.99,
+        "product_name": "Ray-Ban Sunglasses",
+        "description": "Classic and stylish sunglasses by Ray-Ban for women."
+    },
+    {
+        "product_id": "P0008",
+        "category": "clothing",
+        "available_units": 6,
+        "price_of_each_unit": 79.99,
+        "product_name": "Adidas Tracksuit",
+        "description": "Comfortable and sporty tracksuit by Adidas for women."
+    },
+    {
+        "product_id": "P0009",
+        "category": "cosmetics",
+        "available_units": 4,
+        "price_of_each_unit": 19.99,
+        "product_name": "Maybelline Lipstick",
+        "description": "Vibrant lipstick for women with long-lasting color."
+    },
+    {
+        "product_id": "P0010",
+        "category": "sports",
+        "available_units": 23,
+        "price_of_each_unit": 149.99,
+        "product_name": "Nike Soccer Ball",
+        "description": "Durable soccer ball for both men and women, for training and matches."
+    },
+    {
+        "product_id": "P0011",
+        "category": "electronics",
+        "available_units": 3,
+        "price_of_each_unit": 299.99,
+        "product_name": "Sony Noise-Cancelling Headphones",
+        "description": "Premium headphones with industry-leading noise cancellation for both men and women."
+    },
+    {
+        "product_id": "P0012",
+        "category": "clothing",
+        "available_units": 5,
+        "price_of_each_unit": 129.99,
+        "product_name": "H&M Winter Jacket",
+        "description": "Warm and stylish jacket for men, for cold weather."
+    },
+    {
+        "product_id": "P0013",
+        "category": "accessories",
+        "available_units": 2,
+        "price_of_each_unit": 299.99,
+        "product_name": "Gucci Watch",
+        "description": "Luxurious and elegant watch for men and women by Gucci."
+    },
+    {
+        "product_id": "P0014",
+        "category": "cosmetics",
+        "available_units": 7,
+        "price_of_each_unit": 39.99,
+        "product_name": "MAC Foundation",
+        "description": "High-quality foundation for flawless skin for women."
+    },
+    {
+        "product_id": "P0015",
+        "category": "clothing",
+        "available_units": 2,
+        "price_of_each_unit": 199.99,
+        "product_name": "Adidas Hoodie",
+        "description": "Stylish and comfortable hoodie for men by Adidas."
+    },
+    {
+        "product_id": "P0016",
+        "category": "electronics",
+        "available_units": 4,
+        "price_of_each_unit": 199.99,
+        "product_name": "Bose Wireless Speakers",
+        "description": "High-fidelity wireless speakers for home entertainment, for both men and women."
+    },
+    {
+        "product_id": "P0017",
+        "category": "accessories",
+        "available_units": 6,
+        "price_of_each_unit": 49.99,
+        "product_name": "Nike Backpack",
+        "description": "Spacious and durable backpack for both men and women by Nike."
+    },
+    {
+        "product_id": "P0018",
+        "category": "sports",
+        "available_units": 0,
+        "price_of_each_unit": 79.99,
+        "product_name": "Wilson Tennis Racket",
+        "description": "Premium tennis racket for both men and women players."
+    },
+    {
+        "product_id": "P0019",
+        "category": "cosmetics",
+        "available_units": 3,
+        "price_of_each_unit": 49.99,
+        "product_name": "Urban Decay Eyeshadow Palette",
+        "description": "Versatile eyeshadow palette for women with vibrant colors."
+    },
+    {
+        "product_id": "P0020",
+        "category": "clothing",
+        "available_units": 10,
+        "price_of_each_unit": 59.99,
+        "product_name": "Under Armour Leggings",
+        "description": "Comfortable and supportive leggings for women by Under Armour."
+    },
+    {
+        "product_id": "P0021",
+        "category": "shoes",
+        "available_units": 8,
+        "price_of_each_unit": 129.99,
+        "product_name": "New Balance Running Shoes",
+        "description": "Lightweight and durable running shoes for men by New Balance."
+    },
+    {
+        "product_id": "P0022",
+        "category": "electronics",
+        "available_units": 1,
+        "price_of_each_unit": 899.99,
+        "product_name": "Dell XPS 15 Laptop",
+        "description": "Powerful laptop for men and women with a stunning display and performance."
+    },
+    {
+        "product_id": "P0023",
+        "category": "clothing",
+        "available_units": 5,
+        "price_of_each_unit": 69.99,
+        "product_name": "Zara Jeans",
+        "description": "Stylish and comfortable jeans for women by Zara."
+    },
+    {
+        "product_id": "P0024",
+        "category": "accessories",
+        "available_units": 3,
+        "price_of_each_unit": 149.99,
+        "product_name": "Fossil Smartwatch",
+        "description": "Smartwatch for men with advanced features and classic design."
+    },
+    {
+        "product_id": "P0025",
+        "category": "cosmetics",
+        "available_units": 6,
+        "price_of_each_unit": 24.99,
+        "product_name": "Revlon Lip Gloss",
+        "description": "Shiny and moisturizing lip gloss for women by Revlon."
+    },
+    {
+        "product_id": "P0026",
+        "category": "sports",
+        "available_units": 2,
+        "price_of_each_unit": 199.99,
+        "product_name": "Garmin GPS Running Watch",
+        "description": "Advanced GPS watch for both men and women, used for tracking runs and workouts."
+    },
+    {
+        "product_id": "P0027",
+        "category": "electronics",
+        "available_units": 4,
+        "price_of_each_unit": 149.99,
+        "product_name": "GoPro Hero 10",
+        "description": "High-definition action camera for both men and women, used for capturing adventures."
+    },
+    {
+        "product_id": "P0028",
+        "category": "clothing",
+        "available_units": 2,
+        "price_of_each_unit": 129.99,
+        "product_name": "Hollister Hoodie",
+        "description": "Cozy hoodie for women with a laid-back style by Hollister."
+    },
+    {
+        "product_id": "P0029",
+        "category": "accessories",
+        "available_units": 7,
+        "price_of_each_unit": 39.99,
+        "product_name": "Oakley Sunglasses",
+        "description": "Sporty sunglasses for men with enhanced UV protection."
+    },
+    {
+        "product_id": "P0030",
+        "category": "cosmetics",
+        "available_units": 0,
+        "price_of_each_unit": 29.99,
+        "product_name": "Estee Lauder Foundation",
+        "description": "Luxurious foundation for women for flawless skin by Estee Lauder."
+    },
+    {
+        "product_id": "P0031",
+        "category": "shoes",
+        "available_units": 3,
+        "price_of_each_unit": 109.99,
+        "product_name": "Sketchers Sneakers",
+        "description": "Comfortable sneakers for everyday wear by Sketchers, for both men and women."
+    },
+    {
+        "product_id": "P0032",
+        "category": "clothing",
+        "available_units": 10,
+        "price_of_each_unit": 39.99,
+        "product_name": "H&M Basic T-Shirt",
+        "description": "Essential and versatile t-shirt by H&M, for both men and women."
+    },
+    {
+        "product_id": "P0033",
+        "category": "electronics",
+        "available_units": 5,
+        "price_of_each_unit": 79.99,
+        "product_name": "Amazon Kindle Paperwhite",
+        "description": "High-resolution e-reader with a built-in light for both men and women."
+    },
+    {
+        "product_id": "P0034",
+        "category": "accessories",
+        "available_units": 2,
+        "price_of_each_unit": 249.99,
+        "product_name": "Montblanc Fountain Pen",
+        "description": "Elegant fountain pen for writing with style. For both men and women."
+    },
+    {
+        "product_id": "P0035",
+        "category": "cosmetics",
+        "available_units": 8,
+        "price_of_each_unit": 34.99,
+        "product_name": "Clinique Moisturizer",
+        "description": "Hydrating moisturizer for smooth and soft skin. Can be used by men and women."
+    },
+    {
+        "product_id": "P0036",
+        "category": "clothing",
+        "available_units": 6,
+        "price_of_each_unit": 89.99,
+        "product_name": "Tommy Hilfiger Jacket",
+        "description": "Stylish jacket for men with a classic Tommy Hilfiger design."
+    },
+    {
+        "product_id": "P0037",
+        "category": "shoes",
+        "available_units": 0,
+        "price_of_each_unit": 139.99,
+        "product_name": "Vans Classic Slip-Ons",
+        "description": "Iconic slip-on shoes for women with a timeless design by Vans."
+    },
+    {
+        "product_id": "P0038",
+        "category": "electronics",
+        "available_units": 4,
+        "price_of_each_unit": 499.99,
+        "product_name": "Microsoft Surface Laptop 4",
+        "description": "Versatile laptop for men and women, used for work and creativity."
+    },
+    {
+        "product_id": "P0039",
+        "category": "sports",
+        "available_units": 3,
+        "price_of_each_unit": 49.99,
+        "product_name": "Wilson Tennis Balls",
+        "description": "Durable tennis balls for practice and matches. Can be used for both men's and women's tennis."
+    },
+    {
+        "product_id": "P0040",
+        "category": "accessories",
+        "available_units": 5,
+        "price_of_each_unit": 69.99,
+        "product_name": "Coach Wallet",
+        "description": "Classic leather wallet for men by Coach."
+    },
+    {
+        "product_id": "P0041",
+        "category": "cosmetics",
+        "available_units": 3,
+        "price_of_each_unit": 19.99,
+        "product_name": "NYX Lip Liner",
+        "description": "Long-lasting lip liner for women by NYX."
+    },
+    {
+        "product_id": "P0042",
+        "category": "clothing",
+        "available_units": 7,
+        "price_of_each_unit": 59.99,
+        "product_name": "Forever 21 Dress",
+        "description": "Trendy and affordable dress for women by Forever 21."
+    },
+    {
+        "product_id": "P0043",
+        "category": "electronics",
+        "available_units": 2,
+        "price_of_each_unit": 299.99,
+        "product_name": "Fitbit Charge 5",
+        "description": "Advanced fitness tracker with built-in GPS. Fits both men and women."
+    },
+    {
+        "product_id": "P0044",
+        "category": "accessories",
+        "available_units": 6,
+        "price_of_each_unit": 29.99,
+        "product_name": "Herschel Backpack",
+        "description": "Classic backpack for daily use by Herschel. Fits both men and women."
+    },
+    {
+        "product_id": "P0045",
+        "category": "cosmetics",
+        "available_units": 3,
+        "price_of_each_unit": 49.99,
+        "product_name": "Bobbi Brown Highlighter",
+        "description": "Radiant highlighter for women, for a glowing complexion. By Bobbi Brown."
+    },
+    {
+        "product_id": "P0046",
+        "category": "shoes",
+        "available_units": 4,
+        "price_of_each_unit": 159.99,
+        "product_name": "Converse Chuck Taylor Sneakers",
+        "description": "Classic canvas sneakers for men by Converse."
+    },
+    {
+        "product_id": "P0047",
+        "category": "clothing",
+        "available_units": 4,
+        "price_of_each_unit": 39.99,
+        "product_name": "Uniqlo Polo Shirt",
+        "description": "Stylish and comfortable polo shirt for men and women by Uniqlo."
+    },
+    {
+        "product_id": "P0048",
+        "category": "electronics",
+        "available_units": 3,
+        "price_of_each_unit": 199.99,
+        "product_name": "JBL Bluetooth Speaker",
+        "description": "Portable Bluetooth speaker with impressive sound. Can be used by both men and women."
+    },
+    {
+        "product_id": "P0049",
+        "category": "sports",
+        "available_units": 8,
+        "price_of_each_unit": 19.99,
+        "product_name": "Nike Sports Socks",
+        "description": "Comfortable sports socks by Nike. Fits both men and women."
+    },
+    {
+        "product_id": "P0050",
+        "category": "accessories",
+        "available_units": 0,
+        "price_of_each_unit": 99.99,
+        "product_name": "Tumi Travel Backpack",
+        "description": "Durable and spacious men's backpack for travel by Tumi."
+    },
+    {
+        "product_id": "P0051",
+        "category": "shoes",
+        "available_units": 6,
+        "price_of_each_unit": 79.99,
+        "product_name": "Skechers Go Walk Shoes",
+        "description": "Comfortable slip-on shoes for men by Skechers."
+    },
+    {
+        "product_id": "P0052",
+        "category": "electronics",
+        "available_units": 2,
+        "price_of_each_unit": 599.99,
+        "product_name": "Sony PlayStation 5",
+        "description": "Next-generation gaming console for men and women by Sony."
+    },
+    {
+        "product_id": "P0053",
+        "category": "clothing",
+        "available_units": 3,
+        "price_of_each_unit": 49.99,
+        "product_name": "Gap Denim Jacket",
+        "description": "Stylish denim jacket for men by Gap."
+    },
+    {
+        "product_id": "P0054",
+        "category": "accessories",
+        "available_units": 4,
+        "price_of_each_unit": 79.99,
+        "product_name": "Michael Kors Crossbody Bag",
+        "description": "Chic and versatile crossbody bag for women by Michael Kors."
+    },
+    {
+        "product_id": "P0055",
+        "category": "cosmetics",
+        "available_units": 8,
+        "price_of_each_unit": 29.99,
+        "product_name": "Neutrogena Sunscreen",
+        "description": "Broad-spectrum sunscreen for all-day protection. Works for both men and women."
+    },
+    {
+        "product_id": "P0056",
+        "category": "sports",
+        "available_units": 3,
+        "price_of_each_unit": 29.99,
+        "product_name": "Adidas Soccer Cleats",
+        "description": "High-performance soccer cleats for men by Adidas."
+    },
+    {
+        "product_id": "P0057",
+        "category": "electronics",
+        "available_units": 5,
+        "price_of_each_unit": 199.99,
+        "product_name": "Canon EOS Rebel T7i",
+        "description": "Versatile DSLR camera for photography enthusiasts, men and women alike."
+    },
+    {
+        "product_id": "P0058",
+        "category": "clothing",
+        "available_units": 0,
+        "price_of_each_unit": 39.99,
+        "product_name": "American Eagle Graphic T-Shirt",
+        "description": "Casual and stylish graphic men's t-shirt by American Eagle."
+    },
+    {
+        "product_id": "P0059",
+        "category": "accessories",
+        "available_units": 6,
+        "price_of_each_unit": 149.99,
+        "product_name": "Louis Vuitton Belt",
+        "description": "Luxurious leather belt for women by Louis Vuitton."
+    },
+    {
+        "product_id": "P0060",
+        "category": "cosmetics",
+        "available_units": 2,
+        "price_of_each_unit": 49.99,
+        "product_name": "Kiehl's Facial Cream",
+        "description": "Moisturizing facial cream for women by Kiehl's."
+    },
+    {
+        "product_id": "P0061",
+        "category": "shoes",
+        "available_units": 10,
+        "price_of_each_unit": 69.99,
+        "product_name": "Vans Old Skool Sneakers",
+        "description": "Iconic skateboarding sneakers for men by Vans."
+    },
+    {
+        "product_id": "P0062",
+        "category": "clothing",
+        "available_units": 4,
+        "price_of_each_unit": 59.99,
+        "product_name": "Zara Sweater",
+        "description": "Cozy and fashionable sweater for women by Zara."
+    },
+    {
+        "product_id": "P0063",
+        "category": "electronics",
+        "available_units": 5,
+        "price_of_each_unit": 799.99,
+        "product_name": "Apple iPad Pro",
+        "description": "Powerful iPad for men and women with stunning Retina display."
+    },
+    {
+        "product_id": "P0064",
+        "category": "accessories",
+        "available_units": 7,
+        "price_of_each_unit": 29.99,
+        "product_name": "Puma Baseball Cap",
+        "description": "Sporty baseball cap with the Puma logo. Fits both men and women."
+    },
+    {
+        "product_id": "P0065",
+        "category": "cosmetics",
+        "available_units": 3,
+        "price_of_each_unit": 19.99,
+        "product_name": "Burt's Bees Lip Balm",
+        "description": "Moisturizing lip balm for women with natural ingredients."
+    },
+    {
+        "product_id": "P0066",
+        "category": "sports",
+        "available_units": 0,
+        "price_of_each_unit": 99.99,
+        "product_name": "Wilson Golf Clubs Set",
+        "description": "Complete set of men's golf clubs for beginners and pros."
+    },
+    {
+        "product_id": "P0067",
+        "category": "shoes",
+        "available_units": 4,
+        "price_of_each_unit": 119.99,
+        "product_name": "Reebok CrossFit Shoes",
+        "description": "Versatile shoes designed for men's CrossFit training."
+    },
+    {
+        "product_id": "P0068",
+        "category": "clothing",
+        "available_units": 5,
+        "price_of_each_unit": 49.99,
+        "product_name": "Levi's Jeans",
+        "description": "Classic and durable jeans for women by Levi's."
+    },
+    {
+        "product_id": "P0069",
+        "category": "electronics",
+        "available_units": 3,
+        "price_of_each_unit": 399.99,
+        "product_name": "Nikon D5600 DSLR Camera",
+        "description": "Advanced DSLR camera for men and women who are photography enthusiasts."
+    },
+    {
+        "product_id": "P0070",
+        "category": "accessories",
+        "available_units": 8,
+        "price_of_each_unit": 199.99,
+        "product_name": "Coach Leather Backpack",
+        "description": "Luxurious leather backpack for women by Coach."
+    },
+    {
+        "product_id": "P0071",
+        "category": "cosmetics",
+        "available_units": 6,
+        "price_of_each_unit": 39.99,
+        "product_name": "NARS Blush",
+        "description": "Highly pigmented women's blush for a natural flush of color."
+    },
+    {
+        "product_id": "P0072",
+        "category": "shoes",
+        "available_units": 2,
+        "price_of_each_unit": 199.99,
+        "product_name": "Salomon Hiking Boots",
+        "description": "Durable men's hiking boots for outdoor adventures."
+    },
+    {
+        "product_id": "P0073",
+        "category": "clothing",
+        "available_units": 0,
+        "price_of_each_unit": 29.99,
+        "product_name": "Hollister Tank Top",
+        "description": "Lightweight and comfortable tank top for women by Hollister."
+    },
+    {
+        "product_id": "P0074",
+        "category": "electronics",
+        "available_units": 4,
+        "price_of_each_unit": 129.99,
+        "product_name": "Razer Gaming Mouse",
+        "description": "Precision gaming mouse for both men and women with customizable features."
+    },
+    {
+        "product_id": "P0075",
+        "category": "accessories",
+        "available_units": 8,
+        "price_of_each_unit": 49.99,
+        "product_name": "Timberland Belt",
+        "description": "Sturdy and stylish men's leather belt by Timberland."
+    },
+    {
+        "product_id": "P0076",
+        "category": "cosmetics",
+        "available_units": 0,
+        "price_of_each_unit": 49.99,
+        "product_name": "Tarte Eyeshadow Palette",
+        "description": "Versatile eyeshadow palette for women with matte and shimmer shades."
+    },
+    {
+        "product_id": "P0077",
+        "category": "shoes",
+        "available_units": 3,
+        "price_of_each_unit": 159.99,
+        "product_name": "Merrell Trail Running Shoes",
+        "description": "Trail running shoes for women with enhanced grip and support."
+    },
+    {
+        "product_id": "P0078",
+        "category": "clothing",
+        "available_units": 6,
+        "price_of_each_unit": 79.99,
+        "product_name": "Express Blouse",
+        "description": "Stylish blouse for women with a modern silhouette by Express."
+    },
+    {
+        "product_id": "P0079",
+        "category": "electronics",
+        "available_units": 2,
+        "price_of_each_unit": 299.99,
+        "product_name": "Bose Soundbar 700",
+        "description": "Premium soundbar for both men and women, for immersive home theater experience."
+    },
+    {
+        "product_id": "P0080",
+        "category": "accessories",
+        "available_units": 5,
+        "price_of_each_unit": 149.99,
+        "product_name": "Prada Sunglasses",
+        "description": "Designer sunglasses for women with sophisticated style."
+    },
+    {
+        "product_id": "P0081",
+        "category": "cosmetics",
+        "available_units": 7,
+        "price_of_each_unit": 24.99,
+        "product_name": "Maybelline Mascara",
+        "description": "Volumizing women's mascara for dramatic eyelashes."
+    },
+    {
+        "product_id": "P0082",
+        "category": "sports",
+        "available_units": 4,
+        "price_of_each_unit": 79.99,
+        "product_name": "Under Armour Running Shorts",
+        "description": "Lightweight and breathable running shorts for men."
+    },
+    {
+        "product_id": "P0083",
+        "category": "shoes",
+        "available_units": 0,
+        "price_of_each_unit": 179.99,
+        "product_name": "Brooks Running Shoes",
+        "description": "Premium running shoes for women with responsive cushioning."
+    },
+    {
+        "product_id": "P0084",
+        "category": "clothing",
+        "available_units": 3,
+        "price_of_each_unit": 69.99,
+        "product_name": "Gap Sweater",
+        "description": "Cozy sweater for men with a classic Gap style."
+    },
+    {
+        "product_id": "P0085",
+        "category": "electronics",
+        "available_units": 6,
+        "price_of_each_unit": 149.99,
+        "product_name": "Samsung Galaxy Watch",
+        "description": "Smartwatch for both men and women with health tracking and long battery life."
+    },
+    {
+        "product_id": "P0086",
+        "category": "accessories",
+        "available_units": 2,
+        "price_of_each_unit": 99.99,
+        "product_name": "Ray-Ban Aviator Sunglasses",
+        "description": "Iconic aviator sunglasses for men by Ray-Ban."
+    },
+    {
+        "product_id": "P0087",
+        "category": "cosmetics",
+        "available_units": 5,
+        "price_of_each_unit": 19.99,
+        "product_name": "L'Oreal Lipstick",
+        "description": "Rich and creamy women's lipstick for vibrant color."
+    },
+    {
+        "product_id": "P0088",
+        "category": "sports",
+        "available_units": 4,
+        "price_of_each_unit": 39.99,
+        "product_name": "Yonex Badminton Racket",
+        "description": "High-performance badminton racket for men by Yonex."
+    },
+    {
+        "product_id": "P0089",
+        "category": "shoes",
+        "available_units": 4,
+        "price_of_each_unit": 109.99,
+        "product_name": "Dr. Martens Boots",
+        "description": "Classic leather boots for men by Dr. Martens."
+    },
+    {
+        "product_id": "P0090",
+        "category": "clothing",
+        "available_units": 7,
+        "price_of_each_unit": 29.99,
+        "product_name": "Old Navy Tank Top",
+        "description": "Casual men's tank top with a comfortable fit by Old Navy."
+    },
+    {
+        "product_id": "P0091",
+        "category": "electronics",
+        "available_units": 3,
+        "price_of_each_unit": 349.99,
+        "product_name": "Apple AirPods Pro",
+        "description": "Noise-cancelling wireless earbuds by Apple. Fits both men and women."
+    },
+    {
+        "product_id": "P0092",
+        "category": "accessories",
+        "available_units": 0,
+        "price_of_each_unit": 199.99,
+        "product_name": "Gucci Wallet",
+        "description": "Luxurious leather wallet for men by Gucci."
+    },
+    {
+        "product_id": "P0093",
+        "category": "cosmetics",
+        "available_units": 6,
+        "price_of_each_unit": 29.99,
+        "product_name": "Urban Decay Eyeshadow Palette",
+        "description": "Women's palette with a range of shades for endless eye looks."
+    },
+    {
+        "product_id": "P0094",
+        "category": "sports",
+        "available_units": 2,
+        "price_of_each_unit": 59.99,
+        "product_name": "Nike Gym Bag",
+        "description": "Spacious gym bag for both men and women with multiple compartments."
+    },
+    {
+        "product_id": "P0095",
+        "category": "shoes",
+        "available_units": 5,
+        "price_of_each_unit": 89.99,
+        "product_name": "Asics Running Shoes",
+        "description": "Comfortable running shoes for men with excellent cushioning."
+    },
+    {
+        "product_id": "P0096",
+        "category": "clothing",
+        "available_units": 8,
+        "price_of_each_unit": 39.99,
+        "product_name": "Forever 21 Crop Top",
+        "description": "Stylish women's crop top for a trendy look by Forever 21."
+    },
+    {
+        "product_id": "P0097",
+        "category": "electronics",
+        "available_units": 4,
+        "price_of_each_unit": 79.99,
+        "product_name": "Sony Noise-Cancelling Headphones",
+        "description": "Premium headphones for immersive audio experience. Works well for both men and women."
+    },
+    {
+        "product_id": "P0098",
+        "category": "accessories",
+        "available_units": 8,
+        "price_of_each_unit": 49.99,
+        "product_name": "Kate Spade Earrings",
+        "description": "Elegant earrings for women with a touch of sparkle by Kate Spade."
+    },
+    {
+        "product_id": "P0099",
+        "category": "cosmetics",
+        "available_units": 10,
+        "price_of_each_unit": 19.99,
+        "product_name": "MAC Lip Gloss",
+        "description": "High-shine lip gloss for women for a glossy finish by MAC."
+    },
+    {
+        "product_id": "P0100",
+        "category": "sports",
+        "available_units": 3,
+        "price_of_each_unit": 19.99,
+        "product_name": "Under Armour Sports Gloves",
+        "description": "Durable men's gloves for various sports activities."
+    },
+    {
+        "product_id": "P0101",
+        "category": "shoes",
+        "available_units": 6,
+        "price_of_each_unit": 129.99,
+        "product_name": "New Balance Running Shoes",
+        "description": "Lightweight and supportive men's running shoes by New Balance."
+    },
+    {
+        "product_id": "P0102",
+        "category": "electronics",
+        "available_units": 2,
+        "price_of_each_unit": 179.99,
+        "product_name": "Dell XPS 15 Laptop",
+        "description": "Powerful laptop for men and women with stunning display and performance."
+    },
+    {
+        "product_id": "P0103",
+        "category": "clothing",
+        "available_units": 0,
+        "price_of_each_unit": 49.99,
+        "product_name": "H&M Hoodie",
+        "description": "Comfortable hoodie for women with a modern design by H&M."
+    },
+    {
+        "product_id": "P0104",
+        "category": "accessories",
+        "available_units": 4,
+        "price_of_each_unit": 69.99,
+        "product_name": "Fossil Smartwatch",
+        "description": "Stylish men's smartwatch with activity tracking features."
+    },
+    {
+        "product_id": "P0105",
+        "category": "cosmetics",
+        "available_units": 8,
+        "price_of_each_unit": 39.99,
+        "product_name": "Clinique Moisturizer",
+        "description": "Hydrating moisturizer for smooth and radiant skin. Can be used by both men and women."
+    },
+    {
+        "product_id": "P0106",
+        "category": "sports",
+        "available_units": 3,
+        "price_of_each_unit": 49.99,
+        "product_name": "Adidas Soccer Ball",
+        "description": "Durable soccer ball for training and matches. Works for both men's and women's football."
+    },
+    {
+        "product_id": "P0107",
+        "category": "electronics",
+        "available_units": 5,
+        "price_of_each_unit": 299.99,
+        "product_name": "Microsoft Surface Pro 7",
+        "description": "Versatile 2-in-1 laptop and tablet for men and women by Microsoft."
+    },
+    {
+        "product_id": "P0108",
+        "category": "clothing",
+        "available_units": 0,
+        "price_of_each_unit": 59.99,
+        "product_name": "Uniqlo Denim Jeans",
+        "description": "Classic denim jeans for men with a comfortable fit by Uniqlo."
+    },
+    {
+        "product_id": "P0109",
+        "category": "accessories",
+        "available_units": 6,
+        "price_of_each_unit": 129.99,
+        "product_name": "Chanel Perfume",
+        "description": "Luxurious perfume for women with a floral and woody fragrance."
+    },
+    {
+        "product_id": "P0110",
+        "category": "cosmetics",
+        "available_units": 2,
+        "price_of_each_unit": 29.99,
+        "product_name": "Estee Lauder Foundation",
+        "description": "High-coverage women's foundation for a flawless complexion."
+    },
+    {
+        "product_id": "P0111",
+        "category": "shoes",
+        "available_units": 10,
+        "price_of_each_unit": 79.99,
+        "product_name": "Converse Chuck Taylor Sneakers",
+        "description": "Iconic sneakers with timeless style by Converse. Styled for both men and women."
+    },
+    {
+        "product_id": "P0112",
+        "category": "clothing",
+        "available_units": 4,
+        "price_of_each_unit": 49.99,
+        "product_name": "Tommy Hilfiger Polo Shirt",
+        "description": "Classic polo shirt for men with Tommy Hilfiger logo."
+    },
+    {
+        "product_id": "P0113",
+        "category": "electronics",
+        "available_units": 3,
+        "price_of_each_unit": 899.99,
+        "product_name": "Samsung 8K QLED TV",
+        "description": "Ultra-high-definition TV for men and women with vibrant colors and clarity."
+    },
+    {
+        "product_id": "P0114",
+        "category": "accessories",
+        "available_units": 7,
+        "price_of_each_unit": 39.99,
+        "product_name": "Guess Wallet",
+        "description": "Stylish wallet for men with multiple compartments by Guess."
+    },
+    {
+        "product_id": "P0115",
+        "category": "cosmetics",
+        "available_units": 3,
+        "price_of_each_unit": 19.99,
+        "product_name": "Revlon Lip Gloss",
+        "description": "Shiny lip gloss for women with moisturizing formula by Revlon."
+    },
+    {
+        "product_id": "P0116",
+        "category": "sports",
+        "available_units": 2,
+        "price_of_each_unit": 129.99,
+        "product_name": "Mizuno Volleyball Shoes",
+        "description": "Specialized men's volleyball shoes for indoor and outdoor play."
+    },
+    {
+        "product_id": "P0117",
+        "category": "shoes",
+        "available_units": 4,
+        "price_of_each_unit": 109.99,
+        "product_name": "Nike Air Max Sneakers",
+        "description": "Air-cushioned men's sneakers for superior comfort and style."
+    },
+    {
+        "product_id": "P0118",
+        "category": "clothing",
+        "available_units": 5,
+        "price_of_each_unit": 69.99,
+        "product_name": "Banana Republic Dress",
+        "description": "Elegant dress for women with a modern silhouette by Banana Republic."
+    },
+    {
+        "product_id": "P0119",
+        "category": "electronics",
+        "available_units": 3,
+        "price_of_each_unit": 399.99,
+        "product_name": "Sony WH-1000XM4 Headphones",
+        "description": "Premium noise-cancelling headphones by Sony. Fits both men and women."
+    },
+    {
+        "product_id": "P0120",
+        "category": "accessories",
+        "available_units": 1,
+        "price_of_each_unit": 199.99,
+        "product_name": "Rolex Watch",
+        "description": "Luxury watch for men with timeless design by Rolex."
+    }
+]

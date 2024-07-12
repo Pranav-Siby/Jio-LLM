@@ -1,0 +1,2522 @@
+[
+    {
+        "interaction_id": "IA0001",
+        "product_id": "P0001",
+        "product_name": "Puma Running Shoes",
+        "query": "How durable are the Puma Running Shoes?",
+        "information": "The Puma Running Shoes are designed for durability with a reinforced sole and breathable mesh upper."
+    },
+    {
+        "interaction_id": "IA0002",
+        "product_id": "P0001",
+        "product_name": "Puma Running Shoes",
+        "query": "What sizes are available for Puma Running Shoes?",
+        "information": "Puma Running Shoes are available in sizes ranging from US 6 to US 13, including half sizes."
+    },
+    {
+        "interaction_id": "IA0003",
+        "product_id": "P0001",
+        "product_name": "Puma Running Shoes",
+        "query": "Are the Puma Running Shoes suitable for long-distance running?",
+        "information": "Yes, the Puma Running Shoes are well-suited for long-distance running with their cushioned midsole and supportive fit."
+    },
+    {
+        "interaction_id": "IA0004",
+        "product_id": "P0002",
+        "product_name": "Adidas UltraBoost",
+        "query": "What are the key features of Adidas UltraBoost shoes?",
+        "information": "Adidas UltraBoost shoes feature Boost cushioning for responsive comfort and a lightweight Primeknit upper for flexibility."
+    },
+    {
+        "interaction_id": "IA0005",
+        "product_id": "P0002",
+        "product_name": "Adidas UltraBoost",
+        "query": "Do Adidas UltraBoost shoes run true to size?",
+        "information": "Adidas UltraBoost shoes generally run true to size but provide a snug fit due to their sock-like construction."
+    },
+    {
+        "interaction_id": "IA0006",
+        "product_id": "P0002",
+        "product_name": "Adidas UltraBoost",
+        "query": "Are Adidas UltraBoost shoes suitable for running on both roads and trails?",
+        "information": "Yes, Adidas UltraBoost shoes are versatile and suitable for running on both roads and light trails."
+    },
+    {
+        "interaction_id": "IA0007",
+        "product_id": "P0003",
+        "product_name": "L'Oreal Mascara",
+        "query": "Does L'Oreal Mascara clump after application?",
+        "information": "No, L'Oreal Mascara has a smooth formula that does not clump, providing clean and defined lashes."
+    },
+    {
+        "interaction_id": "IA0008",
+        "product_id": "P0003",
+        "product_name": "L'Oreal Mascara",
+        "query": "Is L'Oreal Mascara waterproof?",
+        "information": "Yes, L'Oreal Mascara is waterproof, offering long-lasting wear and resistance to smudging or flaking."
+    },
+    {
+        "interaction_id": "IA0009",
+        "product_id": "P0003",
+        "product_name": "L'Oreal Mascara",
+        "query": "How should L'Oreal Mascara be removed?",
+        "information": "L'Oreal Mascara can be removed using a gentle makeup remover or micellar water to dissolve the formula without harsh scrubbing."
+    },
+    {
+        "interaction_id": "IA0010",
+        "product_id": "P0004",
+        "product_name": "Apple iPhone 13",
+        "query": "What are the key features of the Apple iPhone 13?",
+        "information": "The Apple iPhone 13 features a Super Retina XDR display, A15 Bionic chip, dual-camera system with Night mode, and all-day battery life."
+    },
+    {
+        "interaction_id": "IA0011",
+        "product_id": "P0004",
+        "product_name": "Apple iPhone 13",
+        "query": "Is the Apple iPhone 13 compatible with 5G networks?",
+        "information": "Yes, the Apple iPhone 13 supports 5G connectivity for fast download speeds and low latency."
+    },
+    {
+        "interaction_id": "IA0012",
+        "product_id": "P0004",
+        "product_name": "Apple iPhone 13",
+        "query": "Does the Apple iPhone 13 support wireless charging?",
+        "information": "Yes, the Apple iPhone 13 is compatible with Qi-certified wireless chargers for convenient charging without cables."
+    },
+    {
+        "interaction_id": "IA0013",
+        "product_id": "P0005",
+        "product_name": "Nike T-Shirt",
+        "query": "What materials are used in Nike T-Shirts?",
+        "information": "Nike T-Shirts are typically made from a blend of cotton and polyester for softness, comfort, and moisture-wicking properties."
+    },
+    {
+        "interaction_id": "IA0014",
+        "product_id": "P0005",
+        "product_name": "Nike T-Shirt",
+        "query": "Are Nike T-Shirts suitable for workouts?",
+        "information": "Yes, Nike T-Shirts are designed for workouts and active wear, offering breathability and freedom of movement."
+    },
+    {
+        "interaction_id": "IA0015",
+        "product_id": "P0005",
+        "product_name": "Nike T-Shirt",
+        "query": "How should Nike T-Shirts be washed to maintain quality?",
+        "information": "Nike T-Shirts should be washed in cold water and tumble dried on low heat to preserve their colors and fabric integrity."
+    },
+    {
+        "interaction_id": "IA0016",
+        "product_id": "P0006",
+        "product_name": "Samsung Galaxy Tab S7",
+        "query": "What are the key specifications of the Samsung Galaxy Tab S7?",
+        "information": "The Samsung Galaxy Tab S7 features a 11-inch LTPS TFT display, Snapdragon 865+ processor, S Pen support, and up to 1TB of storage."
+    },
+    {
+        "interaction_id": "IA0017",
+        "product_id": "P0006",
+        "product_name": "Samsung Galaxy Tab S7",
+        "query": "Does the Samsung Galaxy Tab S7 support multitasking?",
+        "information": "Yes, the Samsung Galaxy Tab S7 supports multitasking with its split-screen and App Pair features for enhanced productivity."
+    },
+    {
+        "interaction_id": "IA0018",
+        "product_id": "P0006",
+        "product_name": "Samsung Galaxy Tab S7",
+        "query": "What accessories are compatible with the Samsung Galaxy Tab S7?",
+        "information": "Compatible accessories for the Samsung Galaxy Tab S7 include the Book Cover Keyboard, S Pen, and USB-C accessories for connectivity."
+    },
+    {
+        "interaction_id": "IA0019",
+        "product_id": "P0007",
+        "product_name": "Ray-Ban Sunglasses",
+        "query": "What are the lens options available for Ray-Ban Sunglasses?",
+        "information": "Ray-Ban Sunglasses are available with various lens options including polarized, mirrored, and gradient lenses to suit different preferences."
+    },
+    {
+        "interaction_id": "IA0020",
+        "product_id": "P0007",
+        "product_name": "Ray-Ban Sunglasses",
+        "query": "Are Ray-Ban Sunglasses suitable for driving?",
+        "information": "Yes, Ray-Ban Sunglasses with polarized lenses are ideal for reducing glare and enhancing visibility while driving."
+    },
+    {
+        "interaction_id": "IA0021",
+        "product_id": "P0007",
+        "product_name": "Ray-Ban Sunglasses",
+        "query": "How should Ray-Ban Sunglasses be cleaned?",
+        "information": "Ray-Ban Sunglasses should be cleaned with a lens cleaning solution and microfiber cloth to avoid scratching the lenses."
+    },
+    {
+        "interaction_id": "IA0022",
+        "product_id": "P0008",
+        "product_name": "Adidas Tracksuit",
+        "query": "What materials are used in Adidas Tracksuits?",
+        "information": "Adidas Tracksuits are typically made from a blend of polyester and cotton for durability, comfort, and moisture-wicking properties."
+    },
+    {
+        "interaction_id": "IA0023",
+        "product_id": "P0008",
+        "product_name": "Adidas Tracksuit",
+        "query": "Are Adidas Tracksuits suitable for cold weather?",
+        "information": "Yes, Adidas Tracksuits are designed for cold weather with warm, fleece-lined options available for extra insulation."
+    },
+    {
+        "interaction_id": "IA0024",
+        "product_id": "P0008",
+        "product_name": "Adidas Tracksuit",
+        "query": "Do Adidas Tracksuits come in different colors?",
+        "information": "Yes, Adidas Tracksuits are available in various colors and designs to suit different preferences and styles."
+    },
+    {
+        "interaction_id": "IA0025",
+        "product_id": "P0009",
+        "product_name": "Maybelline Lipstick",
+        "query": "What shades are available for Maybelline Lipstick?",
+        "information": "Maybelline Lipstick is available in a wide range of shades including nude, pink, red, and bold colors for different looks."
+    },
+    {
+        "interaction_id": "IA0026",
+        "product_id": "P0009",
+        "product_name": "Maybelline Lipstick",
+        "query": "Is Maybelline Lipstick transfer-proof?",
+        "information": "Yes, Maybelline Lipstick has a transfer-resistant formula that provides long-lasting color without smudging or fading."
+    },
+    {
+        "interaction_id": "IA0027",
+        "product_id": "P0009",
+        "product_name": "Maybelline Lipstick",
+        "query": "How should Maybelline Lipstick be applied for best results?",
+        "information": "Maybelline Lipstick should be applied directly to clean, dry lips starting from the center and moving outward for even coverage."
+    },
+    {
+        "interaction_id": "IA0028",
+        "product_id": "P0010",
+        "product_name": "Nike Soccer Ball",
+        "query": "What are the key features of the Nike Soccer Ball?",
+        "information": "The Nike Soccer Ball features a durable outer casing, reinforced rubber bladder for enhanced air retention, and a responsive touch for optimal performance."
+    },
+    {
+        "interaction_id": "IA0029",
+        "product_id": "P0010",
+        "product_name": "Nike Soccer Ball",
+        "query": "Is the Nike Soccer Ball suitable for use on different playing surfaces?",
+        "information": "Yes, the Nike Soccer Ball is designed for use on both grass and artificial turf surfaces, offering consistent performance and durability."
+    },
+    {
+        "interaction_id": "IA0030",
+        "product_id": "P0010",
+        "product_name": "Nike Soccer Ball",
+        "query": "Does the Nike Soccer Ball come inflated?",
+        "information": "No, the Nike Soccer Ball is shipped deflated to ensure safe packaging during transit. It can be inflated using a standard air pump."
+    },
+    {
+        "interaction_id": "IA0031",
+        "product_id": "P0011",
+        "product_name": "Sony Noise-Cancelling Headphones",
+        "query": "What is the battery life of Sony Noise-Cancelling Headphones?",
+        "information": "Sony Noise-Cancelling Headphones offer up to 30 hours of battery life on a full charge, ensuring long-lasting usage."
+    },
+    {
+        "interaction_id": "IA0032",
+        "product_id": "P0011",
+        "product_name": "Sony Noise-Cancelling Headphones",
+        "query": "Do Sony Noise-Cancelling Headphones support Bluetooth connectivity?",
+        "information": "Yes, Sony Noise-Cancelling Headphones support Bluetooth connectivity for wireless streaming from compatible devices."
+    },
+    {
+        "interaction_id": "IA0033",
+        "product_id": "P0011",
+        "product_name": "Sony Noise-Cancelling Headphones",
+        "query": "Are Sony Noise-Cancelling Headphones comfortable for extended wear?",
+        "information": "Yes, Sony Noise-Cancelling Headphones feature ergonomic earpads and an adjustable headband for comfortable extended wear."
+    },
+    {
+        "interaction_id": "IA0034",
+        "product_id": "P0012",
+        "product_name": "H&M Winter Jacket",
+        "query": "Is the H&M Winter Jacket waterproof?",
+        "information": "Yes, the H&M Winter Jacket is made from water-resistant materials to keep you dry and comfortable in wet conditions."
+    },
+    {
+        "interaction_id": "IA0035",
+        "product_id": "P0012",
+        "product_name": "H&M Winter Jacket",
+        "query": "What sizes are available for the H&M Winter Jacket?",
+        "information": "The H&M Winter Jacket is available in sizes ranging from XS to XXL, accommodating various body types."
+    },
+    {
+        "interaction_id": "IA0036",
+        "product_id": "P0012",
+        "product_name": "H&M Winter Jacket",
+        "query": "Is the H&M Winter Jacket suitable for extreme cold?",
+        "information": "Yes, the H&M Winter Jacket is designed to provide warmth in temperatures below freezing with insulation and windproof features."
+    },
+    {
+        "interaction_id": "IA0037",
+        "product_id": "P0013",
+        "product_name": "Gucci Watch",
+        "query": "What materials are used in the Gucci Watch?",
+        "information": "The Gucci Watch features stainless steel construction with a sapphire crystal face for durability and scratch resistance."
+    },
+    {
+        "interaction_id": "IA0038",
+        "product_id": "P0013",
+        "product_name": "Gucci Watch",
+        "query": "Is the Gucci Watch water-resistant?",
+        "information": "Yes, the Gucci Watch is water-resistant up to 50 meters (5 ATM), making it suitable for everyday wear and light water activities."
+    },
+    {
+        "interaction_id": "IA0039",
+        "product_id": "P0013",
+        "product_name": "Gucci Watch",
+        "query": "Does the Gucci Watch come with a warranty?",
+        "information": "Yes, the Gucci Watch comes with a manufacturer's warranty that covers defects in materials and craftsmanship."
+    },
+    {
+        "interaction_id": "IA0040",
+        "product_id": "P0014",
+        "product_name": "MAC Foundation",
+        "query": "What skin types is MAC Foundation suitable for?",
+        "information": "MAC Foundation is suitable for all skin types, offering a range of formulas from matte to dewy finishes."
+    },
+    {
+        "interaction_id": "IA0041",
+        "product_id": "P0014",
+        "product_name": "MAC Foundation",
+        "query": "How should MAC Foundation be applied for best results?",
+        "information": "MAC Foundation can be applied with a brush, sponge, or fingertips for even coverage and a natural-looking finish."
+    },
+    {
+        "interaction_id": "IA0042",
+        "product_id": "P0014",
+        "product_name": "MAC Foundation",
+        "query": "Does MAC Foundation offer shade matching services?",
+        "information": "Yes, MAC offers shade matching services in-store or online to help customers find their perfect foundation match."
+    },
+    {
+        "interaction_id": "IA0043",
+        "product_id": "P0015",
+        "product_name": "Adidas Hoodie",
+        "query": "What materials are used in the Adidas Hoodie?",
+        "information": "The Adidas Hoodie is made from a blend of cotton and polyester for softness, warmth, and moisture-wicking properties."
+    },
+    {
+        "interaction_id": "IA0044",
+        "product_id": "P0015",
+        "product_name": "Adidas Hoodie",
+        "query": "Is the Adidas Hoodie machine washable?",
+        "information": "Yes, the Adidas Hoodie is machine washable for easy care and maintenance, retaining its shape and color wash after wash."
+    },
+    {
+        "interaction_id": "IA0045",
+        "product_id": "P0015",
+        "product_name": "Adidas Hoodie",
+        "query": "Does the Adidas Hoodie come in different colors?",
+        "information": "Yes, the Adidas Hoodie is available in various colors and designs to suit different styles and preferences."
+    },
+    {
+        "interaction_id": "IA0046",
+        "product_id": "P0016",
+        "product_name": "Bose Wireless Speakers",
+        "query": "What is the sound quality of Bose Wireless Speakers?",
+        "information": "Bose Wireless Speakers deliver exceptional sound quality with deep bass, clear highs, and balanced midrange for immersive audio experiences."
+    },
+    {
+        "interaction_id": "IA0047",
+        "product_id": "P0016",
+        "product_name": "Bose Wireless Speakers",
+        "query": "Are Bose Wireless Speakers compatible with smart home devices?",
+        "information": "Yes, Bose Wireless Speakers can be integrated with smart home devices like Amazon Alexa and Google Assistant for voice control and convenience."
+    },
+    {
+        "interaction_id": "IA0048",
+        "product_id": "P0016",
+        "product_name": "Bose Wireless Speakers",
+        "query": "Can Bose Wireless Speakers be connected wirelessly to multiple devices?",
+        "information": "Yes, Bose Wireless Speakers support Bluetooth and Wi-Fi connectivity, allowing them to connect wirelessly to multiple devices for versatile use."
+    },
+    {
+        "interaction_id": "IA0049",
+        "product_id": "P0017",
+        "product_name": "Nike Backpack",
+        "query": "What are the key features of the Nike Backpack?",
+        "information": "The Nike Backpack features multiple compartments for organized storage, padded shoulder straps for comfort, and a water-resistant exterior for durability."
+    },
+    {
+        "interaction_id": "IA0050",
+        "product_id": "P0017",
+        "product_name": "Nike Backpack",
+        "query": "Is the Nike Backpack suitable for travel?",
+        "information": "Yes, the Nike Backpack is designed for travel with ample space for essentials and ergonomic design to distribute weight evenly."
+    },
+    {
+        "interaction_id": "IA0051",
+        "product_id": "P0017",
+        "product_name": "Nike Backpack",
+        "query": "Does the Nike Backpack come with a warranty?",
+        "information": "Yes, the Nike Backpack comes with a limited lifetime warranty against manufacturing defects for added peace of mind."
+    },
+    {
+        "interaction_id": "IA0052",
+        "product_id": "P0018",
+        "product_name": "Wilson Tennis Racket",
+        "query": "What are the specifications of the Wilson Tennis Racket?",
+        "information": "The Wilson Tennis Racket features a graphite composite frame, cushioned grip for comfort, and an oversized head for added power and control."
+    },
+    {
+        "interaction_id": "IA0053",
+        "product_id": "P0018",
+        "product_name": "Wilson Tennis Racket",
+        "query": "Is the Wilson Tennis Racket suitable for beginners?",
+        "information": "The Wilson Tennis Racket is designed for intermediate to advanced players seeking performance and control, not specifically for beginners."
+    },
+    {
+        "interaction_id": "IA0054",
+        "product_id": "P0018",
+        "product_name": "Wilson Tennis Racket",
+        "query": "Does the Wilson Tennis Racket come pre-strung?",
+        "information": "Yes, the Wilson Tennis Racket comes pre-strung with synthetic gut strings for optimal playability and durability."
+    },
+    {
+        "interaction_id": "IA0055",
+        "product_id": "P0019",
+        "product_name": "Urban Decay Eyeshadow Palette",
+        "query": "What shades are included in the Urban Decay Eyeshadow Palette?",
+        "information": "The Urban Decay Eyeshadow Palette includes a variety of shades ranging from neutral mattes to bold shimmers, suitable for creating a range of eye looks."
+    },
+    {
+        "interaction_id": "IA0056",
+        "product_id": "P0019",
+        "product_name": "Urban Decay Eyeshadow Palette",
+        "query": "Are Urban Decay Eyeshadows long-lasting?",
+        "information": "Yes, Urban Decay Eyeshadows are formulated for long-lasting wear without creasing or fading, providing vibrant color throughout the day."
+    },
+    {
+        "interaction_id": "IA0057",
+        "product_id": "P0019",
+        "product_name": "Urban Decay Eyeshadow Palette",
+        "query": "How should Urban Decay Eyeshadow Palette be applied for best results?",
+        "information": "Urban Decay Eyeshadow Palette shades can be applied with brushes or fingertips, blending seamlessly for a professional finish."
+    },
+    {
+        "interaction_id": "IA0058",
+        "product_id": "P0020",
+        "product_name": "Under Armour Leggings",
+        "query": "What materials are used in Under Armour Leggings?",
+        "information": "Under Armour Leggings are made from a blend of polyester and elastane for stretch, comfort, and moisture-wicking properties."
+    },
+    {
+        "interaction_id": "IA0059",
+        "product_id": "P0020",
+        "product_name": "Under Armour Leggings",
+        "query": "Are Under Armour Leggings suitable for workouts?",
+        "information": "Yes, Under Armour Leggings are designed for workouts with a supportive fit, compression benefits, and sweat-wicking technology."
+    },
+    {
+        "interaction_id": "IA0060",
+        "product_id": "P0020",
+        "product_name": "Under Armour Leggings",
+        "query": "Do Under Armour Leggings come in different sizes?",
+        "information": "Yes, Under Armour Leggings are available in sizes ranging from XS to XXL, offering options for various body types."
+    },
+    {
+        "interaction_id": "IA0061",
+        "product_id": "P0021",
+        "product_name": "New Balance Running Shoes",
+        "query": "Are New Balance Running Shoes suitable for long-distance running?",
+        "information": "Yes, New Balance Running Shoes are designed for long-distance running with cushioned support and lightweight materials."
+    },
+    {
+        "interaction_id": "IA0062",
+        "product_id": "P0021",
+        "product_name": "New Balance Running Shoes",
+        "query": "What sizes are available for New Balance Running Shoes?",
+        "information": "New Balance Running Shoes are available in sizes ranging from US 6 to US 13, including half sizes for a precise fit."
+    },
+    {
+        "interaction_id": "IA0063",
+        "product_id": "P0021",
+        "product_name": "New Balance Running Shoes",
+        "query": "Do New Balance Running Shoes provide arch support?",
+        "information": "Yes, New Balance Running Shoes feature built-in arch support to enhance comfort and reduce fatigue during runs."
+    },
+    {
+        "interaction_id": "IA0064",
+        "product_id": "P0022",
+        "product_name": "Dell XPS 15 Laptop",
+        "query": "What are the key features of the Dell XPS 15 Laptop?",
+        "information": "The Dell XPS 15 Laptop features a high-resolution display, powerful Intel processor, and premium build quality for exceptional performance."
+    },
+    {
+        "interaction_id": "IA0065",
+        "product_id": "P0022",
+        "product_name": "Dell XPS 15 Laptop",
+        "query": "Is the Dell XPS 15 Laptop suitable for gaming?",
+        "information": "Yes, the Dell XPS 15 Laptop offers dedicated graphics options for gaming enthusiasts, delivering smooth gameplay and immersive visuals."
+    },
+    {
+        "interaction_id": "IA0066",
+        "product_id": "P0022",
+        "product_name": "Dell XPS 15 Laptop",
+        "query": "Does the Dell XPS 15 Laptop come with pre-installed software?",
+        "information": "Yes, the Dell XPS 15 Laptop comes with Windows 10 pre-installed and includes useful software for productivity and entertainment."
+    },
+    {
+        "interaction_id": "IA0067",
+        "product_id": "P0023",
+        "product_name": "Zara Jeans",
+        "query": "What materials are used in Zara Jeans?",
+        "information": "Zara Jeans are crafted from premium denim fabric for durability, comfort, and a flattering fit."
+    },
+    {
+        "interaction_id": "IA0068",
+        "product_id": "P0023",
+        "product_name": "Zara Jeans",
+        "query": "Are Zara Jeans available in different washes?",
+        "information": "Yes, Zara Jeans are available in various washes and styles, including skinny, straight-leg, and high-rise options to suit different preferences."
+    },
+    {
+        "interaction_id": "IA0069",
+        "product_id": "P0023",
+        "product_name": "Zara Jeans",
+        "query": "Do Zara Jeans shrink after washing?",
+        "information": "Zara Jeans are pre-shrunk to minimize shrinkage after washing, maintaining their shape and fit over time."
+    },
+    {
+        "interaction_id": "IA0070",
+        "product_id": "P0024",
+        "product_name": "Fossil Smartwatch",
+        "query": "What operating system does the Fossil Smartwatch use?",
+        "information": "The Fossil Smartwatch runs on Wear OS by Google, offering compatibility with Android and iOS devices for seamless integration."
+    },
+    {
+        "interaction_id": "IA0071",
+        "product_id": "P0024",
+        "product_name": "Fossil Smartwatch",
+        "query": "Does the Fossil Smartwatch support fitness tracking?",
+        "information": "Yes, the Fossil Smartwatch includes built-in fitness tracking features such as heart rate monitoring, activity tracking, and GPS for accurate workout data."
+    },
+    {
+        "interaction_id": "IA0072",
+        "product_id": "P0024",
+        "product_name": "Fossil Smartwatch",
+        "query": "Can notifications be managed on the Fossil Smartwatch?",
+        "information": "Yes, the Fossil Smartwatch allows users to manage notifications from their smartphone, including calls, messages, and app alerts."
+    },
+    {
+        "interaction_id": "IA0073",
+        "product_id": "P0025",
+        "product_name": "Revlon Lip Gloss",
+        "query": "What shades are available in Revlon Lip Gloss?",
+        "information": "Revlon Lip Gloss is available in a variety of shades ranging from sheer neutrals to bold colors, offering options for different makeup looks."
+    },
+    {
+        "interaction_id": "IA0074",
+        "product_id": "P0025",
+        "product_name": "Revlon Lip Gloss",
+        "query": "Is Revlon Lip Gloss sticky or lightweight?",
+        "information": "Revlon Lip Gloss has a lightweight formula that provides a glossy finish without feeling sticky or heavy on the lips."
+    },
+    {
+        "interaction_id": "IA0075",
+        "product_id": "P0025",
+        "product_name": "Revlon Lip Gloss",
+        "query": "Does Revlon Lip Gloss contain SPF protection?",
+        "information": "No, Revlon Lip Gloss does not contain SPF protection. It is recommended to apply sunscreen separately before using lip gloss for sun protection."
+    },
+    {
+        "interaction_id": "IA0076",
+        "product_id": "P0026",
+        "product_name": "Garmin GPS Running Watch",
+        "query": "What are the key features of the Garmin GPS Running Watch?",
+        "information": "The Garmin GPS Running Watch features built-in GPS for accurate distance tracking, heart rate monitoring, and performance metrics for runners and athletes."
+    },
+    {
+        "interaction_id": "IA0077",
+        "product_id": "P0026",
+        "product_name": "Garmin GPS Running Watch",
+        "query": "Is the Garmin GPS Running Watch waterproof?",
+        "information": "Yes, the Garmin GPS Running Watch is water-resistant up to 50 meters, making it suitable for swimming and water sports."
+    },
+    {
+        "interaction_id": "IA0078",
+        "product_id": "P0026",
+        "product_name": "Garmin GPS Running Watch",
+        "query": "Can the Garmin GPS Running Watch be synced with a smartphone?",
+        "information": "Yes, the Garmin GPS Running Watch can be synced with a smartphone via Bluetooth to receive notifications, track workouts, and download updates."
+    },
+    {
+        "interaction_id": "IA0079",
+        "product_id": "P0027",
+        "product_name": "GoPro Hero 10",
+        "query": "What resolution does the GoPro Hero 10 record in?",
+        "information": "The GoPro Hero 10 records videos in up to 5.3K resolution at 60 frames per second, offering crisp and detailed footage for capturing adventures."
+    },
+    {
+        "interaction_id": "IA0080",
+        "product_id": "P0027",
+        "product_name": "GoPro Hero 10",
+        "query": "Is the GoPro Hero 10 suitable for underwater use?",
+        "information": "Yes, the GoPro Hero 10 is waterproof up to 33 feet (10 meters) without a housing, making it ideal for snorkeling, swimming, and underwater activities."
+    },
+    {
+        "interaction_id": "IA0081",
+        "product_id": "P0027",
+        "product_name": "GoPro Hero 10",
+        "query": "Does the GoPro Hero 10 support live streaming?",
+        "information": "Yes, the GoPro Hero 10 supports live streaming in Full HD resolution, allowing users to share their adventures in real-time on social media platforms."
+    },
+    {
+        "interaction_id": "IA0082",
+        "product_id": "P0028",
+        "product_name": "Hollister Hoodie",
+        "query": "What materials are used in the Hollister Hoodie?",
+        "information": "The Hollister Hoodie is made from soft cotton-blend fabric for warmth and comfort, ideal for casual wear and lounging."
+    },
+    {
+        "interaction_id": "IA0083",
+        "product_id": "P0028",
+        "product_name": "Hollister Hoodie",
+        "query": "Does the Hollister Hoodie have a front pocket?",
+        "information": "Yes, the Hollister Hoodie features a front kangaroo pocket for storing essentials and keeping hands warm."
+    },
+    {
+        "interaction_id": "IA0084",
+        "product_id": "P0028",
+        "product_name": "Hollister Hoodie",
+        "query": "Is the Hollister Hoodie machine washable?",
+        "information": "Yes, the Hollister Hoodie is machine washable for easy care, maintaining its quality and softness wash after wash."
+    },
+    {
+        "interaction_id": "IA0085",
+        "product_id": "P0029",
+        "product_name": "Oakley Sunglasses",
+        "query": "What lens technology is used in Oakley Sunglasses?",
+        "information": "Oakley Sunglasses feature High Definition Optics\uff82\uff6e (HDO\uff82\uff6e) lenses for superior clarity, impact resistance, and UV protection against harmful sun rays."
+    },
+    {
+        "interaction_id": "IA0086",
+        "product_id": "P0029",
+        "product_name": "Oakley Sunglasses",
+        "query": "Are Oakley Sunglasses suitable for outdoor sports?",
+        "information": "Yes, Oakley Sunglasses are designed for outdoor sports with lightweight frames, secure fit, and lens options optimized for specific activities."
+    },
+    {
+        "interaction_id": "IA0087",
+        "product_id": "P0029",
+        "product_name": "Oakley Sunglasses",
+        "query": "Do Oakley Sunglasses come with a warranty?",
+        "information": "Yes, Oakley Sunglasses come with a limited warranty covering manufacturing defects, ensuring quality and customer satisfaction."
+    },
+    {
+        "interaction_id": "IA0088",
+        "product_id": "P0030",
+        "product_name": "Estee Lauder Foundation",
+        "query": "What skin types is Estee Lauder Foundation suitable for?",
+        "information": "Estee Lauder Foundation is suitable for all skin types, offering a range of formulas from sheer to full coverage for customized results."
+    },
+    {
+        "interaction_id": "IA0089",
+        "product_id": "P0030",
+        "product_name": "Estee Lauder Foundation",
+        "query": "Does Estee Lauder Foundation provide long-lasting coverage?",
+        "information": "Yes, Estee Lauder Foundation is formulated for long-lasting wear, providing a smooth and flawless finish that lasts throughout the day."
+    },
+    {
+        "interaction_id": "IA0090",
+        "product_id": "P0030",
+        "product_name": "Estee Lauder Foundation",
+        "query": "Is Estee Lauder Foundation fragrance-free?",
+        "information": "No, Estee Lauder Foundation may contain fragrance. It is recommended to check the product label or inquire with a beauty advisor for specific details."
+    },
+    {
+        "interaction_id": "IA0091",
+        "product_id": "P0031",
+        "product_name": "Sketchers Sneakers",
+        "query": "Are Sketchers Sneakers suitable for running?",
+        "information": "Sketchers Sneakers are designed for everyday comfort and casual wear. While they provide support, they may not be ideal for intense running workouts."
+    },
+    {
+        "interaction_id": "IA0092",
+        "product_id": "P0031",
+        "product_name": "Sketchers Sneakers",
+        "query": "What sizes are available in Sketchers Sneakers?",
+        "information": "Sketchers Sneakers are available in sizes ranging from US 7 to US 13, offering a variety of sizes for men and women."
+    },
+    {
+        "interaction_id": "IA0093",
+        "product_id": "P0031",
+        "product_name": "Sketchers Sneakers",
+        "query": "Do Sketchers Sneakers have memory foam insoles?",
+        "information": "Yes, Sketchers Sneakers feature memory foam insoles for enhanced cushioning and comfort, adapting to the shape of your foot."
+    },
+    {
+        "interaction_id": "IA0094",
+        "product_id": "P0032",
+        "product_name": "H&M Basic T-Shirt",
+        "query": "What materials are used in H&M Basic T-Shirt?",
+        "information": "H&M Basic T-Shirt is made from soft cotton fabric for a comfortable fit and breathability."
+    },
+    {
+        "interaction_id": "IA0095",
+        "product_id": "P0032",
+        "product_name": "H&M Basic T-Shirt",
+        "query": "Are H&M Basic T-Shirts available in different colors?",
+        "information": "Yes, H&M Basic T-Shirts are available in various colors, including classic neutrals and seasonal shades."
+    },
+    {
+        "interaction_id": "IA0096",
+        "product_id": "P0032",
+        "product_name": "H&M Basic T-Shirt",
+        "query": "Do H&M Basic T-Shirts shrink after washing?",
+        "information": "H&M Basic T-Shirts are pre-shrunk to minimize shrinkage after washing, ensuring they maintain their size and shape."
+    },
+    {
+        "interaction_id": "IA0097",
+        "product_id": "P0033",
+        "product_name": "Amazon Kindle Paperwhite",
+        "query": "What is the display resolution of Amazon Kindle Paperwhite?",
+        "information": "Amazon Kindle Paperwhite features a high-resolution display with 300 pixels per inch (PPI), providing sharp text and images for an enjoyable reading experience."
+    },
+    {
+        "interaction_id": "IA0098",
+        "product_id": "P0033",
+        "product_name": "Amazon Kindle Paperwhite",
+        "query": "Does Amazon Kindle Paperwhite support audiobooks?",
+        "information": "Yes, Amazon Kindle Paperwhite supports Audible audiobooks via Bluetooth connectivity, allowing users to listen to their favorite books."
+    },
+    {
+        "interaction_id": "IA0099",
+        "product_id": "P0033",
+        "product_name": "Amazon Kindle Paperwhite",
+        "query": "How long does the battery last on Amazon Kindle Paperwhite?",
+        "information": "Amazon Kindle Paperwhite's battery can last up to several weeks on a single charge, depending on usage and wireless connectivity."
+    },
+    {
+        "interaction_id": "IA0100",
+        "product_id": "P0034",
+        "product_name": "Montblanc Fountain Pen",
+        "query": "What type of ink does Montblanc Fountain Pen use?",
+        "information": "Montblanc Fountain Pen uses high-quality ink cartridges or bottled ink, providing a smooth and consistent writing experience."
+    },
+    {
+        "interaction_id": "IA0101",
+        "product_id": "P0034",
+        "product_name": "Montblanc Fountain Pen",
+        "query": "Is Montblanc Fountain Pen refillable?",
+        "information": "Yes, Montblanc Fountain Pen is refillable with ink cartridges or a converter, allowing users to choose their preferred ink color and refill method."
+    },
+    {
+        "interaction_id": "IA0102",
+        "product_id": "P0034",
+        "product_name": "Montblanc Fountain Pen",
+        "query": "Does Montblanc Fountain Pen come with a warranty?",
+        "information": "Yes, Montblanc Fountain Pen comes with a warranty covering manufacturing defects, ensuring quality craftsmanship and customer satisfaction."
+    },
+    {
+        "interaction_id": "IA0103",
+        "product_id": "P0035",
+        "product_name": "Clinique Moisturizer",
+        "query": "What skin types is Clinique Moisturizer suitable for?",
+        "information": "Clinique Moisturizer is suitable for all skin types, including sensitive skin, providing hydration without clogging pores."
+    },
+    {
+        "interaction_id": "IA0104",
+        "product_id": "P0035",
+        "product_name": "Clinique Moisturizer",
+        "query": "Is Clinique Moisturizer fragrance-free?",
+        "information": "Yes, Clinique Moisturizer is fragrance-free, making it suitable for individuals with fragrance sensitivities."
+    },
+    {
+        "interaction_id": "IA0105",
+        "product_id": "P0035",
+        "product_name": "Clinique Moisturizer",
+        "query": "Does Clinique Moisturizer provide SPF protection?",
+        "information": "Some variants of Clinique Moisturizer include SPF protection for added sun protection benefits. It is recommended to check the specific product label."
+    },
+    {
+        "interaction_id": "IA0106",
+        "product_id": "P0036",
+        "product_name": "Tommy Hilfiger Jacket",
+        "query": "What materials are used in Tommy Hilfiger Jacket?",
+        "information": "Tommy Hilfiger Jacket is crafted from durable polyester fabric with a soft lining for warmth and comfort."
+    },
+    {
+        "interaction_id": "IA0107",
+        "product_id": "P0036",
+        "product_name": "Tommy Hilfiger Jacket",
+        "query": "Is Tommy Hilfiger Jacket machine washable?",
+        "information": "Yes, Tommy Hilfiger Jacket is machine washable for easy care, maintaining its quality and color after washing."
+    },
+    {
+        "interaction_id": "IA0108",
+        "product_id": "P0036",
+        "product_name": "Tommy Hilfiger Jacket",
+        "query": "Does Tommy Hilfiger Jacket have adjustable features?",
+        "information": "Tommy Hilfiger Jacket features adjustable cuffs and a drawstring hem for a customizable fit and added protection against the elements."
+    },
+    {
+        "interaction_id": "IA0109",
+        "product_id": "P0037",
+        "product_name": "Vans Classic Slip-Ons",
+        "query": "What sizes are available in Vans Classic Slip-Ons?",
+        "information": "Vans Classic Slip-Ons are available in sizes ranging from US 5 to US 14, catering to both men and women."
+    },
+    {
+        "interaction_id": "IA0110",
+        "product_id": "P0037",
+        "product_name": "Vans Classic Slip-Ons",
+        "query": "Do Vans Classic Slip-Ons stretch over time?",
+        "information": "Yes, Vans Classic Slip-Ons may stretch slightly over time, conforming to the shape of the foot for a comfortable fit."
+    },
+    {
+        "interaction_id": "IA0111",
+        "product_id": "P0037",
+        "product_name": "Vans Classic Slip-Ons",
+        "query": "Are Vans Classic Slip-Ons suitable for casual wear?",
+        "information": "Yes, Vans Classic Slip-Ons are designed for casual wear, offering ease of use with their slip-on style and comfortable construction."
+    },
+    {
+        "interaction_id": "IA0112",
+        "product_id": "P0038",
+        "product_name": "Microsoft Surface Laptop 4",
+        "query": "What are the key features of Microsoft Surface Laptop 4?",
+        "information": "Microsoft Surface Laptop 4 features a high-resolution PixelSense display, powerful Intel processors, and all-day battery life for productivity and creativity."
+    },
+    {
+        "interaction_id": "IA0113",
+        "product_id": "P0038",
+        "product_name": "Microsoft Surface Laptop 4",
+        "query": "Does Microsoft Surface Laptop 4 support touchscreen functionality?",
+        "information": "Yes, Microsoft Surface Laptop 4 features a touchscreen display with support for Surface Pen (sold separately), enhancing interaction and productivity."
+    },
+    {
+        "interaction_id": "IA0114",
+        "product_id": "P0038",
+        "product_name": "Microsoft Surface Laptop 4",
+        "query": "Can Microsoft Surface Laptop 4 run graphic-intensive applications?",
+        "information": "Yes, Microsoft Surface Laptop 4 is equipped with integrated Intel Iris Xe or AMD Radeon Graphics, capable of running graphic-intensive applications for creative work."
+    },
+    {
+        "interaction_id": "IA0115",
+        "product_id": "P0039",
+        "product_name": "Wilson Tennis Balls",
+        "query": "What type of court are Wilson Tennis Balls suitable for?",
+        "information": "Wilson Tennis Balls are suitable for use on all court surfaces, including hard courts, clay courts, and grass courts."
+    },
+    {
+        "interaction_id": "IA0116",
+        "product_id": "P0039",
+        "product_name": "Wilson Tennis Balls",
+        "query": "How many balls are included in a pack of Wilson Tennis Balls?",
+        "information": "Wilson Tennis Balls are typically sold in cans containing three balls per pack, ensuring consistent performance and durability."
+    },
+    {
+        "interaction_id": "IA0117",
+        "product_id": "P0039",
+        "product_name": "Wilson Tennis Balls",
+        "query": "Are Wilson Tennis Balls suitable for competitive play?",
+        "information": "Yes, Wilson Tennis Balls are designed for both recreational and competitive play, meeting the standards for consistent bounce and durability."
+    },
+    {
+        "interaction_id": "IA0118",
+        "product_id": "P0040",
+        "product_name": "Coach Wallet",
+        "query": "What materials are used in Coach Wallet?",
+        "information": "Coach Wallet is crafted from high-quality leather, known for its durability and luxurious texture."
+    },
+    {
+        "interaction_id": "IA0119",
+        "product_id": "P0040",
+        "product_name": "Coach Wallet",
+        "query": "How many card slots does Coach Wallet have?",
+        "information": "Coach Wallet features multiple card slots, providing ample space for credit cards, ID cards, and other essentials."
+    },
+    {
+        "interaction_id": "IA0120",
+        "product_id": "P0040",
+        "product_name": "Coach Wallet",
+        "query": "Is Coach Wallet RFID-blocking?",
+        "information": "Yes, Coach Wallet includes RFID-blocking technology, protecting your cards from unauthorized scanning and identity theft."
+    },
+    {
+        "interaction_id": "IA0121",
+        "product_id": "P0041",
+        "product_name": "NYX Lip Liner",
+        "query": "What shades are available in NYX Lip Liner?",
+        "information": "NYX Lip Liner is available in a variety of shades, ranging from natural neutrals to bold colors, allowing you to create defined and long-lasting lip looks."
+    },
+    {
+        "interaction_id": "IA0122",
+        "product_id": "P0041",
+        "product_name": "NYX Lip Liner",
+        "query": "Is NYX Lip Liner waterproof?",
+        "information": "Yes, NYX Lip Liner features a waterproof formula, ensuring color stays in place throughout the day without smudging or fading."
+    },
+    {
+        "interaction_id": "IA0123",
+        "product_id": "P0041",
+        "product_name": "NYX Lip Liner",
+        "query": "Does NYX Lip Liner require sharpening?",
+        "information": "Yes, NYX Lip Liner is designed to be sharpened with a standard cosmetic pencil sharpener, maintaining precision for flawless application."
+    },
+    {
+        "interaction_id": "IA0124",
+        "product_id": "P0042",
+        "product_name": "Forever 21 Dress",
+        "query": "What sizes are available in Forever 21 Dress?",
+        "information": "Forever 21 Dress is available in sizes ranging from XS to XL, catering to a variety of body shapes and preferences."
+    },
+    {
+        "interaction_id": "IA0125",
+        "product_id": "P0042",
+        "product_name": "Forever 21 Dress",
+        "query": "Is Forever 21 Dress suitable for formal occasions?",
+        "information": "Forever 21 Dress is versatile and can be dressed up or down, making it suitable for both casual outings and semi-formal occasions."
+    },
+    {
+        "interaction_id": "IA0126",
+        "product_id": "P0042",
+        "product_name": "Forever 21 Dress",
+        "query": "Does Forever 21 Dress come in different colors?",
+        "information": "Yes, Forever 21 Dress is available in multiple colors and patterns, allowing you to choose a style that matches your personal taste."
+    },
+    {
+        "interaction_id": "IA0127",
+        "product_id": "P0043",
+        "product_name": "Fitbit Charge 5",
+        "query": "What are the key features of Fitbit Charge 5?",
+        "information": "Fitbit Charge 5 features advanced health and fitness tracking capabilities, including built-in GPS, heart rate monitoring, sleep tracking, and a vibrant AMOLED display."
+    },
+    {
+        "interaction_id": "IA0128",
+        "product_id": "P0043",
+        "product_name": "Fitbit Charge 5",
+        "query": "Is Fitbit Charge 5 water-resistant?",
+        "information": "Yes, Fitbit Charge 5 is water-resistant up to 50 meters, making it suitable for swimming and other water activities."
+    },
+    {
+        "interaction_id": "IA0129",
+        "product_id": "P0043",
+        "product_name": "Fitbit Charge 5",
+        "query": "Does Fitbit Charge 5 support smartphone notifications?",
+        "information": "Yes, Fitbit Charge 5 notifies you of calls, texts, calendar events, and app alerts directly on your wrist, keeping you connected throughout the day."
+    },
+    {
+        "interaction_id": "IA0130",
+        "product_id": "P0044",
+        "product_name": "Herschel Backpack",
+        "query": "What materials is Herschel Backpack made of?",
+        "information": "Herschel Backpack is made of durable polyester fabric with a signature striped lining, offering reliable performance and a timeless look."
+    },
+    {
+        "interaction_id": "IA0131",
+        "product_id": "P0044",
+        "product_name": "Herschel Backpack",
+        "query": "Is Herschel Backpack suitable for laptops?",
+        "information": "Herschel Backpack features a padded and fleece-lined compartment that can fit laptops up to 15 inches, providing secure storage and protection."
+    },
+    {
+        "interaction_id": "IA0132",
+        "product_id": "P0044",
+        "product_name": "Herschel Backpack",
+        "query": "Does Herschel Backpack have additional compartments?",
+        "information": "Yes, Herschel Backpack includes multiple compartments and pockets for organizing essentials, such as water bottles, keys, and electronics."
+    },
+    {
+        "interaction_id": "IA0133",
+        "product_id": "P0045",
+        "product_name": "Bobbi Brown Highlighter",
+        "query": "What shades are available in Bobbi Brown Highlighter?",
+        "information": "Bobbi Brown Highlighter is available in a range of shades to complement different skin tones, delivering a luminous finish for a natural glow."
+    },
+    {
+        "interaction_id": "IA0134",
+        "product_id": "P0045",
+        "product_name": "Bobbi Brown Highlighter",
+        "query": "Is Bobbi Brown Highlighter suitable for sensitive skin?",
+        "information": "Bobbi Brown Highlighter is dermatologist-tested and suitable for sensitive skin, formulated without parabens, phthalates, sulfates, and gluten."
+    },
+    {
+        "interaction_id": "IA0135",
+        "product_id": "P0045",
+        "product_name": "Bobbi Brown Highlighter",
+        "query": "How should Bobbi Brown Highlighter be applied?",
+        "information": "Bobbi Brown Highlighter can be applied with a makeup brush or fingertips to areas where light naturally hits the face, such as cheekbones, brow bones, and the cupid's bow."
+    },
+    {
+        "interaction_id": "IA0136",
+        "product_id": "P0046",
+        "product_name": "Converse Chuck Taylor Sneakers",
+        "query": "Are Converse Chuck Taylor Sneakers true to size?",
+        "information": "Converse Chuck Taylor Sneakers typically run true to size, but some individuals prefer to size down for a snug fit, especially for narrow feet."
+    },
+    {
+        "interaction_id": "IA0137",
+        "product_id": "P0046",
+        "product_name": "Converse Chuck Taylor Sneakers",
+        "query": "Do Converse Chuck Taylor Sneakers come in different colors?",
+        "information": "Yes, Converse Chuck Taylor Sneakers are available in a wide range of colors and patterns, including classic neutrals and seasonal shades."
+    },
+    {
+        "interaction_id": "IA0138",
+        "product_id": "P0046",
+        "product_name": "Converse Chuck Taylor Sneakers",
+        "query": "Can Converse Chuck Taylor Sneakers be washed?",
+        "information": "Yes, Converse Chuck Taylor Sneakers can be washed by hand using a mild detergent and air-dried to maintain their shape and color."
+    },
+    {
+        "interaction_id": "IA0139",
+        "product_id": "P0047",
+        "product_name": "Uniqlo Polo Shirt",
+        "query": "What materials is Uniqlo Polo Shirt made of?",
+        "information": "Uniqlo Polo Shirt is crafted from breathable cotton fabric with a soft texture, ensuring comfort and ease of movement."
+    },
+    {
+        "interaction_id": "IA0140",
+        "product_id": "P0047",
+        "product_name": "Uniqlo Polo Shirt",
+        "query": "Is Uniqlo Polo Shirt suitable for machine washing?",
+        "information": "Yes, Uniqlo Polo Shirt is machine washable for easy care, maintaining its shape and color after repeated washes."
+    },
+    {
+        "interaction_id": "IA0141",
+        "product_id": "P0047",
+        "product_name": "Uniqlo Polo Shirt",
+        "query": "Does Uniqlo Polo Shirt come in different fits?",
+        "information": "Yes, Uniqlo Polo Shirt is available in different fits, including regular fit and slim fit, allowing you to choose a style that suits your preference."
+    },
+    {
+        "interaction_id": "IA0142",
+        "product_id": "P0048",
+        "product_name": "JBL Bluetooth Speaker",
+        "query": "What is the battery life of JBL Bluetooth Speaker?",
+        "information": "JBL Bluetooth Speaker offers up to 12 hours of playtime on a single charge, ensuring continuous music enjoyment throughout the day."
+    },
+    {
+        "interaction_id": "IA0143",
+        "product_id": "P0048",
+        "product_name": "JBL Bluetooth Speaker",
+        "query": "Is JBL Bluetooth Speaker waterproof?",
+        "information": "Yes, JBL Bluetooth Speaker is waterproof with an IPX7 rating, making it suitable for outdoor use and poolside gatherings."
+    },
+    {
+        "interaction_id": "IA0144",
+        "product_id": "P0048",
+        "product_name": "JBL Bluetooth Speaker",
+        "query": "Does JBL Bluetooth Speaker support voice assistants?",
+        "information": "Yes, JBL Bluetooth Speaker features built-in voice assistant integration, allowing you to control music playback and access information hands-free."
+    },
+    {
+        "interaction_id": "IA0145",
+        "product_id": "P0049",
+        "product_name": "Nike Sports Socks",
+        "query": "What materials are Nike Sports Socks made of?",
+        "information": "Nike Sports Socks are made of breathable and moisture-wicking materials, such as polyester and spandex blends, ensuring comfort and performance during workouts."
+    },
+    {
+        "interaction_id": "IA0146",
+        "product_id": "P0049",
+        "product_name": "Nike Sports Socks",
+        "query": "Are Nike Sports Socks suitable for different sports activities?",
+        "information": "Yes, Nike Sports Socks are designed for various sports activities, providing cushioning and support where needed, whether you're running, playing basketball, or training in the gym."
+    },
+    {
+        "interaction_id": "IA0147",
+        "product_id": "P0049",
+        "product_name": "Nike Sports Socks",
+        "query": "Do Nike Sports Socks come in different sizes?",
+        "information": "Yes, Nike Sports Socks are available in multiple sizes, ensuring a comfortable fit for different foot sizes and preferences."
+    },
+    {
+        "interaction_id": "IA0148",
+        "product_id": "P0050",
+        "product_name": "Tumi Travel Backpack",
+        "query": "What features does Tumi Travel Backpack offer for travel?",
+        "information": "Tumi Travel Backpack features multiple compartments for organizing travel essentials, a padded laptop compartment, and a Tumi Tracer to help recover lost or stolen items."
+    },
+    {
+        "interaction_id": "IA0149",
+        "product_id": "P0050",
+        "product_name": "Tumi Travel Backpack",
+        "query": "Is Tumi Travel Backpack TSA-friendly?",
+        "information": "Yes, Tumi Travel Backpack meets TSA carry-on requirements, allowing you to breeze through airport security checkpoints without hassle."
+    },
+    {
+        "interaction_id": "IA0150",
+        "product_id": "P0050",
+        "product_name": "Tumi Travel Backpack",
+        "query": "Does Tumi Travel Backpack have adjustable straps?",
+        "information": "Yes, Tumi Travel Backpack is equipped with adjustable shoulder straps and a padded back panel for comfort during long journeys."
+    },
+    {
+        "interaction_id": "IA0151",
+        "product_id": "P0051",
+        "product_name": "Skechers Go Walk Shoes",
+        "query": "Are Skechers Go Walk Shoes suitable for walking long distances?",
+        "information": "Yes, Skechers Go Walk Shoes are designed for comfort and support during long walks, featuring lightweight materials and cushioned insoles."
+    },
+    {
+        "interaction_id": "IA0152",
+        "product_id": "P0051",
+        "product_name": "Skechers Go Walk Shoes",
+        "query": "Do Skechers Go Walk Shoes come in different colors?",
+        "information": "Yes, Skechers Go Walk Shoes are available in a variety of colors and styles, allowing you to choose a pair that matches your personal preference."
+    },
+    {
+        "interaction_id": "IA0153",
+        "product_id": "P0051",
+        "product_name": "Skechers Go Walk Shoes",
+        "query": "Are Skechers Go Walk Shoes easy to clean?",
+        "information": "Yes, Skechers Go Walk Shoes can be cleaned with a damp cloth and mild soap, maintaining their appearance and performance over time."
+    },
+    {
+        "interaction_id": "IA0154",
+        "product_id": "P0052",
+        "product_name": "Sony PlayStation 5",
+        "query": "What are the key features of Sony PlayStation 5?",
+        "information": "Sony PlayStation 5 features advanced graphics capabilities, ultra-high-speed SSD, immersive 3D audio, and an innovative DualSense controller for enhanced gaming experiences."
+    },
+    {
+        "interaction_id": "IA0155",
+        "product_id": "P0052",
+        "product_name": "Sony PlayStation 5",
+        "query": "Is Sony PlayStation 5 backward compatible with PS4 games?",
+        "information": "Yes, Sony PlayStation 5 supports backward compatibility with most PS4 games, allowing you to enjoy a vast library of titles on the new console."
+    },
+    {
+        "interaction_id": "IA0156",
+        "product_id": "P0052",
+        "product_name": "Sony PlayStation 5",
+        "query": "Does Sony PlayStation 5 include a Blu-ray disc drive?",
+        "information": "Yes, Sony PlayStation 5 is available in models with an Ultra HD Blu-ray disc drive, enabling you to play physical game discs and watch Blu-ray movies."
+    },
+    {
+        "interaction_id": "IA0157",
+        "product_id": "P0053",
+        "product_name": "Gap Denim Jacket",
+        "query": "What sizes are available in Gap Denim Jacket?",
+        "information": "Gap Denim Jacket is available in sizes ranging from XS to XXL, ensuring a comfortable and flattering fit for various body types."
+    },
+    {
+        "interaction_id": "IA0158",
+        "product_id": "P0053",
+        "product_name": "Gap Denim Jacket",
+        "query": "Is Gap Denim Jacket suitable for all seasons?",
+        "information": "Gap Denim Jacket is versatile and can be layered for warmth in cooler weather or worn alone as a stylish outerwear piece during milder seasons."
+    },
+    {
+        "interaction_id": "IA0159",
+        "product_id": "P0053",
+        "product_name": "Gap Denim Jacket",
+        "query": "Does Gap Denim Jacket have multiple pockets?",
+        "information": "Yes, Gap Denim Jacket features multiple functional pockets, providing convenient storage for small essentials like keys, wallet, or phone."
+    },
+    {
+        "interaction_id": "IA0160",
+        "product_id": "P0054",
+        "product_name": "Michael Kors Crossbody Bag",
+        "query": "What materials is Michael Kors Crossbody Bag made of?",
+        "information": "Michael Kors Crossbody Bag is crafted from high-quality leather with a luxurious finish, featuring gold-tone hardware and a practical design."
+    },
+    {
+        "interaction_id": "IA0161",
+        "product_id": "P0054",
+        "product_name": "Michael Kors Crossbody Bag",
+        "query": "Is Michael Kors Crossbody Bag adjustable?",
+        "information": "Yes, Michael Kors Crossbody Bag comes with an adjustable strap, allowing you to customize the length for comfortable wear across the body or over the shoulder."
+    },
+    {
+        "interaction_id": "IA0162",
+        "product_id": "P0054",
+        "product_name": "Michael Kors Crossbody Bag",
+        "query": "Does Michael Kors Crossbody Bag have interior compartments?",
+        "information": "Yes, Michael Kors Crossbody Bag includes multiple interior compartments and pockets for organizing essentials such as phone, keys, and cards."
+    },
+    {
+        "interaction_id": "IA0163",
+        "product_id": "P0055",
+        "product_name": "Neutrogena Sunscreen",
+        "query": "What SPF level is Neutrogena Sunscreen?",
+        "information": "Neutrogena Sunscreen offers broad-spectrum protection with SPF 50+, shielding your skin from both UVA and UVB rays for comprehensive sun protection."
+    },
+    {
+        "interaction_id": "IA0164",
+        "product_id": "P0055",
+        "product_name": "Neutrogena Sunscreen",
+        "query": "Is Neutrogena Sunscreen suitable for sensitive skin?",
+        "information": "Yes, Neutrogena Sunscreen is dermatologist-tested and gentle enough for sensitive skin, featuring a lightweight and non-greasy formula."
+    },
+    {
+        "interaction_id": "IA0165",
+        "product_id": "P0055",
+        "product_name": "Neutrogena Sunscreen",
+        "query": "Does Neutrogena Sunscreen leave a white cast?",
+        "information": "No, Neutrogena Sunscreen is formulated to blend seamlessly into the skin without leaving a white cast, making it suitable for daily use under makeup or alone."
+    },
+    {
+        "interaction_id": "IA0166",
+        "product_id": "P0056",
+        "product_name": "Adidas Soccer Cleats",
+        "query": "What materials are Adidas Soccer Cleats made of?",
+        "information": "Adidas Soccer Cleats are crafted from lightweight synthetic materials for agility and durability on the field, providing optimal performance during matches."
+    },
+    {
+        "interaction_id": "IA0167",
+        "product_id": "P0056",
+        "product_name": "Adidas Soccer Cleats",
+        "query": "Do Adidas Soccer Cleats come in different sizes?",
+        "information": "Yes, Adidas Soccer Cleats are available in various sizes, ensuring a snug and comfortable fit for different foot shapes and preferences."
+    },
+    {
+        "interaction_id": "IA0168",
+        "product_id": "P0056",
+        "product_name": "Adidas Soccer Cleats",
+        "query": "Are Adidas Soccer Cleats suitable for different playing surfaces?",
+        "information": "Yes, Adidas Soccer Cleats are designed with stud configurations suitable for both firm ground and artificial turf, offering traction and stability."
+    },
+    {
+        "interaction_id": "IA0169",
+        "product_id": "P0057",
+        "product_name": "Canon EOS Rebel T7i",
+        "query": "What are the key features of Canon EOS Rebel T7i?",
+        "information": "Canon EOS Rebel T7i features a 24.2MP APS-C CMOS sensor, DIGIC 7 image processor, 45-point all cross-type AF system, and Full HD 1080p video recording capabilities for high-quality photography and videography."
+    },
+    {
+        "interaction_id": "IA0170",
+        "product_id": "P0057",
+        "product_name": "Canon EOS Rebel T7i",
+        "query": "Is Canon EOS Rebel T7i compatible with EF lenses?",
+        "information": "Yes, Canon EOS Rebel T7i is compatible with Canon EF and EF-S lenses, offering versatility and the ability to expand your photography creativity with a wide range of lens options."
+    },
+    {
+        "interaction_id": "IA0171",
+        "product_id": "P0057",
+        "product_name": "Canon EOS Rebel T7i",
+        "query": "Does Canon EOS Rebel T7i have built-in Wi-Fi and NFC?",
+        "information": "Yes, Canon EOS Rebel T7i features built-in Wi-Fi, NFC, and Bluetooth connectivity, enabling seamless image transfer to compatible devices and remote camera control."
+    },
+    {
+        "interaction_id": "IA0172",
+        "product_id": "P0058",
+        "product_name": "American Eagle Graphic T-Shirt",
+        "query": "What designs are available in American Eagle Graphic T-Shirt?",
+        "information": "American Eagle Graphic T-Shirt features a variety of designs, including vintage-inspired graphics, logos, and artistic prints, adding a stylish touch to your casual wardrobe."
+    },
+    {
+        "interaction_id": "IA0173",
+        "product_id": "P0058",
+        "product_name": "American Eagle Graphic T-Shirt",
+        "query": "Is American Eagle Graphic T-Shirt made of cotton?",
+        "information": "Yes, American Eagle Graphic T-Shirt is made of soft cotton fabric, offering comfort and breathability for everyday wear."
+    },
+    {
+        "interaction_id": "IA0174",
+        "product_id": "P0058",
+        "product_name": "American Eagle Graphic T-Shirt",
+        "query": "Does American Eagle Graphic T-Shirt shrink after washing?",
+        "information": "American Eagle Graphic T-Shirt is pre-shrunk to maintain its original size and shape after washing, ensuring a consistent fit over time."
+    },
+    {
+        "interaction_id": "IA0175",
+        "product_id": "P0059",
+        "product_name": "Louis Vuitton Belt",
+        "query": "What sizes are available in Louis Vuitton Belt?",
+        "information": "Louis Vuitton Belt is available in various sizes, allowing you to find a perfect fit based on your waist measurement."
+    },
+    {
+        "interaction_id": "IA0176",
+        "product_id": "P0059",
+        "product_name": "Louis Vuitton Belt",
+        "query": "Is Louis Vuitton Belt reversible?",
+        "information": "Yes, Louis Vuitton Belt features a reversible design with different colors or patterns on each side, offering versatility to complement different outfits."
+    },
+    {
+        "interaction_id": "IA0177",
+        "product_id": "P0059",
+        "product_name": "Louis Vuitton Belt",
+        "query": "Does Louis Vuitton Belt come with a dust bag?",
+        "information": "Yes, Louis Vuitton Belt is packaged with a dust bag and box, ensuring protection and elegant presentation when not in use."
+    },
+    {
+        "interaction_id": "IA0178",
+        "product_id": "P0060",
+        "product_name": "Kiehl's Facial Cream",
+        "query": "What skin types is Kiehl's Facial Cream suitable for?",
+        "information": "Kiehl's Facial Cream is suitable for all skin types, including dry, oily, and sensitive skin, providing hydration without clogging pores."
+    },
+    {
+        "interaction_id": "IA0179",
+        "product_id": "P0060",
+        "product_name": "Kiehl's Facial Cream",
+        "query": "Does Kiehl's Facial Cream have SPF protection?",
+        "information": "No, Kiehl's Facial Cream does not contain SPF protection. It is recommended to use a separate sunscreen with adequate SPF for sun protection."
+    },
+    {
+        "interaction_id": "IA0180",
+        "product_id": "P0060",
+        "product_name": "Kiehl's Facial Cream",
+        "query": "Is Kiehl's Facial Cream fragrance-free?",
+        "information": "Yes, Kiehl's Facial Cream is fragrance-free, making it suitable for individuals with fragrance sensitivities or preferences."
+    },
+    {
+        "interaction_id": "IA0181",
+        "product_id": "P0061",
+        "product_name": "Vans Old Skool Sneakers",
+        "query": "Are Vans Old Skool Sneakers suitable for everyday wear?",
+        "information": "Yes, Vans Old Skool Sneakers are designed for both style and comfort, making them suitable for everyday casual wear."
+    },
+    {
+        "interaction_id": "IA0182",
+        "product_id": "P0061",
+        "product_name": "Vans Old Skool Sneakers",
+        "query": "Do Vans Old Skool Sneakers come in different colors?",
+        "information": "Yes, Vans Old Skool Sneakers are available in a variety of colors and patterns, allowing you to choose a pair that matches your personal style."
+    },
+    {
+        "interaction_id": "IA0183",
+        "product_id": "P0061",
+        "product_name": "Vans Old Skool Sneakers",
+        "query": "Are Vans Old Skool Sneakers durable?",
+        "information": "Yes, Vans Old Skool Sneakers are known for their durability, featuring sturdy canvas and suede materials that withstand daily wear and tear."
+    },
+    {
+        "interaction_id": "IA0184",
+        "product_id": "P0062",
+        "product_name": "Zara Sweater",
+        "query": "What sizes are available in Zara Sweater?",
+        "information": "Zara Sweater is available in sizes ranging from XS to XL, ensuring a comfortable fit for various body types."
+    },
+    {
+        "interaction_id": "IA0185",
+        "product_id": "P0062",
+        "product_name": "Zara Sweater",
+        "query": "Is Zara Sweater machine washable?",
+        "information": "Yes, Zara Sweater is machine washable. It is recommended to follow the care instructions on the garment label for best results."
+    },
+    {
+        "interaction_id": "IA0186",
+        "product_id": "P0062",
+        "product_name": "Zara Sweater",
+        "query": "Does Zara Sweater shrink after washing?",
+        "information": "Zara Sweater is pre-shrunk to minimize shrinkage after washing, maintaining its original size and shape."
+    },
+    {
+        "interaction_id": "IA0187",
+        "product_id": "P0063",
+        "product_name": "Apple iPad Pro",
+        "query": "What are the key features of Apple iPad Pro?",
+        "information": "Apple iPad Pro features a Liquid Retina display, powerful A-series chip, Face ID for secure authentication, and support for Apple Pencil and Magic Keyboard accessories."
+    },
+    {
+        "interaction_id": "IA0188",
+        "product_id": "P0063",
+        "product_name": "Apple iPad Pro",
+        "query": "Is Apple iPad Pro suitable for multitasking?",
+        "information": "Yes, Apple iPad Pro is designed for multitasking with its powerful performance and ability to run multiple apps simultaneously, making it ideal for productivity tasks."
+    },
+    {
+        "interaction_id": "IA0189",
+        "product_id": "P0063",
+        "product_name": "Apple iPad Pro",
+        "query": "Does Apple iPad Pro support 5G connectivity?",
+        "information": "Yes, select models of Apple iPad Pro support 5G connectivity, providing fast internet speeds for streaming, downloading, and online collaboration."
+    },
+    {
+        "interaction_id": "IA0190",
+        "product_id": "P0064",
+        "product_name": "Puma Baseball Cap",
+        "query": "Is Puma Baseball Cap adjustable?",
+        "information": "Yes, Puma Baseball Cap features an adjustable strap or closure at the back, allowing you to customize the fit for comfort."
+    },
+    {
+        "interaction_id": "IA0191",
+        "product_id": "P0064",
+        "product_name": "Puma Baseball Cap",
+        "query": "What materials is Puma Baseball Cap made of?",
+        "information": "Puma Baseball Cap is made of lightweight and breathable materials such as cotton or polyester, providing ventilation and comfort during wear."
+    },
+    {
+        "interaction_id": "IA0192",
+        "product_id": "P0064",
+        "product_name": "Puma Baseball Cap",
+        "query": "Does Puma Baseball Cap have UV protection?",
+        "information": "Yes, some models of Puma Baseball Cap feature built-in UV protection, shielding your face and eyes from harmful sun rays."
+    },
+    {
+        "interaction_id": "IA0193",
+        "product_id": "P0065",
+        "product_name": "Burt's Bees Lip Balm",
+        "query": "What are the main ingredients in Burt's Bees Lip Balm?",
+        "information": "Burt's Bees Lip Balm is formulated with beeswax, vitamin E, and peppermint oil, providing hydration and a refreshing sensation to dry lips."
+    },
+    {
+        "interaction_id": "IA0194",
+        "product_id": "P0065",
+        "product_name": "Burt's Bees Lip Balm",
+        "query": "Is Burt's Bees Lip Balm suitable for sensitive skin?",
+        "information": "Yes, Burt's Bees Lip Balm is dermatologist-tested and hypoallergenic, making it suitable for sensitive skin types."
+    },
+    {
+        "interaction_id": "IA0195",
+        "product_id": "P0065",
+        "product_name": "Burt's Bees Lip Balm",
+        "query": "Does Burt's Bees Lip Balm have a tinted version?",
+        "information": "Yes, Burt's Bees offers tinted versions of their lip balms with natural colors derived from plant extracts, providing a hint of color along with moisturization."
+    },
+    {
+        "interaction_id": "IA0196",
+        "product_id": "P0066",
+        "product_name": "Wilson Golf Clubs Set",
+        "query": "What clubs are included in Wilson Golf Clubs Set?",
+        "information": "Wilson Golf Clubs Set typically includes a driver, irons (3-9), pitching wedge, putter, and sometimes a hybrid or fairway wood, offering a comprehensive selection for various golfing needs."
+    },
+    {
+        "interaction_id": "IA0197",
+        "product_id": "P0066",
+        "product_name": "Wilson Golf Clubs Set",
+        "query": "Is Wilson Golf Clubs Set suitable for beginners?",
+        "information": "Yes, Wilson Golf Clubs Set is designed for beginners and intermediate players, offering forgiveness and ease of use to improve performance on the course."
+    },
+    {
+        "interaction_id": "IA0198",
+        "product_id": "P0066",
+        "product_name": "Wilson Golf Clubs Set",
+        "query": "Does Wilson Golf Clubs Set come with a golf bag?",
+        "information": "Yes, Wilson Golf Clubs Set typically includes a lightweight golf bag with compartments for organizing clubs and additional storage for accessories."
+    },
+    {
+        "interaction_id": "IA0199",
+        "product_id": "P0067",
+        "product_name": "Reebok CrossFit Shoes",
+        "query": "What features make Reebok CrossFit Shoes suitable for training?",
+        "information": "Reebok CrossFit Shoes are engineered with durable materials, a stable heel, and a flexible forefoot for agility and support during CrossFit workouts."
+    },
+    {
+        "interaction_id": "IA0200",
+        "product_id": "P0067",
+        "product_name": "Reebok CrossFit Shoes",
+        "query": "Are Reebok CrossFit Shoes breathable?",
+        "information": "Yes, Reebok CrossFit Shoes feature breathable mesh panels or perforations, promoting airflow to keep your feet cool and comfortable during intense training sessions."
+    },
+    {
+        "interaction_id": "IA0201",
+        "product_id": "P0067",
+        "product_name": "Reebok CrossFit Shoes",
+        "query": "Do Reebok CrossFit Shoes have a grippy outsole?",
+        "information": "Yes, Reebok CrossFit Shoes are designed with a grippy rubber outsole or tread pattern, providing traction on various indoor and outdoor surfaces."
+    },
+    {
+        "interaction_id": "IA0202",
+        "product_id": "P0068",
+        "product_name": "Levi's Jeans",
+        "query": "What styles are available in Levi's Jeans?",
+        "information": "Levi's Jeans are available in various styles including slim fit, straight leg, bootcut, and relaxed fit, catering to different preferences and body types."
+    },
+    {
+        "interaction_id": "IA0203",
+        "product_id": "P0068",
+        "product_name": "Levi's Jeans",
+        "query": "Is Levi's Jeans made from stretch denim?",
+        "information": "Yes, some models of Levi's Jeans feature stretch denim, offering flexibility and comfort while maintaining the classic denim look."
+    },
+    {
+        "interaction_id": "IA0204",
+        "product_id": "P0068",
+        "product_name": "Levi's Jeans",
+        "query": "Are Levi's Jeans durable?",
+        "information": "Yes, Levi's Jeans are known for their durability and quality craftsmanship, ensuring long-lasting wear and timeless style."
+    },
+    {
+        "interaction_id": "IA0205",
+        "product_id": "P0069",
+        "product_name": "Nikon D5600 DSLR Camera",
+        "query": "What are the key features of Nikon D5600 DSLR Camera?",
+        "information": "Nikon D5600 DSLR Camera features a 24.2MP DX-format CMOS sensor, EXPEED 4 image processor, ISO range of 100-25600, Full HD 1080p video recording, and built-in SnapBridge connectivity for instant sharing of photos."
+    },
+    {
+        "interaction_id": "IA0206",
+        "product_id": "P0069",
+        "product_name": "Nikon D5600 DSLR Camera",
+        "query": "Is Nikon D5600 DSLR Camera suitable for beginners?",
+        "information": "Yes, Nikon D5600 DSLR Camera is suitable for beginners and intermediate photographers, offering intuitive controls, guided shooting modes, and built-in tutorials to learn photography techniques."
+    },
+    {
+        "interaction_id": "IA0207",
+        "product_id": "P0069",
+        "product_name": "Nikon D5600 DSLR Camera",
+        "query": "Does Nikon D5600 DSLR Camera have a touchscreen display?",
+        "information": "Yes, Nikon D5600 DSLR Camera features a 3.2-inch vari-angle touchscreen LCD, allowing you to compose shots from different angles and navigate menu settings with ease."
+    },
+    {
+        "interaction_id": "IA0208",
+        "product_id": "P0070",
+        "product_name": "Coach Leather Backpack",
+        "query": "What materials is Coach Leather Backpack made of?",
+        "information": "Coach Leather Backpack is crafted from premium pebble leather, known for its durability, soft texture, and luxurious appearance."
+    },
+    {
+        "interaction_id": "IA0209",
+        "product_id": "P0070",
+        "product_name": "Coach Leather Backpack",
+        "query": "Is Coach Leather Backpack water-resistant?",
+        "information": "Yes, Coach Leather Backpack is treated with a water-resistant finish, providing protection against light rain and moisture. However, it is recommended to avoid prolonged exposure to water."
+    },
+    {
+        "interaction_id": "IA0210",
+        "product_id": "P0070",
+        "product_name": "Coach Leather Backpack",
+        "query": "How many compartments does Coach Leather Backpack have?",
+        "information": "Coach Leather Backpack typically features multiple compartments including a main compartment, interior pockets for organization, and exterior pockets for easy access to essentials."
+    },
+    {
+        "interaction_id": "IA0211",
+        "product_id": "P0071",
+        "product_name": "NARS Blush",
+        "query": "What shades are available in NARS Blush?",
+        "information": "NARS Blush is available in a variety of shades including peach, pink, coral, and berry tones, catering to different skin tones and preferences."
+    },
+    {
+        "interaction_id": "IA0212",
+        "product_id": "P0071",
+        "product_name": "NARS Blush",
+        "query": "Is NARS Blush suitable for sensitive skin?",
+        "information": "Yes, NARS Blush is dermatologist-tested and formulated with ingredients suitable for sensitive skin, providing a gentle application and long-lasting color."
+    },
+    {
+        "interaction_id": "IA0213",
+        "product_id": "P0071",
+        "product_name": "NARS Blush",
+        "query": "Does NARS Blush have a matte or shimmer finish?",
+        "information": "NARS Blush is available in both matte and shimmer finishes, allowing you to achieve either a natural matte look or a luminous glow."
+    },
+    {
+        "interaction_id": "IA0214",
+        "product_id": "P0072",
+        "product_name": "Salomon Hiking Boots",
+        "query": "Are Salomon Hiking Boots waterproof?",
+        "information": "Yes, Salomon Hiking Boots are designed with waterproof materials and technologies such as GORE-TEX\uff82\uff6e membranes, providing protection against water and moisture."
+    },
+    {
+        "interaction_id": "IA0215",
+        "product_id": "P0072",
+        "product_name": "Salomon Hiking Boots",
+        "query": "What terrain are Salomon Hiking Boots suitable for?",
+        "information": "Salomon Hiking Boots are suitable for various terrains including trails, mountains, and rugged landscapes, offering stability, traction, and comfort during outdoor adventures."
+    },
+    {
+        "interaction_id": "IA0216",
+        "product_id": "P0072",
+        "product_name": "Salomon Hiking Boots",
+        "query": "Do Salomon Hiking Boots have ankle support?",
+        "information": "Yes, Salomon Hiking Boots feature ankle support and cushioned midsoles for added comfort and protection during long hikes or trekking."
+    },
+    {
+        "interaction_id": "IA0217",
+        "product_id": "P0073",
+        "product_name": "Hollister Tank Top",
+        "query": "What materials is Hollister Tank Top made of?",
+        "information": "Hollister Tank Top is typically made of soft and breathable materials such as cotton or modal, providing comfort and a lightweight feel."
+    },
+    {
+        "interaction_id": "IA0218",
+        "product_id": "P0073",
+        "product_name": "Hollister Tank Top",
+        "query": "Is Hollister Tank Top available in different colors?",
+        "information": "Yes, Hollister Tank Top is available in a variety of colors and patterns, allowing you to choose options that match your style and preferences."
+    },
+    {
+        "interaction_id": "IA0219",
+        "product_id": "P0073",
+        "product_name": "Hollister Tank Top",
+        "query": "Does Hollister Tank Top shrink after washing?",
+        "information": "Hollister Tank Top is pre-shrunk to minimize shrinkage after washing, maintaining its original size and fit."
+    },
+    {
+        "interaction_id": "IA0220",
+        "product_id": "P0074",
+        "product_name": "Razer Gaming Mouse",
+        "query": "What are the DPI settings of Razer Gaming Mouse?",
+        "information": "Razer Gaming Mouse offers adjustable DPI (dots per inch) settings ranging from 200 to 16,000 DPI, allowing users to customize sensitivity for precise gameplay."
+    },
+    {
+        "interaction_id": "IA0221",
+        "product_id": "P0074",
+        "product_name": "Razer Gaming Mouse",
+        "query": "Does Razer Gaming Mouse have programmable buttons?",
+        "information": "Yes, Razer Gaming Mouse features programmable buttons that can be customized using Razer Synapse software, enabling users to assign macros and functions for enhanced gaming performance."
+    },
+    {
+        "interaction_id": "IA0222",
+        "product_id": "P0074",
+        "product_name": "Razer Gaming Mouse",
+        "query": "Is Razer Gaming Mouse compatible with Mac computers?",
+        "information": "Yes, Razer Gaming Mouse is compatible with both Windows and Mac operating systems, offering versatility for gaming and productivity tasks."
+    },
+    {
+        "interaction_id": "IA0223",
+        "product_id": "P0075",
+        "product_name": "Timberland Belt",
+        "query": "What sizes are available in Timberland Belt?",
+        "information": "Timberland Belt is available in various sizes ranging from small to extra-large, ensuring a comfortable fit for different waist measurements."
+    },
+    {
+        "interaction_id": "IA0224",
+        "product_id": "P0075",
+        "product_name": "Timberland Belt",
+        "query": "Is Timberland Belt reversible?",
+        "information": "Some models of Timberland Belt feature a reversible design with different colors or textures on each side, offering versatility for different outfits and styles."
+    },
+    {
+        "interaction_id": "IA0225",
+        "product_id": "P0075",
+        "product_name": "Timberland Belt",
+        "query": "How should Timberland Belt be cared for?",
+        "information": "Timberland Belt should be cleaned with a damp cloth and leather conditioner to maintain its appearance and prolong its lifespan. Avoid exposure to extreme moisture or direct sunlight."
+    },
+    {
+        "interaction_id": "IA0226",
+        "product_id": "P0076",
+        "product_name": "Tarte Eyeshadow Palette",
+        "query": "How many shades are in Tarte Eyeshadow Palette?",
+        "information": "Tarte Eyeshadow Palette typically includes 12 to 15 shades, featuring a mix of matte, shimmer, and metallic finishes for creating various eye makeup looks."
+    },
+    {
+        "interaction_id": "IA0227",
+        "product_id": "P0076",
+        "product_name": "Tarte Eyeshadow Palette",
+        "query": "Is Tarte Eyeshadow Palette suitable for sensitive eyes?",
+        "information": "Tarte Eyeshadow Palette is ophthalmologist-tested and formulated with hypoallergenic ingredients, making it suitable for sensitive eyes and contact lens wearers."
+    },
+    {
+        "interaction_id": "IA0228",
+        "product_id": "P0076",
+        "product_name": "Tarte Eyeshadow Palette",
+        "query": "Does Tarte Eyeshadow Palette come with an application brush?",
+        "information": "Yes, Tarte Eyeshadow Palette usually includes a dual-ended brush for precise application and blending of eyeshadow colors."
+    },
+    {
+        "interaction_id": "IA0229",
+        "product_id": "P0077",
+        "product_name": "Merrell Trail Running Shoes",
+        "query": "Are Merrell Trail Running Shoes waterproof?",
+        "information": "Merrell Trail Running Shoes are designed with waterproof materials and technologies such as GORE-TEX\uff82\uff6e membranes or M-Select\u9083\uff62 DRY, providing protection against water and moisture."
+    },
+    {
+        "interaction_id": "IA0230",
+        "product_id": "P0077",
+        "product_name": "Merrell Trail Running Shoes",
+        "query": "Do Merrell Trail Running Shoes have a breathable upper?",
+        "information": "Yes, Merrell Trail Running Shoes feature a breathable mesh or ventilated upper, allowing airflow to keep your feet cool and comfortable during trail runs."
+    },
+    {
+        "interaction_id": "IA0231",
+        "product_id": "P0077",
+        "product_name": "Merrell Trail Running Shoes",
+        "query": "What is the outsole material of Merrell Trail Running Shoes?",
+        "information": "Merrell Trail Running Shoes are equipped with a durable rubber outsole with lug patterns or Vibram\uff82\uff6e technology, providing superior traction on various terrains."
+    },
+    {
+        "interaction_id": "IA0232",
+        "product_id": "P0078",
+        "product_name": "Express Blouse",
+        "query": "What fabric is Express Blouse made from?",
+        "information": "Express Blouse is typically made from lightweight and flowy fabrics such as chiffon, silk, or polyester, offering comfort and a flattering drape."
+    },
+    {
+        "interaction_id": "IA0233",
+        "product_id": "P0078",
+        "product_name": "Express Blouse",
+        "query": "Is Express Blouse suitable for formal occasions?",
+        "information": "Yes, Express Blouse features elegant designs and versatile styles that can be dressed up for formal occasions or worn casually for everyday comfort."
+    },
+    {
+        "interaction_id": "IA0234",
+        "product_id": "P0078",
+        "product_name": "Express Blouse",
+        "query": "Does Express Blouse require special care?",
+        "information": "Express Blouse should be machine washed in cold water on a gentle cycle or hand washed, and air-dried to maintain its shape and color vibrancy."
+    },
+    {
+        "interaction_id": "IA0235",
+        "product_id": "P0079",
+        "product_name": "Bose Soundbar 700",
+        "query": "What are the connectivity options of Bose Soundbar 700?",
+        "information": "Bose Soundbar 700 offers multiple connectivity options including HDMI ARC, optical audio input, Bluetooth\uff82\uff6e, and Wi-Fi\uff82\uff6e, allowing seamless integration with various devices and streaming services."
+    },
+    {
+        "interaction_id": "IA0236",
+        "product_id": "P0079",
+        "product_name": "Bose Soundbar 700",
+        "query": "Does Bose Soundbar 700 support voice assistants?",
+        "information": "Yes, Bose Soundbar 700 is compatible with built-in voice assistants such as Amazon Alexa and Google Assistant, enabling hands-free control of music playback, smart home devices, and more."
+    },
+    {
+        "interaction_id": "IA0237",
+        "product_id": "P0079",
+        "product_name": "Bose Soundbar 700",
+        "query": "What audio technologies are used in Bose Soundbar 700?",
+        "information": "Bose Soundbar 700 features PhaseGuide\uff82\uff6e technology for immersive sound, ADAPTiQ\uff82\uff6e audio calibration for optimal acoustic performance in any room, and QuietPort\u9083\uff62 technology for deep bass without distortion."
+    },
+    {
+        "interaction_id": "IA0238",
+        "product_id": "P0080",
+        "product_name": "Prada Sunglasses",
+        "query": "What materials are Prada Sunglasses made from?",
+        "information": "Prada Sunglasses are crafted from high-quality materials such as acetate or metal frames and polycarbonate lenses, ensuring durability, comfort, and UV protection."
+    },
+    {
+        "interaction_id": "IA0239",
+        "product_id": "P0080",
+        "product_name": "Prada Sunglasses",
+        "query": "Do Prada Sunglasses come with a protective case?",
+        "information": "Yes, Prada Sunglasses typically come with a branded protective case and cleaning cloth to store and maintain the sunglasses when not in use."
+    },
+    {
+        "interaction_id": "IA0240",
+        "product_id": "P0080",
+        "product_name": "Prada Sunglasses",
+        "query": "Are Prada Sunglasses suitable for driving?",
+        "information": "Yes, Prada Sunglasses offer UV protection and glare reduction, making them suitable for driving and outdoor activities in bright conditions."
+    },
+    {
+        "interaction_id": "IA0241",
+        "product_id": "P0081",
+        "product_name": "Maybelline Mascara",
+        "query": "Is Maybelline Mascara waterproof?",
+        "information": "Maybelline Mascara is available in waterproof and non-waterproof formulas. The waterproof version provides long-lasting wear and resistance to water."
+    },
+    {
+        "interaction_id": "IA0242",
+        "product_id": "P0081",
+        "product_name": "Maybelline Mascara",
+        "query": "Does Maybelline Mascara offer different brush styles?",
+        "information": "Yes, Maybelline Mascara is available with different brush styles such as curved, volumizing, and lengthening brushes, allowing you to achieve your desired lash look."
+    },
+    {
+        "interaction_id": "IA0243",
+        "product_id": "P0081",
+        "product_name": "Maybelline Mascara",
+        "query": "What are the key ingredients in Maybelline Mascara?",
+        "information": "Maybelline Mascara contains ingredients like polymers, waxes, and pigments designed to enhance volume, length, and definition of lashes."
+    },
+    {
+        "interaction_id": "IA0244",
+        "product_id": "P0082",
+        "product_name": "Under Armour Running Shorts",
+        "query": "Are Under Armour Running Shorts moisture-wicking?",
+        "information": "Yes, Under Armour Running Shorts are designed with moisture-wicking fabric to keep you dry and comfortable during intense workouts or running sessions."
+    },
+    {
+        "interaction_id": "IA0245",
+        "product_id": "P0082",
+        "product_name": "Under Armour Running Shorts",
+        "query": "Do Under Armour Running Shorts have built-in compression?",
+        "information": "Some models of Under Armour Running Shorts feature built-in compression liners or shorts for added support and muscle recovery during activities."
+    },
+    {
+        "interaction_id": "IA0246",
+        "product_id": "P0082",
+        "product_name": "Under Armour Running Shorts",
+        "query": "What sizes are available in Under Armour Running Shorts?",
+        "information": "Under Armour Running Shorts are available in various sizes from extra-small to extra-large, catering to different body types and preferences."
+    },
+    {
+        "interaction_id": "IA0247",
+        "product_id": "P0083",
+        "product_name": "Brooks Running Shoes",
+        "query": "What type of cushioning does Brooks Running Shoes use?",
+        "information": "Brooks Running Shoes utilize BioMoGo DNA and DNA AMP cushioning technologies, offering responsive and adaptive cushioning that adjusts to your stride and foot movement."
+    },
+    {
+        "interaction_id": "IA0248",
+        "product_id": "P0083",
+        "product_name": "Brooks Running Shoes",
+        "query": "Are Brooks Running Shoes suitable for long-distance running?",
+        "information": "Yes, Brooks Running Shoes are designed for long-distance running with features like supportive midsoles, breathable uppers, and durable outsoles for enhanced comfort and performance."
+    },
+    {
+        "interaction_id": "IA0249",
+        "product_id": "P0083",
+        "product_name": "Brooks Running Shoes",
+        "query": "Do Brooks Running Shoes come with arch support?",
+        "information": "Brooks Running Shoes are engineered with varying levels of arch support to accommodate different foot types, providing stability and reducing the risk of overpronation or discomfort."
+    },
+    {
+        "interaction_id": "IA0250",
+        "product_id": "P0084",
+        "product_name": "Gap Sweater",
+        "query": "Is Gap Sweater machine washable?",
+        "information": "Yes, Gap Sweater is typically machine washable. It's recommended to use cold water and a gentle cycle to preserve the fabric and color."
+    },
+    {
+        "interaction_id": "IA0251",
+        "product_id": "P0084",
+        "product_name": "Gap Sweater",
+        "query": "What materials are used in Gap Sweater?",
+        "information": "Gap Sweater is often made from soft and warm materials such as cotton, wool blends, or acrylic, offering comfort and insulation during cooler weather."
+    },
+    {
+        "interaction_id": "IA0252",
+        "product_id": "P0084",
+        "product_name": "Gap Sweater",
+        "query": "Does Gap Sweater come in different colors?",
+        "information": "Yes, Gap Sweater is available in a variety of colors and patterns each season, allowing you to choose options that suit your personal style."
+    },
+    {
+        "interaction_id": "IA0253",
+        "product_id": "P0085",
+        "product_name": "Samsung Galaxy Watch",
+        "query": "What health tracking features does Samsung Galaxy Watch offer?",
+        "information": "Samsung Galaxy Watch offers advanced health tracking features such as heart rate monitoring, sleep tracking, activity tracking, and stress management, providing insights into your overall well-being."
+    },
+    {
+        "interaction_id": "IA0254",
+        "product_id": "P0085",
+        "product_name": "Samsung Galaxy Watch",
+        "query": "Is Samsung Galaxy Watch compatible with iOS devices?",
+        "information": "Yes, Samsung Galaxy Watch is compatible with both Android and iOS devices, allowing you to pair it with smartphones for notifications, calls, and app integrations."
+    },
+    {
+        "interaction_id": "IA0255",
+        "product_id": "P0085",
+        "product_name": "Samsung Galaxy Watch",
+        "query": "What is the battery life of Samsung Galaxy Watch?",
+        "information": "Samsung Galaxy Watch offers a long battery life that can last up to several days on a single charge, depending on usage and settings, ensuring uninterrupted use throughout your day."
+    },
+    {
+        "interaction_id": "IA0256",
+        "product_id": "P0086",
+        "product_name": "Ray-Ban Aviator Sunglasses",
+        "query": "Are Ray-Ban Aviator Sunglasses polarized?",
+        "information": "Yes, Ray-Ban Aviator Sunglasses are available with polarized lenses that reduce glare and provide enhanced visual clarity, making them ideal for outdoor activities and driving."
+    },
+    {
+        "interaction_id": "IA0257",
+        "product_id": "P0086",
+        "product_name": "Ray-Ban Aviator Sunglasses",
+        "query": "What sizes are available in Ray-Ban Aviator Sunglasses?",
+        "information": "Ray-Ban Aviator Sunglasses are available in various sizes from small to large, ensuring a comfortable fit for different face shapes and sizes."
+    },
+    {
+        "interaction_id": "IA0258",
+        "product_id": "P0086",
+        "product_name": "Ray-Ban Aviator Sunglasses",
+        "query": "Do Ray-Ban Aviator Sunglasses come with a warranty?",
+        "information": "Yes, Ray-Ban Aviator Sunglasses typically come with a manufacturer's warranty against defects in materials and workmanship, providing assurance of quality and customer satisfaction."
+    },
+    {
+        "interaction_id": "IA0259",
+        "product_id": "P0087",
+        "product_name": "L'Oreal Lipstick",
+        "query": "Is L'Oreal Lipstick long-lasting?",
+        "information": "L'Oreal Lipstick is formulated for long-lasting wear, providing rich color payoff and comfort throughout the day without frequent touch-ups."
+    },
+    {
+        "interaction_id": "IA0260",
+        "product_id": "P0087",
+        "product_name": "L'Oreal Lipstick",
+        "query": "Does L'Oreal Lipstick have a matte finish?",
+        "information": "L'Oreal Lipstick is available in both matte and satin finishes, offering options for different looks and preferences."
+    },
+    {
+        "interaction_id": "IA0261",
+        "product_id": "P0087",
+        "product_name": "L'Oreal Lipstick",
+        "query": "What shades are available in L'Oreal Lipstick?",
+        "information": "L'Oreal Lipstick is available in a wide range of shades from natural nude tones to bold and vibrant colors, catering to various skin tones and makeup styles."
+    },
+    {
+        "interaction_id": "IA0262",
+        "product_id": "P0088",
+        "product_name": "Yonex Badminton Racket",
+        "query": "What materials is Yonex Badminton Racket made of?",
+        "information": "Yonex Badminton Racket is typically made from lightweight and durable materials such as graphite or carbon fiber, offering strength and flexibility for powerful shots and maneuverability."
+    },
+    {
+        "interaction_id": "IA0263",
+        "product_id": "P0088",
+        "product_name": "Yonex Badminton Racket",
+        "query": "Is Yonex Badminton Racket suitable for beginners?",
+        "information": "Yes, Yonex Badminton Racket offers models suitable for beginners with features like lightweight construction and balanced design for easy handling and control on the court."
+    },
+    {
+        "interaction_id": "IA0264",
+        "product_id": "P0088",
+        "product_name": "Yonex Badminton Racket",
+        "query": "What grip sizes are available in Yonex Badminton Racket?",
+        "information": "Yonex Badminton Racket is available in various grip sizes ranging from G2 to G4, allowing players to choose a grip size that provides comfort and optimal performance during gameplay."
+    },
+    {
+        "interaction_id": "IA0265",
+        "product_id": "P0089",
+        "product_name": "Dr. Martens Boots",
+        "query": "Are Dr. Martens Boots waterproof?",
+        "information": "Dr. Martens Boots are made from high-quality leather and are water-resistant. However, for prolonged exposure to water or heavy rain, it's recommended to apply a waterproofing treatment to maintain the leather's condition."
+    },
+    {
+        "interaction_id": "IA0266",
+        "product_id": "P0089",
+        "product_name": "Dr. Martens Boots",
+        "query": "Do Dr. Martens Boots require a break-in period?",
+        "information": "Yes, Dr. Martens Boots may require a break-in period due to their durable leather construction. Wearing them indoors with thick socks initially can help soften the leather and mold the boots to your feet for a comfortable fit."
+    },
+    {
+        "interaction_id": "IA0267",
+        "product_id": "P0089",
+        "product_name": "Dr. Martens Boots",
+        "query": "What sizes are available in Dr. Martens Boots?",
+        "information": "Dr. Martens Boots are available in a wide range of sizes for men and women, ensuring a comfortable fit and allowing you to choose the right size based on your foot measurements."
+    },
+    {
+        "interaction_id": "IA0268",
+        "product_id": "P0090",
+        "product_name": "Old Navy Tank Top",
+        "query": "Is Old Navy Tank Top available in different colors?",
+        "information": "Yes, Old Navy Tank Top is available in various colors and patterns, allowing you to choose options that suit your personal style and wardrobe preferences."
+    },
+    {
+        "interaction_id": "IA0269",
+        "product_id": "P0090",
+        "product_name": "Old Navy Tank Top",
+        "query": "What sizes are available in Old Navy Tank Top?",
+        "information": "Old Navy Tank Top is available in sizes ranging from extra-small to extra-large, catering to different body types and ensuring a comfortable fit."
+    },
+    {
+        "interaction_id": "IA0270",
+        "product_id": "P0090",
+        "product_name": "Old Navy Tank Top",
+        "query": "Does Old Navy Tank Top shrink after washing?",
+        "information": "Old Navy Tank Top is made from pre-shrunk fabric to minimize shrinkage after washing. Following care instructions such as washing in cold water and drying on low heat can help maintain the tank top's shape and size."
+    },
+    {
+        "interaction_id": "IA0271",
+        "product_id": "P0091",
+        "product_name": "Apple AirPods Pro",
+        "query": "What are the key features of Apple AirPods Pro?",
+        "information": "Apple AirPods Pro feature active noise cancellation for immersive sound, transparency mode for hearing surroundings, customizable fit with silicone tips, sweat and water resistance, and easy setup and seamless switching between Apple devices."
+    },
+    {
+        "interaction_id": "IA0272",
+        "product_id": "P0091",
+        "product_name": "Apple AirPods Pro",
+        "query": "How is the sound quality of Apple AirPods Pro?",
+        "information": "Apple AirPods Pro deliver high-quality audio with adaptive EQ that automatically tunes music to the shape of your ear for a rich and consistent listening experience across all genres."
+    },
+    {
+        "interaction_id": "IA0273",
+        "product_id": "P0091",
+        "product_name": "Apple AirPods Pro",
+        "query": "What is the battery life of Apple AirPods Pro?",
+        "information": "Apple AirPods Pro offer up to 4.5 hours of listening time on a single charge with active noise cancellation enabled and up to 24 hours of listening time with the charging case, ensuring all-day use."
+    },
+    {
+        "interaction_id": "IA0274",
+        "product_id": "P0092",
+        "product_name": "Gucci Wallet",
+        "query": "What materials is Gucci Wallet made of?",
+        "information": "Gucci Wallet is crafted from high-quality leather, often featuring Gucci's signature design elements such as the GG logo, ensuring durability and timeless style."
+    },
+    {
+        "interaction_id": "IA0275",
+        "product_id": "P0092",
+        "product_name": "Gucci Wallet",
+        "query": "How many compartments does Gucci Wallet have?",
+        "information": "Gucci Wallet typically features multiple compartments for organizing cards, bills, and coins, offering practicality and convenience for everyday use."
+    },
+    {
+        "interaction_id": "IA0276",
+        "product_id": "P0092",
+        "product_name": "Gucci Wallet",
+        "query": "Does Gucci Wallet come with a warranty?",
+        "information": "Gucci Wallet is covered by Gucci's manufacturer warranty against defects in materials and craftsmanship, providing assurance of quality and customer satisfaction."
+    },
+    {
+        "interaction_id": "IA0277",
+        "product_id": "P0093",
+        "product_name": "Urban Decay Eyeshadow Palette",
+        "query": "How many shades are there in Urban Decay Eyeshadow Palette?",
+        "information": "Urban Decay Eyeshadow Palette typically contains a range of shades, often around 12 to 16 colors, including matte, shimmer, and metallic finishes for creating diverse eye looks."
+    },
+    {
+        "interaction_id": "IA0278",
+        "product_id": "P0093",
+        "product_name": "Urban Decay Eyeshadow Palette",
+        "query": "Are Urban Decay Eyeshadow Palette shades blendable?",
+        "information": "Yes, Urban Decay Eyeshadow Palette shades are formulated to be blendable, allowing for seamless application and layering to achieve various eye makeup effects from natural to dramatic."
+    },
+    {
+        "interaction_id": "IA0279",
+        "product_id": "P0093",
+        "product_name": "Urban Decay Eyeshadow Palette",
+        "query": "What is the palette size of Urban Decay Eyeshadow Palette?",
+        "information": "Urban Decay Eyeshadow Palette comes in a compact size that is travel-friendly, yet it offers a generous amount of product per shade, ensuring long-lasting use."
+    },
+    {
+        "interaction_id": "IA0280",
+        "product_id": "P0094",
+        "product_name": "Nike Gym Bag",
+        "query": "What are the dimensions of Nike Gym Bag?",
+        "information": "Nike Gym Bag is designed to be spacious yet compact, typically featuring dimensions that comfortably accommodate gym essentials such as clothing, shoes, towels, and water bottles."
+    },
+    {
+        "interaction_id": "IA0281",
+        "product_id": "P0094",
+        "product_name": "Nike Gym Bag",
+        "query": "Does Nike Gym Bag have ventilation for shoes?",
+        "information": "Yes, Nike Gym Bag often includes a ventilated compartment or shoe pocket that allows airflow to keep shoes separate from other items and prevent odor buildup."
+    },
+    {
+        "interaction_id": "IA0282",
+        "product_id": "P0094",
+        "product_name": "Nike Gym Bag",
+        "query": "Is Nike Gym Bag water-resistant?",
+        "information": "Nike Gym Bag is made from water-resistant materials that help protect your belongings from light rain or moisture, making it suitable for outdoor and indoor use."
+    },
+    {
+        "interaction_id": "IA0283",
+        "product_id": "P0095",
+        "product_name": "Asics Running Shoes",
+        "query": "What type of cushioning does Asics Running Shoes use?",
+        "information": "Asics Running Shoes are equipped with GEL cushioning technology that provides shock absorption and enhances comfort during running or other athletic activities."
+    },
+    {
+        "interaction_id": "IA0284",
+        "product_id": "P0095",
+        "product_name": "Asics Running Shoes",
+        "query": "Are Asics Running Shoes suitable for pronation control?",
+        "information": "Yes, Asics Running Shoes offer models with pronation control features like DuoMax Support System or Trusstic System technology, providing stability and support for runners with overpronation."
+    },
+    {
+        "interaction_id": "IA0285",
+        "product_id": "P0095",
+        "product_name": "Asics Running Shoes",
+        "query": "Do Asics Running Shoes come in wide sizes?",
+        "information": "Asics Running Shoes are available in various widths, including wide sizes, ensuring a comfortable fit and accommodating different foot shapes and sizes."
+    },
+    {
+        "interaction_id": "IA0286",
+        "product_id": "P0096",
+        "product_name": "Forever 21 Crop Top",
+        "query": "What materials is Forever 21 Crop Top made of?",
+        "information": "Forever 21 Crop Top is typically made from lightweight and breathable materials such as cotton, polyester blends, or jersey fabric, offering comfort and ease of movement."
+    },
+    {
+        "interaction_id": "IA0287",
+        "product_id": "P0096",
+        "product_name": "Forever 21 Crop Top",
+        "query": "Does Forever 21 Crop Top come in different colors?",
+        "information": "Forever 21 Crop Top is available in a variety of colors and prints, allowing you to choose options that match your personal style or outfit preferences."
+    },
+    {
+        "interaction_id": "IA0288",
+        "product_id": "P0096",
+        "product_name": "Forever 21 Crop Top",
+        "query": "Is Forever 21 Crop Top machine washable?",
+        "information": "Yes, Forever 21 Crop Top is usually machine washable. It's recommended to follow care instructions on the garment tag to maintain fabric quality and color vibrancy."
+    },
+    {
+        "interaction_id": "IA0289",
+        "product_id": "P0097",
+        "product_name": "Sony Noise-Cancelling Headphones",
+        "query": "What is the noise-cancelling technology used in Sony Headphones?",
+        "information": "Sony Noise-Cancelling Headphones feature active noise cancellation (ANC) technology that reduces ambient noise and distractions, allowing you to enjoy clear and immersive audio."
+    },
+    {
+        "interaction_id": "IA0290",
+        "product_id": "P0097",
+        "product_name": "Sony Noise-Cancelling Headphones",
+        "query": "How is the battery life of Sony Noise-Cancelling Headphones?",
+        "information": "Sony Noise-Cancelling Headphones offer up to 30 hours of battery life with ANC enabled, ensuring long-lasting usage for travel, work, or daily commutes without frequent recharging."
+    },
+    {
+        "interaction_id": "IA0291",
+        "product_id": "P0097",
+        "product_name": "Sony Noise-Cancelling Headphones",
+        "query": "Are Sony Noise-Cancelling Headphones comfortable for extended wear?",
+        "information": "Yes, Sony Noise-Cancelling Headphones are designed for comfort with plush earpads and an adjustable headband that provides a secure fit, making them suitable for extended listening sessions."
+    },
+    {
+        "interaction_id": "IA0292",
+        "product_id": "P0098",
+        "product_name": "Kate Spade Earrings",
+        "query": "What materials are Kate Spade Earrings made of?",
+        "information": "Kate Spade Earrings are typically crafted from high-quality materials such as sterling silver, gold-plated metals, or cubic zirconia crystals, ensuring durability and elegant shine."
+    },
+    {
+        "interaction_id": "IA0293",
+        "product_id": "P0098",
+        "product_name": "Kate Spade Earrings",
+        "query": "Do Kate Spade Earrings come in different designs?",
+        "information": "Yes, Kate Spade Earrings are available in various designs ranging from classic studs to intricate drop earrings, offering options that suit different occasions and personal styles."
+    },
+    {
+        "interaction_id": "IA0294",
+        "product_id": "P0098",
+        "product_name": "Kate Spade Earrings",
+        "query": "Are Kate Spade Earrings hypoallergenic?",
+        "information": "Kate Spade Earrings are hypoallergenic, making them suitable for individuals with sensitive skin. However, it's advisable to check specific product details for any allergen information before purchasing."
+    },
+    {
+        "interaction_id": "IA0295",
+        "product_id": "P0099",
+        "product_name": "MAC Lip Gloss",
+        "query": "What shades are available in MAC Lip Gloss?",
+        "information": "MAC Lip Gloss is available in a wide range of shades from sheer to high-pigment colors, offering options for creating subtle to bold lip looks with a glossy finish."
+    },
+    {
+        "interaction_id": "IA0296",
+        "product_id": "P0099",
+        "product_name": "MAC Lip Gloss",
+        "query": "Is MAC Lip Gloss non-sticky?",
+        "information": "MAC Lip Gloss is formulated to provide a smooth and non-sticky texture, ensuring comfortable wear and a high-shine finish without feeling tacky on the lips."
+    },
+    {
+        "interaction_id": "IA0297",
+        "product_id": "P0099",
+        "product_name": "MAC Lip Gloss",
+        "query": "Does MAC Lip Gloss have a scent or flavor?",
+        "information": "MAC Lip Gloss is typically fragrance-free and does not have a distinct flavor, making it suitable for individuals sensitive to scents or tastes in lip products."
+    },
+    {
+        "interaction_id": "IA0298",
+        "product_id": "P0100",
+        "product_name": "Under Armour Sports Gloves",
+        "query": "What materials are Under Armour Sports Gloves made of?",
+        "information": "Under Armour Sports Gloves are typically made from lightweight and durable materials such as synthetic leather or breathable fabrics, providing comfort and protection during sports activities."
+    },
+    {
+        "interaction_id": "IA0299",
+        "product_id": "P0100",
+        "product_name": "Under Armour Sports Gloves",
+        "query": "Are Under Armour Sports Gloves touchscreen compatible?",
+        "information": "Yes, some models of Under Armour Sports Gloves feature touchscreen-compatible fingertips, allowing you to use smartphones or other touchscreen devices without removing the gloves."
+    },
+    {
+        "interaction_id": "IA0300",
+        "product_id": "P0100",
+        "product_name": "Under Armour Sports Gloves",
+        "query": "Do Under Armour Sports Gloves come in different sizes?",
+        "information": "Under Armour Sports Gloves are available in various sizes, ensuring a snug and comfortable fit for different hand sizes and shapes, enhancing performance and flexibility during sports."
+    },
+    {
+        "interaction_id": "IA0301",
+        "product_id": "P0101",
+        "product_name": "New Balance Running Shoes",
+        "query": "What materials are New Balance Running Shoes made of?",
+        "information": "New Balance Running Shoes are typically made from breathable mesh and synthetic overlays, providing lightweight support and comfort for running and other athletic activities."
+    },
+    {
+        "interaction_id": "IA0302",
+        "product_id": "P0101",
+        "product_name": "New Balance Running Shoes",
+        "query": "Are New Balance Running Shoes suitable for neutral runners?",
+        "information": "Yes, New Balance Running Shoes are designed for neutral runners, offering cushioning and support without additional stability features, ideal for those with a natural gait."
+    },
+    {
+        "interaction_id": "IA0303",
+        "product_id": "P0101",
+        "product_name": "New Balance Running Shoes",
+        "query": "Do New Balance Running Shoes come in different widths?",
+        "information": "New Balance Running Shoes are available in various widths, including wide sizes, ensuring a comfortable fit and accommodating different foot shapes and sizes."
+    },
+    {
+        "interaction_id": "IA0304",
+        "product_id": "P0102",
+        "product_name": "Dell XPS 15 Laptop",
+        "query": "What are the key specifications of Dell XPS 15 Laptop?",
+        "information": "Dell XPS 15 Laptop features a high-resolution display, powerful Intel Core processor, ample RAM and storage options, premium build quality, and advanced graphics capabilities, making it suitable for intensive tasks such as multimedia editing and gaming."
+    },
+    {
+        "interaction_id": "IA0305",
+        "product_id": "P0102",
+        "product_name": "Dell XPS 15 Laptop",
+        "query": "Does Dell XPS 15 Laptop have a touchscreen option?",
+        "information": "Yes, Dell XPS 15 Laptop offers touchscreen variants, allowing users to interact with the screen directly for enhanced productivity and intuitive navigation."
+    },
+    {
+        "interaction_id": "IA0306",
+        "product_id": "P0102",
+        "product_name": "Dell XPS 15 Laptop",
+        "query": "What is the battery life of Dell XPS 15 Laptop?",
+        "information": "Dell XPS 15 Laptop provides up to X hours of battery life on a single charge, depending on usage and configuration, ensuring reliable performance throughout the day."
+    },
+    {
+        "interaction_id": "IA0307",
+        "product_id": "P0103",
+        "product_name": "H&M Hoodie",
+        "query": "What sizes are available in H&M Hoodie?",
+        "information": "H&M Hoodie is typically available in a range of sizes from XS to XL, ensuring a comfortable fit for various body types and preferences."
+    },
+    {
+        "interaction_id": "IA0308",
+        "product_id": "P0103",
+        "product_name": "H&M Hoodie",
+        "query": "Is H&M Hoodie machine washable?",
+        "information": "Yes, H&M Hoodie is machine washable. It's recommended to follow care instructions on the garment tag to maintain fabric quality and color vibrancy."
+    },
+    {
+        "interaction_id": "IA0309",
+        "product_id": "P0103",
+        "product_name": "H&M Hoodie",
+        "query": "What materials is H&M Hoodie made of?",
+        "information": "H&M Hoodie is usually made from cotton blend or fleece fabric, offering softness, warmth, and durability for casual wear."
+    },
+    {
+        "interaction_id": "IA0310",
+        "product_id": "P0104",
+        "product_name": "Fossil Smartwatch",
+        "query": "What features does Fossil Smartwatch offer?",
+        "information": "Fossil Smartwatch typically offers activity tracking (steps, calories, distance), heart rate monitoring, customizable watch faces, notifications for calls and messages, GPS tracking, and compatibility with smartphones (Android and iOS)."
+    },
+    {
+        "interaction_id": "IA0311",
+        "product_id": "P0104",
+        "product_name": "Fossil Smartwatch",
+        "query": "Is Fossil Smartwatch water-resistant?",
+        "information": "Yes, Fossil Smartwatch is usually water-resistant to a certain depth (e.g., 50 meters), allowing you to wear it while swimming or engaging in water-based activities, but it's advisable to check specific model details for exact water resistance capabilities."
+    },
+    {
+        "interaction_id": "IA0312",
+        "product_id": "P0104",
+        "product_name": "Fossil Smartwatch",
+        "query": "What is the battery life of Fossil Smartwatch?",
+        "information": "Fossil Smartwatch offers battery life ranging from X days to X weeks, depending on usage and model. Charging methods may vary, with some models supporting rapid charging for convenience."
+    },
+    {
+        "interaction_id": "IA0313",
+        "product_id": "P0105",
+        "product_name": "Clinique Moisturizer",
+        "query": "What skin types is Clinique Moisturizer suitable for?",
+        "information": "Clinique Moisturizer is suitable for all skin types, including dry, oily, combination, and sensitive skin. It provides hydration without clogging pores, promoting smooth and radiant complexion."
+    },
+    {
+        "interaction_id": "IA0314",
+        "product_id": "P0105",
+        "product_name": "Clinique Moisturizer",
+        "query": "Does Clinique Moisturizer contain SPF?",
+        "information": "Some variants of Clinique Moisturizer are formulated with SPF (Sun Protection Factor) to help protect skin from UVA and UVB rays, preventing premature aging and sun damage. Check product details for specific SPF levels."
+    },
+    {
+        "interaction_id": "IA0315",
+        "product_id": "P0105",
+        "product_name": "Clinique Moisturizer",
+        "query": "Is Clinique Moisturizer fragrance-free?",
+        "information": "Clinique Moisturizer is typically fragrance-free, making it suitable for individuals with sensitive skin or those who prefer skincare products without added fragrances."
+    },
+    {
+        "interaction_id": "IA0316",
+        "product_id": "P0106",
+        "product_name": "Adidas Soccer Ball",
+        "query": "What materials is Adidas Soccer Ball made of?",
+        "information": "Adidas Soccer Ball is typically made from durable synthetic leather or polyurethane (PU) material, offering excellent durability, performance, and consistent ball control during soccer training and matches."
+    },
+    {
+        "interaction_id": "IA0317",
+        "product_id": "P0106",
+        "product_name": "Adidas Soccer Ball",
+        "query": "Is Adidas Soccer Ball suitable for all-weather conditions?",
+        "information": "Yes, Adidas Soccer Ball is designed for use in various weather conditions, including wet or dry surfaces, ensuring reliable performance and durability across different playing environments."
+    },
+    {
+        "interaction_id": "IA0318",
+        "product_id": "P0106",
+        "product_name": "Adidas Soccer Ball",
+        "query": "What size options are available for Adidas Soccer Ball?",
+        "information": "Adidas Soccer Ball is available in different sizes, ranging from size 3 to size 5, suitable for youth and adult players. It's important to choose the appropriate size based on age, skill level, and personal preference."
+    },
+    {
+        "interaction_id": "IA0319",
+        "product_id": "P0107",
+        "product_name": "Microsoft Surface Pro 7",
+        "query": "What are the key features of Microsoft Surface Pro 7?",
+        "information": "Microsoft Surface Pro 7 combines the versatility of a laptop and tablet in one device. It features a high-resolution PixelSense display, powerful Intel Core processor, long battery life, USB-C and USB-A ports, and compatibility with Surface Pen and Surface Dial accessories for enhanced productivity and creativity."
+    },
+    {
+        "interaction_id": "IA0320",
+        "product_id": "P0107",
+        "product_name": "Microsoft Surface Pro 7",
+        "query": "Is Microsoft Surface Pro 7 suitable for drawing and sketching?",
+        "information": "Yes, Microsoft Surface Pro 7 supports digital drawing and sketching with precision using Surface Pen (sold separately). It offers responsive touch and tilt sensitivity for a natural writing and drawing experience, making it ideal for artists, designers, and creative professionals."
+    },
+    {
+        "interaction_id": "IA0321",
+        "product_id": "P0107",
+        "product_name": "Microsoft Surface Pro 7",
+        "query": "Does Microsoft Surface Pro 7 have facial recognition?",
+        "information": "Microsoft Surface Pro 7 features Windows Hello facial recognition technology for secure and fast login, providing convenient access to your device while enhancing security."
+    },
+    {
+        "interaction_id": "IA0322",
+        "product_id": "P0108",
+        "product_name": "Uniqlo Denim Jeans",
+        "query": "What sizes are available in Uniqlo Denim Jeans?",
+        "information": "Uniqlo Denim Jeans are typically available in a wide range of sizes from XS to XXL, catering to various body types and preferences for a comfortable fit."
+    },
+    {
+        "interaction_id": "IA0323",
+        "product_id": "P0108",
+        "product_name": "Uniqlo Denim Jeans",
+        "query": "Are Uniqlo Denim Jeans pre-washed?",
+        "information": "Yes, Uniqlo Denim Jeans are usually pre-washed to achieve a soft and comfortable feel from the first wear. This process also helps to minimize shrinkage after washing."
+    },
+    {
+        "interaction_id": "IA0324",
+        "product_id": "P0108",
+        "product_name": "Uniqlo Denim Jeans",
+        "query": "What is the fabric composition of Uniqlo Denim Jeans?",
+        "information": "Uniqlo Denim Jeans are typically made from a blend of cotton and elastane (spandex), offering stretch and flexibility for ease of movement while maintaining the classic denim look and feel."
+    },
+    {
+        "interaction_id": "IA0325",
+        "product_id": "P0109",
+        "product_name": "Chanel Perfume",
+        "query": "What is the fragrance profile of Chanel Perfume?",
+        "information": "Chanel Perfume offers a sophisticated blend of floral and woody notes, creating a timeless and elegant fragrance experience. It may feature top notes of citrus, middle notes of jasmine or rose, and base notes of sandalwood or patchouli, among others."
+    },
+    {
+        "interaction_id": "IA0326",
+        "product_id": "P0109",
+        "product_name": "Chanel Perfume",
+        "query": "Is Chanel Perfume long-lasting?",
+        "information": "Yes, Chanel Perfume is known for its long-lasting fragrance, providing a lingering scent that evolves throughout the day. The longevity may vary depending on the specific fragrance concentration and application method."
+    },
+    {
+        "interaction_id": "IA0327",
+        "product_id": "P0109",
+        "product_name": "Chanel Perfume",
+        "query": "Does Chanel Perfume come in different sizes?",
+        "information": "Yes, Chanel Perfume is available in various bottle sizes, ranging from travel-friendly options to larger bottles, allowing you to choose the size that best suits your usage preferences."
+    },
+    {
+        "interaction_id": "IA0328",
+        "product_id": "P0110",
+        "product_name": "Estee Lauder Foundation",
+        "query": "What skin types is Estee Lauder Foundation suitable for?",
+        "information": "Estee Lauder Foundation is typically suitable for normal to dry skin types, offering high coverage and a radiant finish for a flawless complexion. It provides hydration and helps to even out skin tone."
+    },
+    {
+        "interaction_id": "IA0329",
+        "product_id": "P0110",
+        "product_name": "Estee Lauder Foundation",
+        "query": "Does Estee Lauder Foundation have SPF?",
+        "information": "Some variants of Estee Lauder Foundation are formulated with SPF (Sun Protection Factor) to help protect skin from UVA and UVB rays, providing additional sun protection alongside coverage."
+    },
+    {
+        "interaction_id": "IA0330",
+        "product_id": "P0110",
+        "product_name": "Estee Lauder Foundation",
+        "query": "What shades are available in Estee Lauder Foundation?",
+        "information": "Estee Lauder Foundation is available in a diverse range of shades to match different skin tones, from fair to deep, ensuring options that complement various ethnicities and undertones."
+    },
+    {
+        "interaction_id": "IA0331",
+        "product_id": "P0111",
+        "product_name": "Converse Chuck Taylor Sneakers",
+        "query": "Are Converse Chuck Taylor Sneakers suitable for everyday wear?",
+        "information": "Yes, Converse Chuck Taylor Sneakers are versatile and suitable for everyday wear. They are known for their comfort, durability, and classic design that complements various casual outfits."
+    },
+    {
+        "interaction_id": "IA0332",
+        "product_id": "P0111",
+        "product_name": "Converse Chuck Taylor Sneakers",
+        "query": "Do Converse Chuck Taylor Sneakers come in different colors?",
+        "information": "Yes, Converse Chuck Taylor Sneakers are available in a wide range of colors, allowing you to choose a style that matches your preferences and personal style."
+    },
+    {
+        "interaction_id": "IA0333",
+        "product_id": "P0111",
+        "product_name": "Converse Chuck Taylor Sneakers",
+        "query": "What sizes are available in Converse Chuck Taylor Sneakers?",
+        "information": "Converse Chuck Taylor Sneakers are typically available in sizes ranging from US 5 to US 13 for men and US 6 to US 14 for women, with half sizes also available for a more precise fit."
+    },
+    {
+        "interaction_id": "IA0334",
+        "product_id": "P0112",
+        "product_name": "Tommy Hilfiger Polo Shirt",
+        "query": "What materials is Tommy Hilfiger Polo Shirt made of?",
+        "information": "Tommy Hilfiger Polo Shirt is typically made from cotton or a cotton blend, offering a comfortable and breathable fabric that is ideal for casual wear."
+    },
+    {
+        "interaction_id": "IA0335",
+        "product_id": "P0112",
+        "product_name": "Tommy Hilfiger Polo Shirt",
+        "query": "Does Tommy Hilfiger Polo Shirt have any special care instructions?",
+        "information": "It's recommended to machine wash Tommy Hilfiger Polo Shirt in cold water and tumble dry on low heat to maintain fabric quality and color vibrancy over time."
+    },
+    {
+        "interaction_id": "IA0336",
+        "product_id": "P0112",
+        "product_name": "Tommy Hilfiger Polo Shirt",
+        "query": "What sizes are available in Tommy Hilfiger Polo Shirt?",
+        "information": "Tommy Hilfiger Polo Shirt is available in sizes ranging from XS to XXL, ensuring a comfortable fit for various body types and preferences."
+    },
+    {
+        "interaction_id": "IA0337",
+        "product_id": "P0113",
+        "product_name": "Samsung 8K QLED TV",
+        "query": "What are the key features of Samsung 8K QLED TV?",
+        "information": "Samsung 8K QLED TV features a stunning 8K resolution display, Quantum Dot technology for vibrant colors and high contrast, AI-powered upscaling for improved picture quality, and a sleek design with minimal bezels."
+    },
+    {
+        "interaction_id": "IA0338",
+        "product_id": "P0113",
+        "product_name": "Samsung 8K QLED TV",
+        "query": "Is Samsung 8K QLED TV compatible with HDR content?",
+        "information": "Yes, Samsung 8K QLED TV supports HDR (High Dynamic Range) content, enhancing the viewing experience by delivering greater detail in both bright and dark scenes, producing lifelike images."
+    },
+    {
+        "interaction_id": "IA0339",
+        "product_id": "P0113",
+        "product_name": "Samsung 8K QLED TV",
+        "query": "What smart features does Samsung 8K QLED TV offer?",
+        "information": "Samsung 8K QLED TV comes with built-in smart features, including access to streaming services, voice control capability, and compatibility with smart home devices for convenient integration."
+    },
+    {
+        "interaction_id": "IA0340",
+        "product_id": "P0114",
+        "product_name": "Guess Wallet",
+        "query": "How many compartments does Guess Wallet have?",
+        "information": "Guess Wallet typically features multiple compartments for cards, cash, and other essentials, providing organized storage and easy access to items."
+    },
+    {
+        "interaction_id": "IA0341",
+        "product_id": "P0114",
+        "product_name": "Guess Wallet",
+        "query": "Is Guess Wallet made from genuine leather?",
+        "information": "Guess Wallet may be crafted from genuine leather or synthetic materials, depending on the specific design. It's advisable to check product details for material composition."
+    },
+    {
+        "interaction_id": "IA0342",
+        "product_id": "P0114",
+        "product_name": "Guess Wallet",
+        "query": "What colors are available in Guess Wallet?",
+        "information": "Guess Wallet is available in various colors and patterns, allowing you to choose a style that suits your personal taste and complements your accessories."
+    },
+    {
+        "interaction_id": "IA0343",
+        "product_id": "P0115",
+        "product_name": "Revlon Lip Gloss",
+        "query": "What shades does Revlon Lip Gloss come in?",
+        "information": "Revlon Lip Gloss is available in a variety of shades, ranging from natural hues to bold colors, allowing you to achieve different looks and complement your makeup style."
+    },
+    {
+        "interaction_id": "IA0344",
+        "product_id": "P0115",
+        "product_name": "Revlon Lip Gloss",
+        "query": "Is Revlon Lip Gloss non-sticky?",
+        "information": "Yes, Revlon Lip Gloss is formulated to be non-sticky, providing a comfortable wear experience without feeling heavy or tacky on the lips."
+    },
+    {
+        "interaction_id": "IA0345",
+        "product_id": "P0115",
+        "product_name": "Revlon Lip Gloss",
+        "query": "Does Revlon Lip Gloss contain any fragrance?",
+        "information": "Revlon Lip Gloss may have a subtle fragrance that adds to the overall sensory experience, but it's generally designed to be light and pleasant."
+    },
+    {
+        "interaction_id": "IA0346",
+        "product_id": "P0116",
+        "product_name": "Mizuno Volleyball Shoes",
+        "query": "What features make Mizuno Volleyball Shoes suitable for indoor play?",
+        "information": "Mizuno Volleyball Shoes are designed with non-marking outsoles and cushioning to support quick movements and provide grip on indoor courts, enhancing performance and minimizing risk of slipping."
+    },
+    {
+        "interaction_id": "IA0347",
+        "product_id": "P0116",
+        "product_name": "Mizuno Volleyball Shoes",
+        "query": "Are Mizuno Volleyball Shoes suitable for wide feet?",
+        "information": "Yes, Mizuno Volleyball Shoes are available in wider sizes to accommodate different foot widths, ensuring a comfortable fit and support for players with wide feet."
+    },
+    {
+        "interaction_id": "IA0348",
+        "product_id": "P0116",
+        "product_name": "Mizuno Volleyball Shoes",
+        "query": "What materials are Mizuno Volleyball Shoes made of?",
+        "information": "Mizuno Volleyball Shoes are typically made from breathable mesh and synthetic overlays, providing durability, support, and ventilation for extended wear during intense indoor and outdoor games."
+    },
+    {
+        "interaction_id": "IA0349",
+        "product_id": "P0117",
+        "product_name": "Nike Air Max Sneakers",
+        "query": "What technology does Nike Air Max Sneakers use for cushioning?",
+        "information": "Nike Air Max Sneakers feature Max Air technology in the heel or throughout the sole, providing responsive cushioning and impact absorption for enhanced comfort during walking, running, or casual wear."
+    },
+    {
+        "interaction_id": "IA0350",
+        "product_id": "P0117",
+        "product_name": "Nike Air Max Sneakers",
+        "query": "Do Nike Air Max Sneakers come in different designs?",
+        "information": "Yes, Nike Air Max Sneakers are available in various designs and colorways, including classic and contemporary styles, allowing you to choose a pair that matches your personal preferences and wardrobe."
+    },
+    {
+        "interaction_id": "IA0351",
+        "product_id": "P0117",
+        "product_name": "Nike Air Max Sneakers",
+        "query": "Are Nike Air Max Sneakers suitable for outdoor activities?",
+        "information": "Nike Air Max Sneakers are designed for both indoor and outdoor activities, providing cushioning, support, and durability for various environments and terrains."
+    },
+    {
+        "interaction_id": "IA0352",
+        "product_id": "P0118",
+        "product_name": "Banana Republic Dress",
+        "query": "What occasions is Banana Republic Dress suitable for?",
+        "information": "Banana Republic Dress is suitable for a range of occasions, from work events to formal gatherings, offering a blend of elegance and modern style in its design."
+    },
+    {
+        "interaction_id": "IA0353",
+        "product_id": "P0118",
+        "product_name": "Banana Republic Dress",
+        "query": "Is Banana Republic Dress machine washable?",
+        "information": "It's recommended to check the care label on Banana Republic Dress for specific washing instructions. Some designs may be machine washable, while others may require dry cleaning to maintain fabric quality."
+    },
+    {
+        "interaction_id": "IA0354",
+        "product_id": "P0118",
+        "product_name": "Banana Republic Dress",
+        "query": "What sizes are available in Banana Republic Dress?",
+        "information": "Banana Republic Dress is typically available in sizes ranging from XS to XXL, catering to different body types and ensuring a comfortable fit for various customers."
+    },
+    {
+        "interaction_id": "IA0355",
+        "product_id": "P0119",
+        "product_name": "Sony WH-1000XM4 Headphones",
+        "query": "What makes Sony WH-1000XM4 Headphones suitable for travel?",
+        "information": "Sony WH-1000XM4 Headphones feature industry-leading noise cancellation technology, comfortable ear pads, and long battery life, making them ideal for reducing ambient noise during travel and providing an immersive listening experience."
+    },
+    {
+        "interaction_id": "IA0356",
+        "product_id": "P0119",
+        "product_name": "Sony WH-1000XM4 Headphones",
+        "query": "Do Sony WH-1000XM4 Headphones support Bluetooth connectivity?",
+        "information": "Yes, Sony WH-1000XM4 Headphones support Bluetooth connectivity, allowing wireless pairing with compatible devices for convenient audio streaming and hands-free calls."
+    },
+    {
+        "interaction_id": "IA0357",
+        "product_id": "P0119",
+        "product_name": "Sony WH-1000XM4 Headphones",
+        "query": "What is the battery life of Sony WH-1000XM4 Headphones?",
+        "information": "Sony WH-1000XM4 Headphones offer up to 30 hours of battery life on a single charge with noise cancellation activated, ensuring extended use without frequent recharging."
+    },
+    {
+        "interaction_id": "IA0358",
+        "product_id": "P0120",
+        "product_name": "Rolex Watch",
+        "query": "What materials is Rolex Watch made of?",
+        "information": "Rolex Watch may be crafted from high-quality materials such as stainless steel, gold, or platinum, depending on the model and design, ensuring durability, elegance, and timeless appeal."
+    },
+    {
+        "interaction_id": "IA0359",
+        "product_id": "P0120",
+        "product_name": "Rolex Watch",
+        "query": "Does Rolex Watch come with a warranty?",
+        "information": "Yes, Rolex Watch typically comes with an international warranty that covers manufacturing defects and ensures peace of mind regarding product authenticity and performance."
+    },
+    {
+        "interaction_id": "IA0360",
+        "product_id": "P0120",
+        "product_name": "Rolex Watch",
+        "query": "Are Rolex Watches water-resistant?",
+        "information": "Rolex Watches are designed to be water-resistant to varying depths depending on the model, making them suitable for everyday wear and some water-related activities."
+    }
+]
