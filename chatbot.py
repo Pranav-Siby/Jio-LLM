@@ -110,6 +110,9 @@ def generate_response(msg: str):
     if classification == 'irrelevant':
         return "Please ask a question related to the products in JioMart."
 
+    st.session_state.conversation_history.append(f"User: {msg}\n")
+    # st.session_state.conversation_history.append(f"Assistant: {response}\n")
+
     # Modify the query with last mentioned brand if necessary
     modified_prompt = modify_prompt_with_last_brand(msg, brand)
 
@@ -155,7 +158,6 @@ async def chat():
 
     if prompt := st.chat_input():
         st.session_state.messages.append({"role": "user", "content": prompt})
-        st.session_state.conversation_history.append(f"User: {prompt}\n")
         st.chat_message("user").write(prompt)
 
         if st.session_state.messages and st.session_state.messages[-1]["role"] != "assistant":
@@ -165,11 +167,12 @@ async def chat():
                         response = generate_response(prompt)
                         st.markdown(response)
                         st.session_state.messages.append({"role": "assistant", "content": response})
-                        st.session_state.conversation_history.append(f"Assistant: {response}\n")
+
                     except Exception as e:
                         st.error("An error occurred, we are working on it")
 
 
 if __name__ == "__main__":
     asyncio.run(chat())
+print(st.session_state.conversation_history)
 
